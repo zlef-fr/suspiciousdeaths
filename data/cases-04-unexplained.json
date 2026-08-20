@@ -1,0 +1,652 @@
+[
+{
+  "slug": "rudolf-diesel", "name": "Rudolf Diesel",
+  "born": "1858", "died": "1913-09-29", "age": 55,
+  "country": "INT", "place_en": "English Channel, aboard the SS Dresden", "place_fr": "Manche, à bord du SS Dresden",
+  "role_en": "Inventor of the compression-ignition engine",
+  "role_fr": "Inventeur du moteur à allumage par compression",
+  "category": "unexplained", "status": "unsolved",
+  "sectors": ["energy", "invention"],
+  "featured": true, "updated": "2026-08-20", "warned": false,
+  "ruling_en": "Never determined. His body was sighted by a Dutch steamer eleven days later; the crew took his effects but left the body at sea, so no autopsy was ever performed.",
+  "ruling_fr": "Jamais déterminée. Son corps a été aperçu par un vapeur néerlandais onze jours plus tard ; l’équipage a récupéré ses effets mais a laissé le corps à la mer, donc aucune autopsie n’a jamais été pratiquée.",
+  "summary_en": "Diesel vanished overnight crossing the Channel to London, where he was to meet the British about powering submarines, weeks before the arms race that preceded the First World War. His cabin bed was unslept in, his nightclothes laid out, his coat and hat folded on the deck rail, and a 6.15am wake-up call booked.",
+  "summary_fr": "Diesel a disparu de nuit en traversant la Manche vers Londres, où il devait rencontrer les Britanniques au sujet de la motorisation de sous-marins, quelques semaines avant la course aux armements qui a précédé la Première Guerre mondiale. Son lit n’avait pas été défait, ses vêtements de nuit étaient disposés, son manteau et son chapeau pliés sur le bastingage, et il avait commandé un réveil à 6 h 15.",
+  "detail_en": [
+    "The physical evidence points both ways and always has. Against suicide: the wake-up call, the untouched bed, the neatly folded clothing on the rail. For it: a small cross marked next to that day’s date in his diary, and serious debt from bad investments.",
+    "The two assassination theories name Kaiser Wilhelm II — enraged at Diesel dealing with Britain — and Standard Oil interests, on the grounds that an engine that could burn vegetable oil threatened the petroleum business. Neither has ever produced evidence. In 2023 Douglas Brunt argued instead for a covert British exfiltration to Canada. Nothing is proven."
+  ],
+  "detail_fr": [
+    "Les éléments matériels tirent dans les deux sens, et l’ont toujours fait. Contre le suicide : le réveil commandé, le lit intact, les vêtements pliés sur le bastingage. Pour : une petite croix tracée à la date du jour dans son agenda, et des dettes lourdes issues de mauvais placements.",
+    "Les deux thèses d’assassinat désignent Guillaume II — furieux de voir Diesel traiter avec les Britanniques — et des intérêts pétroliers, au motif qu’un moteur pouvant brûler de l’huile végétale menaçait le marché. Aucune n’a jamais produit de preuve. En 2023, Douglas Brunt a plutôt défendu une exfiltration britannique clandestine vers le Canada. Rien n’est démontré."
+  ],
+  "disputed_en": ["Booked a wake-up call for the following morning.", "Body never recovered, so no autopsy was possible."],
+  "disputed_fr": ["Il avait commandé un réveil pour le lendemain matin.", "Corps jamais récupéré, donc aucune autopsie possible."],
+  "holds_en": ["A cross marked at that date in his diary.", "Severe, documented debt."],
+  "holds_fr": ["Une croix tracée à cette date dans son agenda.", "Un endettement grave et documenté."],
+  "sources": [
+    { "t": "When the inventor of the diesel engine disappeared — Smithsonian", "u": "https://www.smithsonianmag.com/smart-news/when-inventor-diesel-engine-disappeared-180960635/" },
+    { "t": "Inventor Rudolf Diesel mysteriously vanishes — HISTORY", "u": "https://www.history.com/this-day-in-history/september-29/inventor-rudolf-diesel-vanishes" }
+  ],
+  "related": ["stanley-meyer", "tom-ogle"]
+},
+{
+  "slug": "vladimir-alexandrov", "name": "Vladimir Alexandrov",
+  "born": "1938", "died": "1985-03-31", "age": 47,
+  "country": "ES", "place_en": "Madrid, Spain", "place_fr": "Madrid, Espagne",
+  "role_en": "Soviet climate modeller, lead author of the nuclear winter simulations",
+  "role_fr": "Modélisateur climatique soviétique, auteur principal des simulations de l’hiver nucléaire",
+  "category": "unexplained", "status": "unsolved",
+  "sectors": ["physics", "nuclear"],
+  "featured": true, "updated": "2026-08-20", "warned": false,
+  "ruling_en": "No finding. He was never seen again and no body was ever found.",
+  "ruling_fr": "Aucune conclusion. Il n’a jamais été revu et aucun corps n’a été retrouvé.",
+  "summary_en": "Alexandrov ran the Soviet Academy of Sciences’ climate modelling laboratory and produced the simulations that made ‘nuclear winter’ a central argument for disarmament. He disappeared in Madrid on the margins of a conference and has never been traced.",
+  "summary_fr": "Alexandrov dirigeait le laboratoire de modèles climatiques de l’Académie des sciences soviétique et a produit les simulations qui ont fait de l’« hiver nucléaire » un argument central du désarmement. Il a disparu à Madrid en marge d’une conférence et n’a jamais été retrouvé.",
+  "detail_en": [
+    "He arrived at Barajas airport on 29 March 1985 and was last seen around 31 March. Witnesses in Madrid gave conflicting accounts of how much he resisted when driven towards the Soviet embassy.",
+    "The theories run in every direction: KGB abduction (particularly if he was about to soften his nuclear winter conclusions publicly), defection to the West, or a private disappearance. A Kennedy aide summarised the American position: ‘We asked the State Department and the CIA. We just couldn’t get a handle on it. He just disappeared.’"
+  ],
+  "detail_fr": [
+    "Il arrive à l’aéroport de Barajas le 29 mars 1985 et est vu pour la dernière fois vers le 31 mars. Les témoins madrilènes divergent sur son degré de résistance quand on l’a conduit vers l’ambassade soviétique.",
+    "Les hypothèses vont dans tous les sens : enlèvement par le KGB (surtout s’il s’apprêtait à nuancer publiquement ses conclusions sur l’hiver nucléaire), défection vers l’Ouest, ou disparition personnelle. Un conseiller de Ted Kennedy résumait la position américaine : « Nous avons demandé au Département d’État et à la CIA. Impossible d’y voir clair. Il a simplement disparu. »"
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "A Soviet scientist vanishes — UPI Archives", "u": "https://www.upi.com/Archives/1986/06/08/A-Soviet-scientist-vanishes/2124518587200" },
+    { "t": "Vladimir Alexandrov — Wikipedia", "u": "https://en.wikipedia.org/wiki/Vladimir_Alexandrov" }
+  ],
+  "related": ["boris-weisfeiler", "ettore-majorana"]
+},
+{
+  "slug": "ettore-majorana", "name": "Ettore Majorana",
+  "born": "1906", "died": "1938-03-27", "age": 31,
+  "country": "IT", "place_en": "Ferry, Palermo to Naples", "place_fr": "Ferry, Palerme–Naples",
+  "role_en": "Theoretical physicist, author of the Majorana fermion theory",
+  "role_fr": "Physicien théoricien, auteur de la théorie du fermion de Majorana",
+  "category": "unexplained", "status": "unsupported",
+  "sectors": ["physics", "nuclear"],
+  "featured": false, "updated": "2026-08-20", "warned": false,
+  "ruling_en": "Case reopened by Rome prosecutors in 2011 and closed in 2015: he was alive in Venezuela between 1955 and 1959, living voluntarily under the name Bini.",
+  "ruling_fr": "Dossier rouvert par le parquet de Rome en 2011 et clos en 2015 : il était vivant au Venezuela entre 1955 et 1959, y vivant volontairement sous le nom de Bini.",
+  "summary_en": "The disappearance of Fermi’s most gifted colleague is the classic ‘physicist who vanished’ case. In 2015 Rome prosecutors closed it with an answer: he was not killed and did not drown — he removed himself, most likely because he understood what his work on the atom implied.",
+  "summary_fr": "La disparition du collègue le plus doué de Fermi est le cas classique du « physicien évanoui ». En 2015, le parquet de Rome l’a close avec une réponse : il n’a pas été tué et ne s’est pas noyé — il s’est effacé, très probablement parce qu’il avait compris ce que son travail sur l’atome impliquait.",
+  "detail_en": [
+    "Majorana vanished on a boat between Palermo and Naples in March 1938. Fermi called him a genius on the level of Galileo and Newton.",
+    "Italian forensic police analysed a photograph taken in Venezuela in 1955 showing a man calling himself Bini, and found the facial anatomy matched when superimposed on Majorana’s father. A 1920 postcard from his physicist uncle, found in the man’s car, supported the identification. Prosecutors’ stated hypothesis: he took fright at the implications of his discoveries about the atom and chose to disappear."
+  ],
+  "detail_fr": [
+    "Majorana disparaît d’un bateau entre Palerme et Naples en mars 1938. Fermi le disait génie du niveau de Galilée et de Newton.",
+    "La police scientifique italienne a analysé une photo prise au Venezuela en 1955 montrant un homme se faisant appeler Bini, et a trouvé une correspondance anatomique du visage par superposition avec celui du père de Majorana. Une carte postale de 1920 de son oncle physicien, retrouvée dans la voiture de cet homme, a appuyé l’identification. Hypothèse retenue par les procureurs : il a pris peur des implications de ses découvertes sur l’atome et a choisi de disparaître."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "1938 disappearance: physicist Majorana ‘alive 1955-59’ — ANSA", "u": "https://www.ansa.it/english/news/science_tecnology/2015/02/04/majorana-alive-1955-59-update_81753c22-b5e6-40a8-a8c0-ca0b323a5823.html" },
+    { "t": "Italy closes case on physicist’s disappearance — SCMP", "u": "https://www.scmp.com/lifestyle/technology/article/1713456/science-focus-italy-closes-case-physicians-mysterious" }
+  ],
+  "related": ["vladimir-alexandrov"]
+},
+{
+  "slug": "joshua-dean", "name": "Joshua Dean",
+  "born": "1979", "died": "2024-04-30", "age": 45,
+  "country": "US", "place_en": "Wichita, Kansas", "place_fr": "Wichita (Kansas)",
+  "role_en": "Spirit AeroSystems quality auditor who flagged 737 MAX defects",
+  "role_fr": "Auditeur qualité chez Spirit AeroSystems, ayant signalé des défauts sur le 737 MAX",
+  "category": "unexplained", "status": "unsupported",
+  "sectors": ["aerospace", "whistleblowing"],
+  "featured": false, "updated": "2026-08-20", "warned": false,
+  "ruling_en": "Death from a fulminant infection: influenza, then pneumonia, then MRSA. No criminal investigation, no indication of foul play.",
+  "ruling_fr": "Mort d’une infection foudroyante : grippe, puis pneumonie, puis SARM. Aucune enquête criminelle, aucun indice d’acte criminel.",
+  "summary_en": "Dean reported misdrilled holes in a 737 MAX aft pressure bulkhead in October 2022 and gave evidence in a shareholder action. Healthy, athletic and 45, he went from first symptoms to death in about two weeks. What makes the case notable is not the medicine — it is that he was the second Boeing-linked whistleblower to die in under two months.",
+  "summary_fr": "Dean a signalé en octobre 2022 des perçages non conformes sur une cloison de pressurisation arrière du 737 MAX et a témoigné dans une action actionnariale. En bonne santé, sportif, 45 ans, il est passé des premiers symptômes à la mort en deux semaines environ. Ce qui rend le cas notable, ce n’est pas la médecine — c’est qu’il est le deuxième lanceur d’alerte lié à Boeing à mourir en moins de deux mois.",
+  "detail_en": [
+    "Dean was fired by Spirit in April 2023, in what his lawyers called retaliation. He was one of the few named quality auditors willing to describe the defect-tracking failures publicly.",
+    "In April 2024 he developed breathing difficulty, was intubated, and died on 30 April after diagnoses of influenza, pneumonia and MRSA. This entry is graded ‘not supported’ deliberately: no evidence of anything but a severe infection has ever been produced. It is here because the pattern-matching around it is the thing worth documenting."
+  ],
+  "detail_fr": [
+    "Dean a été licencié par Spirit en avril 2023, ce que ses avocats ont qualifié de représailles. Il était l’un des rares auditeurs qualité identifiés à accepter de décrire publiquement les défaillances de traçabilité des défauts.",
+    "En avril 2024, il développe une détresse respiratoire, est intubé et meurt le 30 avril après des diagnostics de grippe, pneumonie et SARM. Cette fiche est notée « non étayé » à dessein : aucune preuve d’autre chose qu’une infection sévère n’a jamais été produite. Elle figure ici parce que c’est la mise en série autour d’elle qui mérite d’être documentée."
+  ],
+  "disputed_en": ["The timing: the second Boeing-linked whistleblower to die within two months.", "He was 45, in good health, with no known risk factors."],
+  "disputed_fr": ["Le calendrier : deuxième lanceur d’alerte lié à Boeing à mourir en deux mois.", "Il avait 45 ans, était en bonne santé et sans facteur de risque connu."],
+  "holds_en": ["A documented, sequential clinical course with named pathogens.", "No police involvement, no autopsy finding of anything else."],
+  "holds_fr": ["Un tableau clinique documenté et séquentiel, avec des pathogènes nommés.", "Aucune intervention policière, aucun constat d’autopsie d’autre chose."],
+  "sources": [
+    { "t": "Spirit AeroSystems whistleblower dies after sudden infection — TIME", "u": "https://time.com/6973635/boeing-spirit-aerosystems-whistleblower-josh-dean-dead/" },
+    { "t": "Whistleblower Josh Dean has died — Seattle Times", "u": "https://www.seattletimes.com/business/whistleblower-josh-dean-of-boeing-supplier-spirit-aerosystems-has-died/" }
+  ],
+  "related": ["john-barnett"]
+},
+{
+  "slug": "michael-hastings", "name": "Michael Hastings",
+  "born": "1980", "died": "2013-06-18", "age": 33,
+  "country": "US", "place_en": "Hancock Park, Los Angeles", "place_fr": "Hancock Park, Los Angeles",
+  "role_en": "Journalist whose reporting ended General Stanley McChrystal’s command",
+  "role_fr": "Journaliste dont l’enquête a mis fin au commandement du général Stanley McChrystal",
+  "category": "unexplained", "status": "contested",
+  "sectors": ["journalism"],
+  "featured": false, "updated": "2026-08-20", "warned": true,
+  "warning_en": "About 13 hours before he died he emailed colleagues that ‘the Feds are interviewing my close friends and associates’, that he was onto a big story, and that he needed to go off the radar.",
+  "warning_fr": "Environ 13 heures avant sa mort, il écrivait à ses collègues que « les fédéraux interrogent mes proches et associés », qu’il tenait une grosse histoire et qu’il devait disparaître des radars.",
+  "ruling_en": "Accident (Los Angeles County Coroner): traumatic injuries. LAPD found no foul play. Methamphetamine and cannabis were found in his system.",
+  "ruling_fr": "Accident (coroner du comté de Los Angeles) : blessures traumatiques. Le LAPD n’a relevé aucun acte criminel. De la méthamphétamine et du cannabis ont été retrouvés dans son organisme.",
+  "summary_en": "Hastings’s Mercedes hit a palm tree at high speed and burned. Hours earlier he had emailed that the FBI was interviewing his associates; the FBI publicly denied ever investigating him, and a FOIA suit later showed he had in fact been on the Bureau’s radar for his reporting.",
+  "summary_fr": "La Mercedes de Hastings a percuté un palmier à grande vitesse et pris feu. Quelques heures plus tôt, il écrivait que le FBI interrogeait ses associés ; le FBI a publiquement démenti toute enquête le concernant, et une procédure FOIA a ensuite montré qu’il était bien dans le champ du Bureau pour ses reportages.",
+  "detail_en": [
+    "His widow confirmed he was working on a story about CIA director John Brennan for Rolling Stone. He had contacted a WikiLeaks lawyer to say the FBI was investigating him.",
+    "The FBI’s Los Angeles office stated that ‘at no time was journalist Michael Hastings ever under investigation by the FBI’. Documents released under FOIA later showed the Bureau had held material on him relating to his ‘controversial reporting’ — the denial was, at minimum, misleading. Against that: he had relapsed into drug use in the preceding month, and the coroner found meth and cannabis in his blood."
+  ],
+  "detail_fr": [
+    "Sa veuve a confirmé qu’il travaillait sur un article consacré au directeur de la CIA John Brennan pour Rolling Stone. Il avait contacté un avocat de WikiLeaks pour dire que le FBI enquêtait sur lui.",
+    "Le bureau du FBI de Los Angeles a déclaré qu’« à aucun moment le journaliste Michael Hastings n’a fait l’objet d’une enquête du FBI ». Des documents obtenus par FOIA ont ensuite montré que le Bureau détenait des éléments sur lui liés à ses « reportages controversés » — le démenti était au minimum trompeur. En sens inverse : il avait rechuté dans la consommation de drogues le mois précédent, et le coroner a trouvé de la méthamphétamine et du cannabis dans son sang."
+  ],
+  "disputed_en": ["A dated email hours before death describing federal interest in him.", "The FBI’s initial denial was contradicted by its own FOIA-released records."],
+  "disputed_fr": ["Un e-mail daté, quelques heures avant sa mort, décrivant l’intérêt des fédéraux pour lui.", "Le démenti initial du FBI a été contredit par ses propres documents libérés par FOIA."],
+  "holds_en": ["Documented relapse into stimulant use, confirmed by toxicology.", "No mechanical or forensic evidence of interference with the vehicle was found."],
+  "holds_fr": ["Rechute documentée dans la consommation de stimulants, confirmée par la toxicologie.", "Aucune preuve mécanique ou médico-légale d’une intervention sur le véhicule n’a été trouvée."],
+  "sources": [
+    { "t": "Hastings sent colleagues an email hours before crash — KTLA", "u": "https://ktla.com/news/local-news/exclusive-hastings-sent-colleagues-email-hours-before-crash/" },
+    { "t": "FBI denies investigating Michael Hastings — CBS News", "u": "https://www.cbsnews.com/news/fbi-denies-investigating-journalist-michael-hastings-before-his-death/" },
+    { "t": "Emails show FBI worked to debunk conspiracy theories — Vice", "u": "https://www.vice.com/en/article/primary-sources-emails-show-fbi-worked-to-debunk-conspiracy-theories-following-michael-hastings-death/" }
+  ],
+  "related": ["gary-webb", "danny-casolaro"]
+},
+{
+  "slug": "alexander-perepilichnyy", "name": "Alexander Perepilichnyy",
+  "born": "1968", "died": "2012-11-10", "age": 44,
+  "country": "GB", "place_en": "Weybridge, Surrey", "place_fr": "Weybridge (Surrey)",
+  "role_en": "Russian financier who supplied the evidence behind the Magnitsky case",
+  "role_fr": "Financier russe ayant fourni les preuves du dossier Magnitski",
+  "category": "unexplained", "status": "contested",
+  "sectors": ["finance", "whistleblowing"],
+  "featured": false, "updated": "2026-08-20", "warned": false,
+  "ruling_en": "Inquest (2018): no direct evidence of unlawful killing; poisoning ‘cannot be completely excluded’ but sudden cardiac death was ‘more likely than not’.",
+  "ruling_fr": "Enquête du coroner (2018) : aucune preuve directe d’homicide ; l’empoisonnement « ne peut être totalement exclu » mais la mort cardiaque subite est « plus probable qu’improbable ».",
+  "summary_en": "Perepilichnyy collapsed while jogging outside his Surrey home, days after returning from Paris. Traces of a rare toxic plant consistent with Gelsemium elegans — which grows only in Asia and is associated with contract poisonings — were found in his stomach.",
+  "summary_fr": "Perepilichnyy s’est effondré en joggant devant son domicile du Surrey, quelques jours après un retour de Paris. Des traces d’une plante toxique rare compatible avec Gelsemium elegans — qui ne pousse qu’en Asie et est associée à des empoisonnements commandités — ont été retrouvées dans son estomac.",
+  "detail_en": [
+    "He had fled Moscow and begun supplying Hermitage Capital with documents proving the $230 million tax fraud, after Sergei Magnitsky died in custody investigating the same scheme. His name appeared on a target list recovered from a third party.",
+    "The initial police investigation was criticised as inadequate. The 2018 inquest returned no unlawful-killing finding. French police subsequently treated the case as an assassination."
+  ],
+  "detail_fr": [
+    "Il avait fui Moscou et commencé à fournir à Hermitage Capital des documents prouvant la fraude fiscale de 230 millions de dollars, après la mort en détention de Sergueï Magnitski qui enquêtait sur le même montage. Son nom figurait sur une liste de cibles retrouvée chez un tiers.",
+    "L’enquête policière initiale a été critiquée comme insuffisante. L’enquête du coroner de 2018 n’a pas conclu à un homicide. La police française a ensuite traité le dossier comme un assassinat."
+  ],
+  "disputed_en": ["Traces consistent with Gelsemium elegans in the stomach.", "He was on a recovered target list.", "The initial police investigation was widely criticised as botched."],
+  "disputed_fr": ["Traces compatibles avec Gelsemium elegans dans l’estomac.", "Il figurait sur une liste de cibles retrouvée.", "L’enquête policière initiale a été largement jugée bâclée."],
+  "holds_en": ["The toxicological finding was never confirmed to the standard required.", "The coroner heard evidence he was not in fear for his life."],
+  "holds_fr": ["Le constat toxicologique n’a jamais été confirmé au niveau de preuve requis.", "Le coroner a entendu qu’il ne craignait pas pour sa vie."],
+  "sources": [
+    { "t": "Inquest finds no evidence of murder — BuzzFeed News", "u": "https://www.buzzfeed.com/janebradley/perepilichnyy-inquest-ruling-natural-causes" },
+    { "t": "French police investigating 2012 death as an ‘assassination’ — Globe and Mail", "u": "https://www.theglobeandmail.com/world/article-french-police-investigating-mysterious-2012-death-of-russian/" }
+  ],
+  "related": ["sergei-magnitsky", "nikolai-glushkov"]
+},
+{
+  "slug": "yuri-gagarin", "name": "Yuri Gagarin",
+  "born": "1934", "died": "1968-03-27", "age": 34,
+  "country": "RU", "place_en": "near Novosyolovo, USSR", "place_fr": "près de Novossiolovo, URSS",
+  "role_en": "First human in space",
+  "role_fr": "Premier homme dans l’espace",
+  "category": "unexplained", "status": "unsupported",
+  "sectors": ["aerospace"],
+  "featured": false, "updated": "2026-08-20", "warned": false,
+  "ruling_en": "Officially unresolved for 45 years. In 2013 cosmonaut Alexei Leonov, a member of the 1968 commission, disclosed a declassified report: a Su-15 on test passed within 20 metres, flipping the MiG-15 into an unrecoverable spin.",
+  "ruling_fr": "Officiellement non résolue pendant 45 ans. En 2013, le cosmonaute Alexeï Leonov, membre de la commission de 1968, a révélé un rapport déclassifié : un Su-15 en essai est passé à moins de 20 mètres, faisant basculer le MiG-15 dans une vrille irrécupérable.",
+  "summary_en": "Gagarin died on a routine training flight with instructor Vladimir Seryogin. The Soviet state offered a succession of unconvincing explanations and sealed the file for decades. The real cause — a wake-turbulence encounter with another test aircraft — was concealed to protect the other pilot.",
+  "summary_fr": "Gagarine est mort lors d’un vol d’entraînement de routine avec l’instructeur Vladimir Seriogine. L’État soviétique a livré une succession d’explications peu convaincantes et scellé le dossier pendant des décennies. La cause réelle — une rencontre avec le sillage d’un autre appareil d’essai — a été dissimulée pour protéger l’autre pilote.",
+  "detail_en": [
+    "Official versions over the years included a weather balloon, a bird strike, and an avoidance manoeuvre. None survived scrutiny, and the file stayed classified.",
+    "Leonov’s 2013 account, based on a declassified report and computer simulation, identifies a Su-15 flying far below its authorised altitude. The commission covered it up to shield the pilot, whom Leonov describes as famous, old and ill, and whose name he refuses to give. This is not an assassination — but it is a documented state cover-up of the cause of a death."
+  ],
+  "detail_fr": [
+    "Les versions officielles successives ont évoqué un ballon-sonde, une collision aviaire, une manœuvre d’évitement. Aucune n’a résisté à l’examen, et le dossier est resté classifié.",
+    "Le récit de Leonov en 2013, fondé sur un rapport déclassifié et une simulation informatique, identifie un Su-15 volant très en dessous de son altitude autorisée. La commission l’a dissimulé pour protéger le pilote, que Leonov décrit comme célèbre, âgé et malade, et dont il refuse de donner le nom. Ce n’est pas un assassinat — mais c’est une dissimulation d’État documentée sur la cause d’une mort."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "Details in death of Yuri Gagarin revealed 45 years later — Space.com", "u": "https://www.space.com/21594-yuri-gagarin-death-cause-revealed.html" },
+    { "t": "Death of Yuri Gagarin — Wikipedia", "u": "https://en.wikipedia.org/wiki/Death_of_Yuri_Gagarin" }
+  ],
+  "related": ["apollo-1", "thomas-baron"]
+},
+{
+  "slug": "william-mccasland", "name": "Maj. Gen. William Neil McCasland",
+  "born": "", "died": "2026-02-27", "age": null,
+  "country": "US", "place_en": "United States", "place_fr": "États-Unis",
+  "role_en": "Retired US Air Force major general, former commander of the Air Force Research Laboratory",
+  "role_fr": "Général de division de l’US Air Force en retraite, ancien commandant de l’Air Force Research Laboratory",
+  "category": "unexplained", "status": "unsolved",
+  "sectors": ["aerospace", "intelligence"],
+  "featured": true, "updated": "2026-08-20", "warned": false,
+  "ruling_en": "Missing. No explanation has been published.",
+  "ruling_fr": "Disparu. Aucune explication n’a été publiée.",
+  "summary_en": "McCasland commanded the Air Force Research Laboratory, one of the most senior positions in US military research and development. He was reported missing on 27 February 2026. His disappearance triggered the ‘missing scientists’ wave — and, unlike most of the cases pulled into it, it has never been accounted for.",
+  "summary_fr": "McCasland a commandé l’Air Force Research Laboratory, l’un des postes les plus élevés de la R&D militaire américaine. Il a été porté disparu le 27 février 2026. Sa disparition a déclenché la vague des « missing scientists » — et, contrairement à la plupart des cas qu’elle a agrégés, elle n’a jamais reçu d’explication.",
+  "detail_en": [
+    "The AFRL runs the US Air Force’s science and technology portfolio, including directed energy, space vehicles and advanced propulsion. A retired commander of it going missing without public explanation is, on its own, a significant fact.",
+    "His case is part of the review the FBI says it is coordinating with the Departments of Energy and Defense, NASA and local authorities. Nothing further has been made public."
+  ],
+  "detail_fr": [
+    "L’AFRL pilote le portefeuille science et technologie de l’US Air Force, dont l’énergie dirigée, les véhicules spatiaux et la propulsion avancée. Qu’un de ses anciens commandants disparaisse sans explication publique est en soi un fait notable.",
+    "Son dossier fait partie de la revue que le FBI dit coordonner avec les ministères de l’Énergie et de la Défense, la NASA et les autorités locales. Rien de plus n’a été rendu public."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "FBI investigating deaths and disappearances of lab staff — CBS News", "u": "https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" },
+    { "t": "Deaths and disappearances of scientists spark federal probe — CNN", "u": "https://www.cnn.com/2026/04/21/us/deaths-disappearances-scientists-investigation" }
+  ],
+  "related": ["missing-scientists-2026", "amy-eskridge", "matthew-sullivan"]
+},
+{
+  "slug": "matthew-sullivan", "name": "Matthew James Sullivan",
+  "born": "1985", "died": "2024-05-12", "age": 39,
+  "country": "US", "place_en": "Falls Church, Virginia", "place_fr": "Falls Church (Virginie)",
+  "role_en": "US Air Force veteran with top-secret clearance, due to be interviewed by Congress on UAP programmes",
+  "role_fr": "Vétéran de l’US Air Force habilité top secret, devant être auditionné par le Congrès sur les programmes UAP",
+  "category": "unexplained", "status": "contested",
+  "sectors": ["aerospace", "intelligence", "whistleblowing"],
+  "featured": false, "updated": "2026-08-20", "warned": false,
+  "ruling_en": "Accidental drug overdose (Northern Virginia Office of the Chief Medical Examiner): a lethal combination of alcohol, alprazolam, cyclobenzaprine and imipramine. Cause of death published two years later.",
+  "ruling_fr": "Surdose médicamenteuse accidentelle (bureau du médecin légiste en chef de Virginie du Nord) : combinaison létale d’alcool, d’alprazolam, de cyclobenzaprine et d’imipramine. Cause de la mort publiée deux ans plus tard.",
+  "summary_en": "Sullivan had agreed to be interviewed by lawmakers about alleged classified crash-retrieval programmes. He was found dead at home weeks before that interview. The medical examiner ruled accidental overdose; a congressman referred the death to the FBI.",
+  "summary_fr": "Sullivan avait accepté d’être auditionné par des parlementaires sur de prétendus programmes classifiés de récupération d’épaves. Il a été retrouvé mort chez lui quelques semaines avant cette audition. Le médecin légiste a conclu à une surdose accidentelle ; un élu a saisi le FBI.",
+  "detail_en": [
+    "Representative Eric Burlison referred the case to the FBI, citing national security implications and the timing relative to Sullivan’s planned testimony.",
+    "The two-year gap before the cause of death was published is itself part of why the case attracted attention. Nothing in the toxicology points to a third party; the combination is a recognised accidental-overdose pattern."
+  ],
+  "detail_fr": [
+    "Le représentant Eric Burlison a saisi le FBI, en invoquant des implications de sécurité nationale et le calendrier par rapport à l’audition prévue de Sullivan.",
+    "Les deux ans écoulés avant la publication de la cause de la mort expliquent en partie l’attention portée au dossier. Rien dans la toxicologie n’oriente vers un tiers ; l’association médicamenteuse constitue un schéma reconnu de surdose accidentelle."
+  ],
+  "disputed_en": ["He died weeks before a scheduled congressional interview.", "The cause of death was not published for two years."],
+  "disputed_fr": ["Il meurt quelques semaines avant une audition prévue au Congrès.", "La cause de la mort n’a pas été publiée pendant deux ans."],
+  "holds_en": ["The toxicology describes a well-recognised lethal drug combination.", "No evidence of a third party has been reported."],
+  "holds_fr": ["La toxicologie décrit une association médicamenteuse létale bien connue.", "Aucune preuve de tiers n’a été rapportée."],
+  "sources": [
+    { "t": "UAP witness died of accidental overdose before meeting with Congress — NewsNation", "u": "https://www.newsnationnow.com/space/ufo/uap-witness-overdose-death-congress/" },
+    { "t": "Missing scientists conspiracy theory — Wikipedia", "u": "https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" }
+  ],
+  "related": ["missing-scientists-2026", "william-mccasland", "amy-eskridge"]
+},
+{
+  "slug": "ning-li", "name": "Ning Li",
+  "born": "1943", "died": "2021-07-27", "age": 78,
+  "country": "US", "place_en": "Huntsville, Alabama", "place_fr": "Huntsville (Alabama)",
+  "role_en": "Physicist who proposed a practical route to antigravity effects using rotating superconductors",
+  "role_fr": "Physicienne ayant proposé une voie pratique vers des effets antigravitationnels par supraconducteurs en rotation",
+  "category": "unexplained", "status": "unsupported",
+  "sectors": ["physics", "aerospace"],
+  "featured": false, "updated": "2026-08-20", "warned": false,
+  "ruling_en": "Alzheimer’s disease, following permanent brain damage from being struck by a vehicle on campus in 2014.",
+  "ruling_fr": "Maladie d’Alzheimer, consécutive à des lésions cérébrales permanentes après avoir été renversée par un véhicule sur le campus en 2014.",
+  "summary_en": "Li’s work with Douglas Torr between 1991 and 1993 proposed producing antigravity effects with rotating superconductors; she left the University of Alabama in Huntsville in 1999 to pursue it commercially, and after a 2003 email the public record goes dark. The 20-year ‘disappearance’ has an ordinary explanation: a road accident.",
+  "summary_fr": "Les travaux de Li avec Douglas Torr, entre 1991 et 1993, proposaient de produire des effets antigravitationnels avec des supraconducteurs en rotation ; elle quitte l’université d’Alabama à Huntsville en 1999 pour les exploiter commercialement, et après un e-mail de 2003, la trace publique s’arrête. La « disparition » de vingt ans a une explication ordinaire : un accident de la route.",
+  "detail_en": [
+    "Li founded AC Gravity LLC and obtained a US Department of Defense contract. Her last known communication, in May 2003, described experimental results to colleagues. Nothing was heard from her after that, which fed two decades of speculation about suppression.",
+    "Her son later explained what happened: in 2014 she was struck by a vehicle while crossing the street on the UAH campus, suffering permanent brain damage and developing Alzheimer’s disease shortly afterwards. She died in that condition in 2021. Her research did stop dead and was never reproduced — but it stopped because of a car."
+  ],
+  "detail_fr": [
+    "Li a fondé AC Gravity LLC et obtenu un contrat du ministère américain de la Défense. Sa dernière communication connue, en mai 2003, décrivait des résultats expérimentaux à des collègues. Plus rien ensuite, ce qui a nourri vingt ans de spéculations sur une mise au silence.",
+    "Son fils a ensuite expliqué ce qui s’était passé : en 2014, elle a été renversée par un véhicule en traversant la rue sur le campus de l’UAH, subissant des lésions cérébrales permanentes et développant peu après une maladie d’Alzheimer. Elle est morte dans cet état en 2021. Ses recherches se sont bien arrêtées net et n’ont jamais été reproduites — mais elles se sont arrêtées à cause d’une voiture."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "Ning Li (physicist) — Wikipedia", "u": "https://en.wikipedia.org/wiki/Ning_Li_(physicist)" },
+    { "t": "Uncovering the mystery of Huntsville’s anti-gravity scientist — Huntsville Business Journal", "u": "https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" }
+  ],
+  "related": ["amy-eskridge", "eugene-podkletnov"]
+},
+{
+  "slug": "alberto-behar", "name": "Alberto Behar",
+  "born": "1967", "died": "2015-01-09", "age": 47,
+  "country": "US", "place_en": "Lake Balboa, Los Angeles", "place_fr": "Lake Balboa, Los Angeles",
+  "role_en": "NASA JPL robotics scientist, investigation scientist on Curiosity and Mars Odyssey instruments",
+  "role_fr": "Chercheur en robotique au JPL de la NASA, investigation scientist sur des instruments de Curiosity et Mars Odyssey",
+  "category": "unexplained", "status": "unsupported",
+  "sectors": ["aerospace"],
+  "featured": false, "updated": "2026-08-20", "warned": false,
+  "ruling_en": "General aviation accident: his experimental single-engine Lancair came down shortly after take-off from Van Nuys.",
+  "ruling_fr": "Accident d’aviation générale : son Lancair expérimental monomoteur s’est abattu peu après le décollage de Van Nuys.",
+  "summary_en": "Behar spent 23 years at JPL building robots for extreme environments — submarines and rovers under the Antarctic and Greenland ice sheets — and worked on Mars instruments. He died flying his own experimental aircraft. He appears on ‘dead NASA scientists’ lists with nothing whatsoever connecting him to them.",
+  "summary_fr": "Behar a passé 23 ans au JPL à construire des robots pour milieux extrêmes — sous-marins et rovers sous les calottes antarctique et groenlandaise — et travaillé sur des instruments martiens. Il est mort aux commandes de son propre avion expérimental. Il figure sur les listes de « scientifiques de la NASA morts » sans que rien ne l’y rattache.",
+  "detail_en": [
+    "Behar commuted between Scottsdale, Arizona and Pasadena in the aircraft. It crashed into a street intersection in Lake Balboa on 9 January 2015. He was the sole occupant.",
+    "This entry exists to be a control case: a genuine, prominent NASA scientist whose death is fully explained, routinely used to pad lists that need names."
+  ],
+  "detail_fr": [
+    "Behar faisait la navette entre Scottsdale (Arizona) et Pasadena avec cet appareil. Il s’est écrasé sur un carrefour de Lake Balboa le 9 janvier 2015. Il était seul à bord.",
+    "Cette fiche existe comme cas témoin : un vrai scientifique de la NASA, éminent, dont la mort est totalement expliquée, et régulièrement utilisé pour gonfler des listes qui ont besoin de noms."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "JPL scientist Alberto Behar remembered — NASA JPL", "u": "https://www.jpl.nasa.gov/news/jpl-scientist-alberto-behar-remembered/" },
+    { "t": "JPL discusses death of renowned scientist in Van Nuys plane crash — CBS Los Angeles", "u": "https://www.cbsnews.com/losangeles/news/jpl-discusses-death-of-renowned-scientist-in-van-nuys-plane-crash/" }
+  ],
+  "related": ["missing-scientists-2026"]
+},
+{
+  "slug": "tom-ogle", "name": "Tom Ogle",
+  "born": "1955", "died": "1981-08-19", "age": 26,
+  "country": "US", "place_en": "El Paso, Texas", "place_fr": "El Paso (Texas)",
+  "role_en": "Inventor of a fuel-vaporisation system claimed to deliver 100 mpg",
+  "role_fr": "Inventeur d’un système de vaporisation du carburant revendiquant 100 mpg",
+  "category": "unexplained", "status": "unsolved",
+  "sectors": ["energy", "invention"],
+  "featured": true, "updated": "2026-08-20", "warned": false,
+  "ruling_en": "Death from an overdose of alcohol and the prescription drug Darvon (propoxyphene), four months after being shot by an unidentified assailant who was never caught.",
+  "ruling_fr": "Mort par surdose d’alcool et de Darvon (propoxyphène), un médicament sur ordonnance, quatre mois après avoir été blessé par balle par un agresseur jamais identifié.",
+  "summary_en": "Ogle patented a system that vaporised petrol before combustion and demonstrated it in 1977 on a 1970 Ford Galaxie, claiming 100 miles per gallon. On 14 April 1981 he was shot by an unknown assailant; police posted officers outside his hospital room. He died four months later of an overdose. The shooting was never solved — and the 100 mpg claim was never independently verified.",
+  "summary_fr": "Ogle a breveté un système vaporisant l’essence avant combustion et l’a démontré en 1977 sur une Ford Galaxie de 1970, en revendiquant 100 miles par gallon. Le 14 avril 1981, il est atteint par balle par un inconnu ; la police a posté des agents devant sa chambre d’hôpital. Il meurt quatre mois plus tard d’une surdose. Le tir n’a jamais été élucidé — et la revendication de 100 mpg n’a jamais été vérifiée indépendamment.",
+  "detail_en": [
+    "The patent was real and granted. The demonstration drew national press. But Ogle never released full technical specifications, never allowed thorough independent testing, and the figure was never reproduced. He was also in financial difficulty and in conflict with investors.",
+    "Both halves of this case have to be held at once: someone shot him and was never identified, which is a genuine unsolved crime; and his invention, on the available evidence, was not what he said it was."
+  ],
+  "detail_fr": [
+    "Le brevet était réel et délivré. La démonstration a attiré la presse nationale. Mais Ogle n’a jamais livré de spécifications techniques complètes, jamais autorisé de test indépendant approfondi, et le chiffre n’a jamais été reproduit. Il était par ailleurs en difficulté financière et en conflit avec ses investisseurs.",
+    "Il faut tenir les deux moitiés du dossier en même temps : quelqu’un lui a tiré dessus sans jamais être identifié, ce qui est un vrai crime non élucidé ; et son invention, au vu des éléments disponibles, n’était pas ce qu’il en disait."
+  ],
+  "disputed_en": ["He was shot four months before he died and the gunman was never found.", "Police guarded his hospital room, implying they took a threat seriously."],
+  "disputed_fr": ["Il a été blessé par balle quatre mois avant sa mort et le tireur n’a jamais été retrouvé.", "La police a fait garder sa chambre d’hôpital, ce qui suggère qu’elle prenait une menace au sérieux."],
+  "holds_en": ["The overdose combination is a common accidental-death pattern of the period.", "He had been drinking in a bar and collapsed at a friend’s house."],
+  "holds_fr": ["L’association en cause est un schéma courant de mort accidentelle à cette époque.", "Il avait bu dans un bar et s’est effondré chez un ami."],
+  "sources": [
+    { "t": "Mysterious deaths: Tom Ogle — El Paso Community College Borderlands", "u": "https://epcc.libguides.com/c.php?g=754275&p=5406552" },
+    { "t": "Myth busted: the 100 mpg carburetor — CarBuzz", "u": "https://carbuzz.com/the-100-mpg-carburetor-and-why-its-a-myth/" }
+  ],
+  "related": ["stanley-meyer", "rudolf-diesel", "paul-pantone"]
+},
+{
+  "slug": "wilhelm-reich", "name": "Wilhelm Reich",
+  "born": "1897", "died": "1957-11-03", "age": 60,
+  "country": "US", "place_en": "Lewisburg Federal Penitentiary, Pennsylvania", "place_fr": "Pénitencier fédéral de Lewisburg (Pennsylvanie)",
+  "role_en": "Psychoanalyst turned theorist of ‘orgone energy’, imprisoned for contempt",
+  "role_fr": "Psychanalyste devenu théoricien de l’« énergie d’orgone », emprisonné pour outrage",
+  "category": "unexplained", "status": "established",
+  "sectors": ["medicine", "invention"],
+  "featured": true, "updated": "2026-08-20", "warned": false,
+  "ruling_en": "Heart failure in federal custody, days before a parole hearing. The death is not disputed. What is documented, and extraordinary, is what preceded it.",
+  "ruling_fr": "Insuffisance cardiaque en détention fédérale, quelques jours avant une audience de libération conditionnelle. La mort n’est pas contestée. Ce qui est documenté, et extraordinaire, c’est ce qui l’a précédée.",
+  "summary_en": "This is the best-documented case in the record of a Western state physically destroying a body of scientific work. On 23 August 1956, FDA agents supervised the burning of roughly six tons of Reich’s publications in a New York incinerator. He died in a federal penitentiary fourteen months later.",
+  "summary_fr": "C’est le cas le mieux documenté de ce relevé où un État occidental détruit physiquement un corpus scientifique. Le 23 août 1956, des agents de la FDA ont supervisé l’incinération d’environ six tonnes de publications de Reich dans un incinérateur new-yorkais. Il est mort dans un pénitencier fédéral quatorze mois plus tard.",
+  "detail_en": [
+    "In 1954 the FDA obtained an injunction barring the interstate transport of orgone accumulators and of the literature associated with them. Reich refused to appear, arguing that no judge was competent to rule on cosmic energy. When an associate shipped an accumulator part to an undercover agent, he was charged with contempt and sentenced in 1956 to two years.",
+    "His books were withdrawn from circulation and his journals and devices seized and burned in the presence of FDA representatives. He died of heart failure at Lewisburg on 3 November 1957.",
+    "The science of orgone is invalid. The book burning is a fact — one of very few ordered by a US federal agency — and it is why this case belongs in any honest record of suppressed research."
+  ],
+  "detail_fr": [
+    "En 1954, la FDA obtient une injonction interdisant le transport inter-États des accumulateurs d’orgone et de la littérature associée. Reich refuse de comparaître, estimant qu’aucun juge n’est compétent pour statuer sur l’énergie cosmique. Quand un associé expédie une pièce d’accumulateur à un agent infiltré, il est poursuivi pour outrage et condamné en 1956 à deux ans.",
+    "Ses livres sont retirés de la circulation, ses revues et ses appareils saisis et brûlés en présence de représentants de la FDA. Il meurt d’insuffisance cardiaque à Lewisburg le 3 novembre 1957.",
+    "La science de l’orgone est invalide. L’autodafé, lui, est un fait — l’un des très rares ordonnés par une agence fédérale américaine — et c’est pourquoi ce cas a sa place dans tout relevé honnête de la recherche supprimée."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "Wilhelm Reich — Wikipedia", "u": "https://en.wikipedia.org/wiki/Wilhelm_Reich" },
+    { "t": "American Inquisition: the FDA’s persecution of Wilhelm Reich — Reason", "u": "https://reason.com/1980/01/01/american-inquisition-the-fdas/" }
+  ],
+  "related": ["paul-pantone", "viktor-schauberger"]
+},
+{
+  "slug": "viktor-schauberger", "name": "Viktor Schauberger",
+  "born": "1885", "died": "1958-09-25", "age": 73,
+  "country": "AT", "place_en": "Linz, Austria", "place_fr": "Linz, Autriche",
+  "role_en": "Austrian forester and theorist of ‘implosion’ vortex fluid dynamics",
+  "role_fr": "Forestier autrichien et théoricien de l’« implosion », dynamique des fluides en vortex",
+  "category": "unexplained", "status": "contested",
+  "sectors": ["energy", "invention"],
+  "featured": false, "updated": "2026-08-20", "warned": false,
+  "ruling_en": "Natural death five days after returning from the United States, where he had signed away his rights and undertaken to stop his research. No autopsy, no criminal element.",
+  "ruling_fr": "Mort naturelle cinq jours après son retour des États-Unis, où il avait cédé ses droits et s’était engagé à cesser ses recherches. Aucune autopsie, aucun élément criminel.",
+  "summary_en": "Schauberger was flown to Texas in 1958 by two men who promised to industrialise his work. He took all his documents and prototypes. He came back with none of them, having signed a contract ceding his rights and barring further research, and died within days.",
+  "summary_fr": "Schauberger a été emmené au Texas en 1958 par deux hommes qui promettaient d’industrialiser ses travaux. Il a emporté tous ses documents et prototypes. Il est revenu sans aucun d’eux, après avoir signé un contrat cédant ses droits et lui interdisant toute recherche, et il est mort quelques jours plus tard.",
+  "detail_en": [
+    "His papers and drawings had already been confiscated once, by Allied agents after 1945. In the winter of 1958 he was persuaded to travel to Texas for what was described as a three-month project, and was asked to write down everything he knew.",
+    "He concluded the project was a sham. To be allowed home he signed an agreement ceding rights to his work and undertaking to abandon implosion research; the documents, models and equipment stayed in the United States. He died five days after landing, reportedly repeating that they had taken everything from him. The dispossession is documented; any causal link to his death, at 73 and exhausted, is not."
+  ],
+  "detail_fr": [
+    "Ses documents et dessins avaient déjà été confisqués une fois, par des agents alliés après 1945. À l’hiver 1958, on le convainc de partir au Texas pour ce qui est présenté comme un projet de trois mois, et on lui demande de consigner par écrit tout ce qu’il sait.",
+    "Il conclut que le projet est un leurre. Pour être autorisé à rentrer, il signe un accord cédant les droits sur ses travaux et s’engageant à abandonner les recherches sur l’implosion ; documents, modèles et matériel restent aux États-Unis. Il meurt cinq jours après son atterrissage, en répétant selon les témoignages qu’on lui avait tout pris. La dépossession est documentée ; tout lien causal avec la mort d’un homme de 73 ans épuisé ne l’est pas."
+  ],
+  "disputed_en": ["He died within days of a coerced signature ceding all his work.", "The documents and prototypes were never returned."],
+  "disputed_fr": ["Il meurt quelques jours après une signature contrainte cédant l’ensemble de ses travaux.", "Les documents et prototypes n’ont jamais été restitués."],
+  "holds_en": ["He was 73, in poor health and had just made a long and distressing journey.", "No autopsy was performed and no criminal element was ever alleged by investigators."],
+  "holds_fr": ["Il avait 73 ans, était en mauvaise santé et venait de faire un voyage long et éprouvant.", "Aucune autopsie n’a été pratiquée et aucun élément criminel n’a jamais été allégué par des enquêteurs."],
+  "sources": [
+    { "t": "Viktor Schauberger — Wikipedia", "u": "https://en.wikipedia.org/wiki/Viktor_Schauberger" },
+    { "t": "Biographical note", "u": "https://www.hexagonalwater.com/viktor_schauberger.html" }
+  ],
+  "related": ["wilhelm-reich", "nikola-tesla", "maurice-ward"]
+},
+{
+  "slug": "bruce-depalma", "name": "Bruce DePalma",
+  "born": "1935", "died": "1997-10-02", "age": 61,
+  "country": "NZ", "place_en": "Auckland, New Zealand", "place_fr": "Auckland, Nouvelle-Zélande",
+  "role_en": "MIT-trained physicist, builder of the ‘N-machine’ homopolar generator",
+  "role_fr": "Physicien formé au MIT, constructeur du générateur homopolaire « N-machine »",
+  "category": "unexplained", "status": "unsupported",
+  "sectors": ["energy", "invention"],
+  "featured": false, "updated": "2026-08-20", "warned": false,
+  "ruling_en": "Most likely an alcohol-related illness. No suspicious circumstances reported.",
+  "ruling_fr": "Très probablement une pathologie liée à l’alcool. Aucune circonstance suspecte rapportée.",
+  "summary_en": "DePalma taught physics at MIT for fifteen years under Harold Edgerton before claiming that his homopolar generator produced five times the energy it consumed. He died in Auckland weeks before the official test of a device built over six months.",
+  "summary_fr": "DePalma a enseigné la physique au MIT pendant quinze ans sous Harold Edgerton avant d’affirmer que son générateur homopolaire produisait cinq fois l’énergie consommée. Il est mort à Auckland quelques semaines avant le test officiel d’un appareil construit en six mois.",
+  "detail_en": [
+    "The N-machine derives from the Faraday disc. Mainstream physics holds that no such over-unity device is possible, and none of DePalma’s claims were independently replicated.",
+    "The timing — dying weeks before a scheduled test — is the entire basis for the suspicion. The recorded cause is mundane and there is no reported evidence to the contrary. Included as a documented example of a striking coincidence that does not survive examination."
+  ],
+  "detail_fr": [
+    "La N-machine dérive du disque de Faraday. La physique établie considère qu’aucun dispositif à rendement supérieur à l’unité n’est possible, et aucune des affirmations de DePalma n’a été répliquée indépendamment.",
+    "Le calendrier — mourir quelques semaines avant un test programmé — constitue toute la base du soupçon. La cause consignée est banale et aucun élément contraire n’a été rapporté. Inclus comme exemple documenté d’une coïncidence frappante qui ne résiste pas à l’examen."
+  ],
+  "disputed_en": ["He died weeks before the scheduled official test of the machine."],
+  "disputed_fr": ["Il meurt quelques semaines avant le test officiel programmé de la machine."],
+  "holds_en": ["A documented, ordinary cause of death.", "The claimed effect violates conservation of energy and was never replicated."],
+  "holds_fr": ["Une cause de mort ordinaire et documentée.", "L’effet revendiqué viole la conservation de l’énergie et n’a jamais été répliqué."],
+  "sources": [
+    { "t": "Commentary on the death of Bruce DePalma — INE", "u": "http://padrak.com/ine/DEPALMA2.html" },
+    { "t": "Homopolar generator — Wikipedia (talk/history)", "u": "https://en.wikipedia.org/wiki/Talk:Homopolar_generator" }
+  ],
+  "related": ["stanley-meyer", "eugene-mallove"]
+},
+{
+  "slug": "maurice-ward", "name": "Maurice Ward",
+  "born": "1933", "died": "2011-05-01", "age": 78,
+  "country": "GB", "place_en": "Hartlepool, England", "place_fr": "Hartlepool, Angleterre",
+  "role_en": "Hairdresser and inventor of Starlite, an extreme thermal-barrier material",
+  "role_fr": "Coiffeur et inventeur de Starlite, un matériau barrière thermique extrême",
+  "category": "unexplained", "status": "unsupported",
+  "sectors": ["invention"],
+  "featured": false, "updated": "2026-08-20", "warned": false,
+  "ruling_en": "Ordinary death. No suspicious circumstances of any kind.",
+  "ruling_fr": "Mort ordinaire. Aucune circonstance suspecte d’aucune sorte.",
+  "summary_en": "Starlite survived a blowtorch and a laser on live television, and drew interest from Boeing, ICI, the UK Ministry of Defence and AWE. Ward never patented it, demanded to keep 51% of any deal, and died with the formula. It is the cleanest example in this record of an invention lost with no assassin required.",
+  "summary_fr": "Starlite a résisté à un chalumeau et à un laser en direct à la télévision, et a intéressé Boeing, ICI, le ministère britannique de la Défense et l’AWE. Ward ne l’a jamais breveté, exigeait de conserver 51 % de tout accord, et est mort avec la formule. C’est l’exemple le plus net de ce relevé d’une invention perdue sans qu’aucun assassin soit nécessaire.",
+  "detail_en": [
+    "Ward refused to patent Starlite specifically because patenting requires disclosure. Every negotiation collapsed over his insistence on majority control.",
+    "He died in 2011 and, according to a 2016 BBC broadcast, took the formula with him. Thermashield LLC says it bought the formula and rights from his widow in 2013. Whatever the truth of that, the working knowledge left the world through the ordinary mechanism of one man dying without writing it down."
+  ],
+  "detail_fr": [
+    "Ward a refusé de breveter Starlite précisément parce qu’un brevet impose la divulgation. Toutes les négociations ont échoué sur son exigence de contrôle majoritaire.",
+    "Il est mort en 2011 et, selon une émission de la BBC de 2016, a emporté la formule avec lui. Thermashield LLC affirme avoir racheté la formule et les droits à sa veuve en 2013. Quoi qu’il en soit, le savoir opérationnel a quitté le monde par le mécanisme le plus ordinaire : un homme est mort sans l’avoir écrit."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "Maurice Ward — Wikipedia", "u": "https://en.wikipedia.org/wiki/Maurice_Ward" },
+    { "t": "Wish upon a Starlite — MRS Bulletin", "u": "https://link.springer.com/article/10.1557/mrs.2019.92" }
+  ],
+  "related": ["viktor-schauberger", "nikola-tesla"]
+},
+{
+  "slug": "paul-pantone", "name": "Paul Pantone",
+  "born": "1950", "died": "", "age": null,
+  "country": "US", "place_en": "Utah State Hospital, Provo, Utah", "place_fr": "Utah State Hospital, Provo (Utah)",
+  "role_en": "Inventor of the GEET fuel processor; committed to a state psychiatric hospital while awaiting sentencing",
+  "role_fr": "Inventeur du processeur de carburant GEET ; interné en hôpital psychiatrique d’État en attente de jugement",
+  "category": "unexplained", "status": "unsupported",
+  "sectors": ["energy", "invention"],
+  "featured": false, "updated": "2026-08-20", "warned": false,
+  "ruling_en": "Not a death. Convicted of securities fraud; held at the Utah State Hospital from March 2006 for several years awaiting sentencing, then released.",
+  "ruling_fr": "Pas un décès. Condamné pour fraude sur les valeurs mobilières ; détenu à l’Utah State Hospital à partir de mars 2006 pendant plusieurs années en attente de jugement, puis libéré.",
+  "summary_en": "Pantone is in this record precisely because he did not die. His case shows the mechanism that actually removes an inconvenient inventor from circulation: a securities prosecution and an involuntary psychiatric commitment lasting years before sentencing.",
+  "summary_fr": "Pantone figure dans ce relevé précisément parce qu’il n’est pas mort. Son cas montre le mécanisme qui écarte réellement un inventeur gênant : une poursuite boursière et une hospitalisation d’office de plusieurs années avant jugement.",
+  "detail_en": [
+    "Pantone pleaded guilty to securities fraud in 2004 and was charged in Utah with two further counts over roughly $200,000 taken from investors. His supporters describe the psychiatric commitment as a way of silencing him; the procedural version is that he was found unfit to proceed.",
+    "That he was a convicted fraudster does not make several years of pre-sentencing psychiatric detention unremarkable. Both things are true, and the case is graded ‘not supported’ only as to the claim that he was killed or disappeared — because he was neither."
+  ],
+  "detail_fr": [
+    "Pantone a plaidé coupable de fraude sur les valeurs mobilières en 2004 et a été poursuivi dans l’Utah pour deux chefs supplémentaires portant sur environ 200 000 dollars soustraits à des investisseurs. Ses partisans décrivent l’internement comme un moyen de le faire taire ; la version procédurale est qu’il a été jugé inapte à comparaître.",
+    "Qu’il ait été un escroc condamné ne rend pas anodines plusieurs années de détention psychiatrique avant jugement. Les deux sont vrais, et la fiche est notée « non étayé » uniquement quant à l’affirmation qu’il aurait été tué ou aurait disparu — car il n’a été ni l’un ni l’autre."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "Paul Pantone — archived biographical article", "u": "https://wikibin.org/articles/paul-pantone.html" },
+    { "t": "Oklahoma survivalist claims motor will run on anything — SPLC", "u": "https://www.splcenter.org/resources/reports/oklahoma-survivalist-claims-motor-will-run-anything/" }
+  ],
+  "related": ["wilhelm-reich", "stanley-meyer", "tom-ogle"]
+},
+{
+  "slug": "eugene-podkletnov", "name": "Eugene Podkletnov",
+  "born": "1955", "died": "", "age": null,
+  "country": "INT", "place_en": "Tampere University of Technology, Finland", "place_fr": "Université technologique de Tampere, Finlande",
+  "role_en": "Ceramics engineer who reported a ‘gravity shielding’ effect above rotating superconductors",
+  "role_fr": "Ingénieur céramiste ayant rapporté un effet de « blindage gravitationnel » au-dessus de supraconducteurs en rotation",
+  "category": "unexplained", "status": "unsupported",
+  "sectors": ["physics"],
+  "featured": false, "updated": "2026-08-20", "warned": false,
+  "ruling_en": "Not a death. Evicted from his laboratory in 1997 after the story leaked; his co-author withdrew, the paper was pulled before publication, and NASA’s replication attempt found nothing.",
+  "ruling_fr": "Pas un décès. Expulsé de son laboratoire en 1997 après la fuite dans la presse ; son coauteur s’est retiré, l’article a été retiré avant publication, et la tentative de réplication de la NASA n’a rien trouvé.",
+  "summary_en": "Podkletnov is the control case for the whole ‘suppressed inventor’ genre. He is alive. What was destroyed was his career — by his own institution, through embarrassment, in the ordinary way.",
+  "summary_fr": "Podkletnov est le cas témoin de tout le genre « inventeur supprimé ». Il est vivant. Ce qui a été détruit, c’est sa carrière — par sa propre institution, par embarras, de la manière la plus ordinaire.",
+  "detail_en": [
+    "In 1992 he reported that objects above a rotating superconducting disc lost a small fraction of their weight. After the Sunday Telegraph broke the story in 1996, Tampere University of Technology evicted him from his laboratory.",
+    "NASA’s Marshall Space Flight Center ran a replication programme (Delta-g) and produced no positive result. This is what actually happens to heterodox research: institutional exclusion, not assassination."
+  ],
+  "detail_fr": [
+    "En 1992, il rapporte que des objets placés au-dessus d’un disque supraconducteur en rotation perdent une petite fraction de leur poids. Après la révélation du Sunday Telegraph en 1996, l’université technologique de Tampere l’expulse de son laboratoire.",
+    "Le Marshall Space Flight Center de la NASA a mené un programme de réplication (Delta-g) sans résultat positif. Voilà ce qui arrive réellement à une recherche hétérodoxe : l’exclusion institutionnelle, pas l’assassinat."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "Eugene Podkletnov — Wikipedia", "u": "https://en.wikipedia.org/wiki/Eugene_Podkletnov" }
+  ],
+  "related": ["ning-li", "amy-eskridge"]
+},
+{
+  "slug": "aaron-swartz", "name": "Aaron Swartz",
+  "born": "1986", "died": "2013-01-11", "age": 26,
+  "country": "US", "place_en": "Brooklyn, New York", "place_fr": "Brooklyn, New York",
+  "role_en": "Co-author of RSS 1.0, Reddit co-founder, open-access campaigner",
+  "role_fr": "Coauteur de RSS 1.0, cofondateur de Reddit, militant de l’accès ouvert",
+  "category": "unexplained", "status": "unsupported",
+  "sectors": ["ai", "justice", "whistleblowing"],
+  "featured": false, "updated": "2026-08-20", "warned": false,
+  "ruling_en": "Suicide. Not disputed. Included as a documented case of death under disproportionate state pressure.",
+  "ruling_fr": "Suicide. Non contesté. Inclus comme cas documenté de mort sous une pression d’État disproportionnée.",
+  "summary_en": "Swartz faced thirteen federal counts and up to 35 years for bulk-downloading academic articles from JSTOR — which had already declined to pursue him civilly. The Secret Service was involved from the arrest. He killed himself before trial.",
+  "summary_fr": "Swartz faisait face à treize chefs d’accusation fédéraux et jusqu’à 35 ans de prison pour avoir téléchargé en masse des articles académiques depuis JSTOR — qui avait déjà renoncé à toute action civile. Le Secret Service était impliqué dès l’arrestation. Il s’est donné la mort avant son procès.",
+  "detail_en": [
+    "MIT’s own 2013 report found the institute had not deliberately called in federal authorities, but also that it did not support the plea agreement that would have kept him out of prison — while JSTOR had signed off on it.",
+    "This case is included as a boundary marker. There is no homicide claim here. It documents the other way a person is removed: prosecution."
+  ],
+  "detail_fr": [
+    "Le rapport interne du MIT (2013) a conclu que l’institut n’avait pas délibérément appelé les autorités fédérales, mais aussi qu’il n’avait pas soutenu l’accord de plaidoyer qui lui aurait évité la prison — alors que JSTOR y avait consenti.",
+    "Cette fiche sert de repère de frontière. Aucune allégation d’homicide ici. Elle documente l’autre manière d’écarter quelqu’un : la poursuite pénale."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "MIT releases report on its actions in the Aaron Swartz case — MIT News", "u": "https://news.mit.edu/2013/mit-releases-swartz-report-0730" },
+    { "t": "Secret Service reopens Aaron Swartz FOIAs — EFF", "u": "https://www.eff.org/deeplinks/2013/03/secret-service-reopens-aaron-swartz-foias" }
+  ],
+  "related": ["suchir-balaji", "wilhelm-reich"]
+},
+{
+  "slug": "bruce-ivins", "name": "Bruce Ivins",
+  "born": "1946", "died": "2008-07-29", "age": 62,
+  "country": "US", "place_en": "Frederick, Maryland", "place_fr": "Frederick (Maryland)",
+  "role_en": "US Army microbiologist at USAMRIID, the FBI’s sole named suspect in the 2001 anthrax attacks",
+  "role_fr": "Microbiologiste de l’armée américaine à l’USAMRIID, unique suspect nommé par le FBI dans les attaques à l’anthrax de 2001",
+  "category": "unexplained", "status": "contested",
+  "sectors": ["biology", "justice"],
+  "featured": false, "updated": "2026-08-20", "warned": false,
+  "ruling_en": "Suicide by paracetamol overdose as the Justice Department prepared to indict him. The suicide is not disputed — his guilt is.",
+  "ruling_fr": "Suicide par surdose de paracétamol alors que le ministère de la Justice préparait son inculpation. Le suicide n’est pas contesté — sa culpabilité l’est.",
+  "summary_en": "Ivins died before he could be charged over letters that killed five people. He was never indicted, no direct evidence was ever produced, and in 2011 the National Academy of Sciences found the FBI had overstated the genetic analysis that linked the mailed spores to his flask.",
+  "summary_fr": "Ivins est mort avant d’avoir pu être inculpé pour des lettres qui ont tué cinq personnes. Il n’a jamais été mis en accusation, aucune preuve directe n’a été produite, et en 2011 la National Academy of Sciences a conclu que le FBI avait surestimé l’analyse génétique reliant les spores postées à sa fiole.",
+  "detail_en": [
+    "The FBI’s Amerithrax investigation named Ivins after clearing another scientist, Steven Hatfill, who won a $5.8 million settlement from the government.",
+    "The NAS panel concluded that ‘the scientific data alone do not support the strength of the government’s repeated assertions that RMR-1029 was conclusively identified as the parent material’, and that no definitive conclusion about the origin of the anthrax could be reached from the science alone. Some of the government’s own consultants have since said publicly they wonder whether the killer is still at large."
+  ],
+  "detail_fr": [
+    "L’enquête Amerithrax du FBI a désigné Ivins après avoir mis hors de cause un autre scientifique, Steven Hatfill, qui a obtenu 5,8 millions de dollars de transaction avec le gouvernement.",
+    "Le panel de la NAS a conclu que « les données scientifiques seules ne soutiennent pas la force des affirmations répétées du gouvernement selon lesquelles RMR-1029 aurait été identifiée de façon concluante comme la matière parente », et qu’aucune conclusion définitive sur l’origine de l’anthrax ne pouvait être tirée de la seule science. Certains consultants du gouvernement ont depuis dit publiquement se demander si le tueur court toujours."
+  ],
+  "disputed_en": ["No indictment, no direct evidence, and the central scientific claim was later found to be overstated by the NAS."],
+  "disputed_fr": ["Aucune inculpation, aucune preuve directe, et l’argument scientifique central a ensuite été jugé surestimé par la NAS."],
+  "holds_en": ["The suicide itself is not in question.", "Ivins had documented access to the strain and a documented psychiatric history."],
+  "holds_fr": ["Le suicide lui-même n’est pas en cause.", "Ivins avait un accès documenté à la souche et un passé psychiatrique documenté."],
+  "sources": [
+    { "t": "Scientists: FBI overstated anthrax evidence — NBC News", "u": "https://www.nbcnews.com/id/wbna41603660" },
+    { "t": "Bruce Edwards Ivins — Wikipedia", "u": "https://en.wikipedia.org/wiki/Bruce_Edwards_Ivins" }
+  ],
+  "related": ["frank-olson", "microbiologists-2001"]
+},
+{
+  "slug": "homi-bhabha", "name": "Homi J. Bhabha",
+  "born": "1909", "died": "1966-01-24", "age": 56,
+  "country": "FR", "place_en": "Mont Blanc, French Alps", "place_fr": "Mont Blanc, Alpes françaises",
+  "role_en": "Founder and chairman of India’s Atomic Energy Commission",
+  "role_fr": "Fondateur et président de la Commission indienne de l’énergie atomique",
+  "category": "unexplained", "status": "contested",
+  "sectors": ["nuclear"],
+  "featured": false, "updated": "2026-08-20", "warned": false,
+  "ruling_en": "Accident: Air India Flight 101 struck Mont Blanc on approach to Geneva after the crew misjudged their position with a faulty navigation aid. Sabotage was examined and dismissed.",
+  "ruling_fr": "Accident : le vol Air India 101 a percuté le Mont Blanc à l’approche de Genève, l’équipage ayant mal évalué sa position avec une aide à la navigation défaillante. Le sabotage a été examiné puis écarté.",
+  "summary_en": "Bhabha built India’s nuclear programme and, two months before he died, announced on national radio that India could build an atomic bomb within eighteen months. He was killed with 116 others when his flight hit Mont Blanc — eleven days after India also lost its prime minister.",
+  "summary_fr": "Bhabha a bâti le programme nucléaire indien et, deux mois avant sa mort, a annoncé à la radio nationale que l’Inde pouvait fabriquer une bombe atomique en dix-huit mois. Il a été tué avec 116 autres personnes quand son vol a percuté le Mont Blanc — onze jours après que l’Inde eut aussi perdu son Premier ministre.",
+  "detail_en": [
+    "The context is genuinely heavy: Lal Bahadur Shastri died in Tashkent on 11 January 1966, and Bhabha on 24 January. India lost its head of government and the architect of its nuclear programme inside a fortnight.",
+    "The CIA theory rests on a single claimed conversation between former officer Robert Crowley and writer Gregory Douglas, published in 2008 — an unverifiable source, and Douglas is disputed on other matters. The accident finding stands."
+  ],
+  "detail_fr": [
+    "Le contexte est réellement lourd : Lal Bahadur Shastri meurt à Tachkent le 11 janvier 1966, et Bhabha le 24 janvier. L’Inde perd son chef de gouvernement et l’architecte de son programme nucléaire en quinze jours.",
+    "La thèse de la CIA repose sur une unique conversation revendiquée entre l’ancien officier Robert Crowley et l’écrivain Gregory Douglas, publiée en 2008 — source invérifiable, et Douglas est contesté sur d’autres dossiers. La conclusion accidentelle tient."
+  ],
+  "disputed_en": ["The eleven-day gap between the deaths of India’s prime minister and its nuclear chief."],
+  "disputed_fr": ["Les onze jours entre les morts du Premier ministre indien et du chef de son programme nucléaire."],
+  "holds_en": ["A documented navigational error and a well-understood controlled-flight-into-terrain accident.", "The sabotage hypothesis was examined by investigators and dismissed."],
+  "holds_fr": ["Une erreur de navigation documentée et un accident de type vol contrôlé jusqu’au sol bien compris.", "L’hypothèse du sabotage a été examinée par les enquêteurs et écartée."],
+  "sources": [
+    { "t": "Air India Flight 101 — Wikipedia", "u": "https://en.wikipedia.org/wiki/Air_India_Flight_101" },
+    { "t": "Mystery of the 1966 Air India crash — ThePrint", "u": "https://theprint.in/past-forward/mystery-of-1966-air-india-crash-that-killed-nuclear-pioneer-bhabha-is-unravelling-bit-by-bit/463353/" }
+  ],
+  "related": ["indian-nuclear-scientists", "dag-hammarskjold"]
+},
+{
+  "slug": "nikola-tesla", "name": "Nikola Tesla",
+  "born": "1856", "died": "1943-01-07", "age": 86,
+  "country": "US", "place_en": "Hotel New Yorker, New York", "place_fr": "Hôtel New Yorker, New York",
+  "role_en": "Electrical engineer and inventor; his papers were seized by the US government hours after his death",
+  "role_fr": "Ingénieur électricien et inventeur ; ses papiers ont été saisis par le gouvernement américain quelques heures après sa mort",
+  "category": "unexplained", "status": "unsupported",
+  "sectors": ["invention", "physics"],
+  "featured": false, "updated": "2026-08-20", "warned": false,
+  "ruling_en": "Natural death at 86. The seizure of his papers is real; the ‘suppressed death ray’ is not.",
+  "ruling_fr": "Mort naturelle à 86 ans. La saisie de ses papiers est réelle ; le « rayon de la mort supprimé » ne l’est pas.",
+  "summary_en": "Federal agents removed Tesla’s technical papers from his hotel room within hours of his death and the Office of Alien Property Custodian sealed them. John G. Trump examined the material on 8–9 January 1943 and reported it contained nothing new, sound or workable. The papers were released to his family in 1952 and now form the collection of the Nikola Tesla Museum in Belgrade.",
+  "summary_fr": "Des agents fédéraux ont retiré les papiers techniques de Tesla de sa chambre d’hôtel dans les heures suivant sa mort, et l’Office of Alien Property Custodian les a mis sous scellés. John G. Trump les a examinés les 8 et 9 janvier 1943 et a conclu qu’ils ne contenaient rien de neuf, de solide ni d’exploitable. Les papiers ont été remis à sa famille en 1952 et constituent aujourd’hui le fonds du musée Nikola Tesla de Belgrade.",
+  "detail_en": [
+    "The Office of Alien Property Custodian existed to control assets of people classified as enemy aliens and to keep sensitive technology from reaching an enemy. Tesla was a naturalised US citizen, which is part of why the seizure remains contentious.",
+    "Trump’s report described the work as ‘primarily of a speculative, philosophical and promotional character’. The FBI published its catalogue of the seized writings in 2018. The material was returned, it is public, and it can be read."
+  ],
+  "detail_fr": [
+    "L’Office of Alien Property Custodian existait pour contrôler les biens de personnes classées comme ressortissants ennemis et empêcher qu’une technologie sensible n’atteigne l’adversaire. Tesla était citoyen américain naturalisé, ce qui explique en partie que la saisie reste discutée.",
+    "Le rapport de Trump décrit l’ensemble comme « de nature essentiellement spéculative, philosophique et promotionnelle ». Le FBI a publié son catalogue des écrits saisis en 2018. Le matériel a été restitué, il est public, et il peut être lu."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "The mystery of Nikola Tesla’s missing files — HISTORY", "u": "https://www.history.com/articles/nikola-tesla-files-declassified-fbi" },
+    { "t": "FBI releases catalog of Tesla’s seized writings — MuckRock", "u": "https://www.muckrock.com/news/archives/2018/mar/19/fbi-tesla-ii/" }
+  ],
+  "related": ["viktor-schauberger", "maurice-ward"]
+}
+]

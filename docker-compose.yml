@@ -1,0 +1,17 @@
+services:
+  suspiciousdeaths:
+    build: .
+    container_name: suspiciousdeaths
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:10114:10114"
+    environment:
+      - NODE_ENV=production
+      - PORT=10114
+      - SITE_ORIGIN=https://suspiciousdeaths.zlef.fr
+    networks:
+      - suspiciousdeaths-net
+
+networks:
+  suspiciousdeaths-net:
+    driver: bridge

@@ -1,0 +1,565 @@
+[
+{
+  "slug": "karen-silkwood",
+  "name": "Karen Silkwood",
+  "born": "1946", "died": "1974-11-13", "age": 28,
+  "country": "US", "place_en": "near Crescent, Oklahoma", "place_fr": "près de Crescent (Oklahoma)",
+  "role_en": "Union safety activist at the Kerr-McGee plutonium plant",
+  "role_fr": "Militante syndicale de la sécurité à l’usine de plutonium Kerr-McGee",
+  "category": "targeted-killing", "status": "unsolved",
+  "sectors": ["nuclear", "whistleblowing"],
+  "featured": true, "updated": "2026-08-20",
+  "warned": true,
+  "warning_en": "Days before she died she was found contaminated with roughly 400 times the legal limit of plutonium — and so was her apartment, with material she had no access to.",
+  "warning_fr": "Quelques jours avant sa mort, elle est trouvée contaminée à environ 400 fois la limite légale de plutonium — comme son appartement, avec une matière à laquelle elle n’avait pas accès.",
+  "ruling_en": "Single-vehicle crash. An independent investigation commissioned by her union found evidence her car had been struck from behind and forced off the road.",
+  "ruling_fr": "Accident seul véhicule. Une expertise indépendante commandée par son syndicat a conclu que sa voiture avait été heurtée par l’arrière et poussée hors de la route.",
+  "summary_en": "Silkwood was driving to meet a New York Times reporter and a union official with a folder of documents on quality-control failures at a plutonium plant. Her car left the road and she was killed. The folder was never found in the wreckage.",
+  "summary_fr": "Silkwood roulait vers un rendez-vous avec un journaliste du New York Times et un responsable syndical, avec un dossier de documents sur les défauts de contrôle qualité d’une usine de plutonium. Sa voiture a quitté la route et elle a été tuée. Le dossier n’a jamais été retrouvé dans l’épave.",
+  "detail_en": [
+    "Silkwood worked at Kerr-McGee’s Cimarron fuel fabrication site making plutonium pellets for fast breeder reactor fuel rods. She had testified to the Atomic Energy Commission about falsified inspection records and health-and-safety failures.",
+    "On 5 November 1974 routine self-monitoring showed her heavily contaminated; the contamination was then found in her apartment, in food in her refrigerator, in material she could not have brought home. The AEC said its investigation ‘did not reveal exactly how the contamination occurred.’",
+    "She died on 13 November en route to the meeting. Her allegations about quality-control failures were subsequently substantiated. Her estate won a $10.5 million verdict against Kerr-McGee, later settled for $1.38 million."
+  ],
+  "detail_fr": [
+    "Silkwood travaillait sur le site Cimarron de Kerr-McGee, à fabriquer des pastilles de plutonium pour les barres de combustible de surgénérateurs. Elle avait témoigné devant l’Atomic Energy Commission de falsifications de rapports d’inspection et de manquements à la sécurité.",
+    "Le 5 novembre 1974, un autocontrôle de routine la révèle fortement contaminée ; la contamination est ensuite retrouvée dans son appartement, dans des aliments de son réfrigérateur, avec une matière qu’elle ne pouvait pas avoir rapportée. L’AEC a déclaré que son enquête « n’a pas révélé exactement comment la contamination s’est produite ».",
+    "Elle meurt le 13 novembre en route vers le rendez-vous. Ses allégations sur les défauts de contrôle qualité ont ensuite été confirmées. Sa succession a obtenu 10,5 millions de dollars contre Kerr-McGee, transigés ensuite à 1,38 million."
+  ],
+  "disputed_en": [
+    "The documents she was carrying were never recovered.",
+    "An independent crash investigation found rear damage consistent with being struck.",
+    "The source of the plutonium in her apartment was never established."
+  ],
+  "disputed_fr": [
+    "Les documents qu’elle transportait n’ont jamais été retrouvés.",
+    "Une expertise indépendante a relevé des dommages arrière compatibles avec un choc.",
+    "L’origine du plutonium dans son appartement n’a jamais été établie."
+  ],
+  "holds_en": [
+    "The state highway patrol found sedatives in her blood and attributed the crash to falling asleep."
+  ],
+  "holds_fr": [
+    "La police d’État a relevé des sédatifs dans son sang et a attribué l’accident à un endormissement."
+  ],
+  "sources": [
+    { "t": "Karen Silkwood dies in mysterious one-car crash — HISTORY", "u": "https://www.history.com/this-day-in-history/november-13/karen-silkwood-dies-in-mysterious-one-car-crash" },
+    { "t": "The death of Karen Silkwood — Bulletin of the Atomic Scientists", "u": "https://thebulletin.org/2024/11/the-death-of-karen-silkwood-and-the-plutonium-economy/" }
+  ],
+  "related": ["hilda-murrell", "john-barnett"]
+},
+{
+  "slug": "frank-olson",
+  "name": "Frank Olson",
+  "born": "1910", "died": "1953-11-28", "age": 43,
+  "country": "US", "place_en": "Hotel Statler, New York", "place_fr": "Hôtel Statler, New York",
+  "role_en": "US Army biological warfare scientist, dosed with LSD by the CIA",
+  "role_fr": "Scientifique de la guerre biologique de l’armée américaine, drogué au LSD par la CIA",
+  "category": "targeted-killing", "status": "contested",
+  "sectors": ["biology", "intelligence"],
+  "featured": true, "updated": "2026-08-20",
+  "warned": false,
+  "ruling_en": "Originally suicide, later ‘misadventure’. A 1994 second autopsy found a skull injury the forensic team considered inconsistent with a fall through glass.",
+  "ruling_fr": "D’abord suicide, puis « accident ». Une seconde autopsie en 1994 a relevé une lésion crânienne que l’équipe médico-légale a jugée incompatible avec une chute à travers une vitre.",
+  "summary_en": "Olson fell from a 13th-floor hotel window nine days after being secretly dosed with LSD by the head of the CIA’s MKUltra programme. The government called it suicide for 22 years, until the Rockefeller Commission exposed the drugging. A second autopsy in 1994 found evidence of a blow to the head before the fall.",
+  "summary_fr": "Olson est tombé de la fenêtre d’un 13e étage neuf jours après avoir été drogué au LSD à son insu par le responsable du programme MKUltra de la CIA. Le gouvernement a parlé de suicide pendant 22 ans, jusqu’à ce que la commission Rockefeller révèle l’administration de la drogue. Une seconde autopsie, en 1994, a relevé des indices d’un coup à la tête avant la chute.",
+  "detail_en": [
+    "Olson worked at Fort Detrick on biological weapons and had recently visited Allied interrogation sites in Europe. At a retreat in rural Maryland in November 1953, Sidney Gottlieb — head of MKUltra — put LSD in his drink without his knowledge. Olson deteriorated over the following days and was taken to New York ostensibly for psychiatric care.",
+    "He went through a closed window of room 1018A of the Hotel Statler in the early hours of 28 November. The CIA’s role only surfaced in 1975; President Ford apologised to the family and Congress compensated them.",
+    "In 1994 the family exhumed the body. Professor James Starrs of George Washington University led a forensic team that found a haematoma and skull injury they judged inconsistent with going through glass and more consistent with a blow struck beforehand. A civil suit against the CIA was dismissed in 2013 on limitation grounds, without reaching the merits."
+  ],
+  "detail_fr": [
+    "Olson travaillait à Fort Detrick sur les armes biologiques et avait récemment visité des sites d’interrogatoire alliés en Europe. Lors d’un séminaire dans le Maryland rural, en novembre 1953, Sidney Gottlieb — chef de MKUltra — verse du LSD dans son verre à son insu. Olson se dégrade les jours suivants et est emmené à New York, officiellement pour des soins psychiatriques.",
+    "Il traverse une fenêtre fermée de la chambre 1018A de l’hôtel Statler au petit matin du 28 novembre. Le rôle de la CIA n’émerge qu’en 1975 ; le président Ford présente des excuses à la famille et le Congrès l’indemnise.",
+    "En 1994, la famille fait exhumer le corps. Le professeur James Starrs, de George Washington University, dirige une équipe qui relève un hématome et une lésion crânienne jugés incompatibles avec un passage à travers une vitre, et plutôt compatibles avec un coup porté avant. Une action civile contre la CIA a été rejetée en 2013 pour prescription, sans examen au fond."
+  ],
+  "disputed_en": [
+    "The 1994 forensic examination found a pre-fall head injury.",
+    "The government gave three different accounts over four decades.",
+    "The CIA concealed the drugging for 22 years, which makes the original ‘suicide’ finding worthless as evidence."
+  ],
+  "disputed_fr": [
+    "L’expertise de 1994 a relevé une lésion à la tête antérieure à la chute.",
+    "Le gouvernement a donné trois versions différentes en quarante ans.",
+    "La CIA a dissimulé l’administration de LSD pendant 22 ans, ce qui prive de valeur probante la conclusion initiale de suicide."
+  ],
+  "holds_en": [
+    "Olson was in acute psychiatric crisis, drug-induced, in the days before he died.",
+    "Starrs’s team did not produce a perpetrator, a motive from within the CIA, or physical evidence of a second person in the room."
+  ],
+  "holds_fr": [
+    "Olson traversait une crise psychiatrique aiguë, d’origine médicamenteuse, dans les jours précédant sa mort.",
+    "L’équipe de Starrs n’a produit ni auteur, ni mobile interne à la CIA, ni preuve matérielle d’un tiers dans la chambre."
+  ],
+  "sources": [
+    { "t": "Tests contradict US story of man’s suicide — Washington Post (1994)", "u": "https://www.washingtonpost.com/archive/local/1994/07/12/tests-contradict-us-story-of-mans-suicide/17be5717-77ca-41d5-9f50-359234dae5bc/" },
+    { "t": "Family sues CIA decades after scientist’s death — NBC News", "u": "https://www.nbcnews.com/id/wbna50003125" }
+  ],
+  "related": ["bruce-ivins", "david-kelly"]
+},
+{
+  "slug": "hilda-murrell",
+  "name": "Hilda Murrell",
+  "born": "1906", "died": "1984-03-21", "age": 78,
+  "country": "GB", "place_en": "near Shrewsbury, England", "place_fr": "près de Shrewsbury, Angleterre",
+  "role_en": "Rose grower and anti-nuclear campaigner, due to give evidence at the Sizewell B inquiry",
+  "role_fr": "Rosiériste et militante antinucléaire, devant témoigner à l’enquête publique sur Sizewell B",
+  "category": "targeted-killing", "status": "unsolved",
+  "sectors": ["nuclear", "environment"],
+  "featured": false, "updated": "2026-08-20",
+  "warned": false,
+  "ruling_en": "Murder. A conviction was obtained in 2005 against Andrew George, who was 16 at the time and could not drive; her family dispute it.",
+  "ruling_fr": "Meurtre. Une condamnation a été obtenue en 2005 contre Andrew George, âgé de 16 ans à l’époque et ne sachant pas conduire ; sa famille la conteste.",
+  "summary_en": "Murrell was abducted from her home, stabbed and left in a wood, weeks before she was to present a paper on radioactive waste to Britain’s first public inquiry into a new nuclear plant. Her car had been driven from the scene by someone; the man convicted 21 years later could not drive.",
+  "summary_fr": "Murrell a été enlevée chez elle, poignardée et abandonnée dans un bois, quelques semaines avant de présenter un mémoire sur les déchets radioactifs à la première enquête publique britannique sur une nouvelle centrale nucléaire. Sa voiture avait été conduite depuis les lieux ; l’homme condamné 21 ans plus tard ne savait pas conduire.",
+  "detail_en": [
+    "Murrell, 78, was a respected horticulturist who had become an informed critic of nuclear waste policy. Her paper, ‘An Ordinary Citizen’s View of Radioactive Waste Management’, was to be submitted to the Sizewell B inquiry.",
+    "West Mercia Police secured a conviction in 2005 against Andrew George on DNA evidence. Her nephew, former Royal Navy commander Robert Green — who had held a role connected to the Belgrano sinking, then a live political controversy — published research in 2011 that he argues would acquit George and points to an intelligence-linked search of her house."
+  ],
+  "detail_fr": [
+    "Murrell, 78 ans, était une horticultrice respectée devenue une critique informée de la politique des déchets nucléaires. Son mémoire, « Le point de vue d’une citoyenne ordinaire sur la gestion des déchets radioactifs », devait être versé à l’enquête sur Sizewell B.",
+    "La police du West Mercia a obtenu en 2005 une condamnation d’Andrew George sur des preuves ADN. Son neveu, l’ancien commandant de la Royal Navy Robert Green — qui avait occupé des fonctions liées au torpillage du Belgrano, alors au cœur d’une polémique politique — a publié en 2011 des travaux qui, selon lui, disculperaient George et orientent vers une fouille de son domicile liée au renseignement."
+  ],
+  "disputed_en": [
+    "The convicted man was a 16-year-old who could not drive, yet the victim’s car was driven several miles from her house.",
+    "The timing relative to her Sizewell B submission.",
+    "Her nephew’s documented research contesting the forensic case."
+  ],
+  "disputed_fr": [
+    "L’homme condamné était un garçon de 16 ans ne sachant pas conduire, alors que la voiture de la victime a été conduite sur plusieurs kilomètres.",
+    "Le calendrier par rapport à sa contribution à l’enquête Sizewell B.",
+    "Les travaux documentés de son neveu contestant le dossier médico-légal."
+  ],
+  "holds_en": [
+    "The 2005 conviction rested on DNA evidence and has not been quashed."
+  ],
+  "holds_fr": [
+    "La condamnation de 2005 reposait sur des preuves ADN et n’a pas été annulée."
+  ],
+  "sources": [
+    { "t": "Hilda Murrell — Wikipedia", "u": "https://en.wikipedia.org/wiki/Hilda_Murrell" },
+    { "t": "hildamurrell.org", "u": "https://hildamurrell.org/" }
+  ],
+  "related": ["karen-silkwood", "gareth-williams"]
+},
+{
+  "slug": "gareth-williams",
+  "name": "Gareth Williams",
+  "born": "1978", "died": "2010-08-16", "age": 31,
+  "country": "GB", "place_en": "Pimlico, London", "place_fr": "Pimlico, Londres",
+  "role_en": "GCHQ mathematician on secondment to MI6",
+  "role_fr": "Mathématicien du GCHQ détaché au MI6",
+  "category": "targeted-killing", "status": "contested",
+  "sectors": ["intelligence"],
+  "featured": false, "updated": "2026-08-20",
+  "warned": false,
+  "ruling_en": "Coroner (2012): unlawful killing on the balance of probabilities. Metropolitan Police re-investigation (2013): probably an accident. The two findings have never been reconciled.",
+  "ruling_fr": "Coroner (2012) : homicide illégal selon la prépondérance des probabilités. Réenquête de la police métropolitaine (2013) : probablement un accident. Les deux conclusions n’ont jamais été réconciliées.",
+  "summary_en": "Williams was found naked inside a locked holdall in the bath of his MI6 safe flat. A coroner concluded he had probably been killed unlawfully and that it was unlikely he had locked himself in. Police later concluded he probably had.",
+  "summary_fr": "Williams a été retrouvé nu, dans un sac de sport cadenassé, dans la baignoire de son appartement de sécurité du MI6. Un coroner a conclu qu’il avait probablement été tué illégalement et qu’il était improbable qu’il se soit enfermé lui-même. La police a ensuite conclu qu’il l’avait probablement fait.",
+  "detail_en": [
+    "Williams was a codebreaker seconded from GCHQ. He had been working on operations connected to Russian organised crime, according to evidence at the inquest.",
+    "Coroner Fiona Wilcox found in May 2012 that the death was ‘unnatural and likely to have been criminally mediated’ and was scathing about MI6, which took seven days to report him missing. A Met murder-squad review in 2013 found no trace of anyone else in the flat and concluded he had probably climbed into the bag himself and been unable to get out. No further evidence has resolved the contradiction."
+  ],
+  "detail_fr": [
+    "Williams était cryptanalyste, détaché du GCHQ. Il travaillait sur des opérations liées au crime organisé russe, selon les éléments présentés à l’enquête.",
+    "La coroner Fiona Wilcox a conclu en mai 2012 que la mort était « non naturelle et probablement d’origine criminelle », et s’est montrée cinglante envers le MI6, qui a mis sept jours à signaler sa disparition. Une revue de la brigade criminelle du Met, en 2013, n’a trouvé aucune trace d’un tiers dans l’appartement et a conclu qu’il s’était probablement enfermé seul sans pouvoir ressortir. Aucun élément nouveau n’a tranché la contradiction."
+  ],
+  "disputed_en": [
+    "The bag was padlocked from the outside; the coroner found self-entry unlikely.",
+    "No fingerprints, DNA or palm prints of Williams were found on the padlock or the bath rim.",
+    "MI6 delayed reporting him missing for seven days, and material was removed from the flat before police examination."
+  ],
+  "disputed_fr": [
+    "Le sac était cadenassé de l’extérieur ; la coroner a jugé improbable qu’il s’y soit enfermé seul.",
+    "Aucune empreinte digitale, ADN ou empreinte palmaire de Williams n’a été retrouvée sur le cadenas ni sur le rebord de la baignoire.",
+    "Le MI6 a attendu sept jours pour signaler sa disparition, et des éléments ont été retirés de l’appartement avant examen policier."
+  ],
+  "holds_en": [
+    "A police expert later demonstrated that a person of his build could lock themselves into such a bag.",
+    "No evidence of a third party was ever recovered from a sealed flat."
+  ],
+  "holds_fr": [
+    "Un expert de la police a ensuite démontré qu’une personne de sa corpulence pouvait s’enfermer dans un tel sac.",
+    "Aucune preuve de tiers n’a jamais été relevée dans un appartement clos."
+  ],
+  "sources": [
+    { "t": "MI6 death: Gareth Williams ‘probably’ killed unlawfully — BBC", "u": "https://feeds.bbci.co.uk/news/av/uk-17930707" },
+    { "t": "Scotland Yard ‘solves’ mystery of MI6 worker — PRI", "u": "https://theworld.org/stories/2016/07/31/scotland-yard-solves-mystery-mi6-worker-found-naked-and-dead-locked-sports-bag" }
+  ],
+  "related": ["david-kelly", "nikolai-glushkov"]
+},
+{
+  "slug": "jill-dando",
+  "name": "Jill Dando",
+  "born": "1961", "died": "1999-04-26", "age": 37,
+  "country": "GB", "place_en": "Fulham, London", "place_fr": "Fulham, Londres",
+  "role_en": "BBC presenter, face of the crime appeal programme Crimewatch",
+  "role_fr": "Présentatrice de la BBC, visage de l’émission d’appels à témoins Crimewatch",
+  "category": "targeted-killing", "status": "unsolved",
+  "sectors": ["journalism"],
+  "featured": false, "updated": "2026-08-20",
+  "warned": false,
+  "ruling_en": "Murder. Barry George was convicted in 2001, the conviction quashed in 2007 and he was acquitted at retrial in 2008. No one else has been charged.",
+  "ruling_fr": "Meurtre. Barry George a été condamné en 2001, sa condamnation annulée en 2007, et il a été acquitté au nouveau procès en 2008. Personne d’autre n’a été inculpé.",
+  "summary_en": "Dando was killed with a single shot on her own doorstep, the muzzle held against her head to muffle the sound — a professional execution in daylight in west London. The only person ever convicted was acquitted on retrial after the forensic evidence collapsed.",
+  "summary_fr": "Dando a été tuée d’une seule balle sur le pas de sa porte, le canon appuyé contre sa tête pour étouffer la détonation — une exécution professionnelle, en plein jour, dans l’ouest de Londres. La seule personne jamais condamnée a été acquittée en appel après l’effondrement des preuves médico-légales.",
+  "detail_en": [
+    "The killing triggered the Metropolitan Police’s largest murder inquiry since the Yorkshire Ripper. Lines of investigation included a Serbian reprisal for the NATO bombing of Belgrade — Dando had fronted a Kosovo refugee appeal weeks earlier — a criminal contract linked to her Crimewatch work, and a stalker.",
+    "Barry George, a local man with a history of stalking offences, was convicted in 2001 on a 10-1 majority, largely on a single particle of firearm discharge residue found in his coat pocket. That evidence was later discredited; the Court of Appeal quashed the conviction in 2007 and he was acquitted on 1 August 2008. The case remains open."
+  ],
+  "detail_fr": [
+    "L’assassinat a déclenché la plus vaste enquête criminelle de la police métropolitaine depuis l’Éventreur du Yorkshire. Les pistes explorées incluaient des représailles serbes après les bombardements de l’OTAN sur Belgrade — Dando avait porté un appel pour les réfugiés du Kosovo quelques semaines plus tôt —, un contrat criminel lié à son travail sur Crimewatch, et un harceleur.",
+    "Barry George, un habitant du quartier au passé de harceleur, a été condamné en 2001 à 10 voix contre 1, principalement sur une unique particule de résidu de tir retrouvée dans la poche de son manteau. Cette preuve a ensuite été discréditée ; la cour d’appel a annulé la condamnation en 2007 et il a été acquitté le 1er août 2008. Le dossier reste ouvert."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "Jill Dando — Wikipedia", "u": "https://en.wikipedia.org/wiki/Jill_Dando" },
+    { "t": "Barry George — Wikipedia", "u": "https://en.wikipedia.org/wiki/Barry_George" }
+  ],
+  "related": ["daphne-caruana-galizia"]
+},
+{
+  "slug": "john-wheeler",
+  "name": "John P. Wheeler III",
+  "born": "1944", "died": "2010-12-30", "age": 66,
+  "country": "US", "place_en": "Wilmington / Newark, Delaware", "place_fr": "Wilmington / Newark (Delaware)",
+  "role_en": "Pentagon official and adviser to four administrations, driving force behind the Vietnam Veterans Memorial",
+  "role_fr": "Responsable du Pentagone et conseiller de quatre administrations, moteur du mémorial des vétérans du Vietnam",
+  "category": "targeted-killing", "status": "unsolved",
+  "sectors": ["intelligence", "politics"],
+  "featured": false, "updated": "2026-08-20",
+  "warned": false,
+  "ruling_en": "Homicide by blunt force trauma. No suspects.",
+  "ruling_fr": "Homicide par traumatisme contondant. Aucun suspect.",
+  "summary_en": "Wheeler — West Point, Yale, Harvard, a Pentagon cyber-warfare consultant — was filmed wandering disoriented through Wilmington on 30 December 2010. His body came off a garbage truck at a Delaware landfill the next day. The case has never been solved.",
+  "summary_fr": "Wheeler — West Point, Yale, Harvard, consultant du Pentagone sur la cyberguerre — a été filmé errant, désorienté, dans Wilmington le 30 décembre 2010. Son corps est tombé d’un camion-benne dans une décharge du Delaware le lendemain. L’affaire n’a jamais été élucidée.",
+  "detail_en": [
+    "Surveillance footage shows Wheeler confused and without his overcoat in the hours before he vanished; earlier he had asked a pharmacist for a lift to the train station. He was in a bitter dispute with a neighbour over a house being built next to his property.",
+    "His body was discovered at the Cherry Island landfill on 31 December. The medical examiner ruled homicide by blunt force trauma. Police reconstructed the garbage truck’s route and believe the body was collected early in the round, from a commercial dumpster area. No suspect has ever been named."
+  ],
+  "detail_fr": [
+    "Les images de vidéosurveillance montrent Wheeler désorienté et sans manteau dans les heures précédant sa disparition ; plus tôt, il avait demandé à un pharmacien de le conduire à la gare. Il était en conflit ouvert avec un voisin au sujet d’une maison en construction près de sa propriété.",
+    "Son corps est découvert à la décharge de Cherry Island le 31 décembre. Le médecin légiste conclut à un homicide par traumatisme contondant. La police a reconstitué la tournée du camion-benne et estime que le corps a été chargé au début du parcours, dans une zone de bennes commerciales. Aucun suspect n’a jamais été nommé."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "John P. Wheeler III — Wikipedia", "u": "https://en.wikipedia.org/wiki/John_P._Wheeler_III" },
+    { "t": "Five more of John Wheeler’s last hours filled in — NPR", "u": "https://www.npr.org/sections/thetwo-way/2011/01/06/132702534/five-more-of-john-wheelers-last-hours-filled-in-delaware-death-still-a-mystery" }
+  ],
+  "related": ["gareth-williams"]
+},
+{
+  "slug": "boris-weisfeiler",
+  "name": "Boris Weisfeiler",
+  "born": "1941", "died": "1985-01-05", "age": 43,
+  "country": "CL", "place_en": "Ñuble, Chilean Andes", "place_fr": "Ñuble, Andes chiliennes",
+  "role_en": "Penn State mathematician, disappeared while hiking under Pinochet",
+  "role_fr": "Mathématicien de Penn State, disparu en randonnée sous Pinochet",
+  "category": "targeted-killing", "status": "established",
+  "sectors": ["physics", "politics"],
+  "featured": false, "updated": "2026-08-20",
+  "warned": false,
+  "ruling_en": "Declassified US documents indicate he was seized by an army patrol, handed to Colonia Dignidad, interrogated and killed. Eight Chilean police and military officers were indicted in 2012; the case was later permanently closed.",
+  "ruling_fr": "Des documents américains déclassifiés indiquent qu’il a été capturé par une patrouille militaire, remis à Colonia Dignidad, interrogé puis tué. Huit policiers et militaires chiliens ont été inculpés en 2012 ; l’affaire a ensuite été définitivement close.",
+  "summary_en": "Weisfeiler, a Soviet-born American mathematician, vanished hiking alone in the Chilean Andes. More than 250 US documents declassified in 2000 describe an army patrol seizing him and delivering him to Colonia Dignidad, the German enclave used as a detention and torture site.",
+  "summary_fr": "Weisfeiler, mathématicien américain né en URSS, a disparu en randonnée solitaire dans les Andes chiliennes. Plus de 250 documents américains déclassifiés en 2000 décrivent une patrouille militaire le capturant et le livrant à Colonia Dignidad, l’enclave allemande utilisée comme lieu de détention et de torture.",
+  "detail_en": [
+    "Weisfeiler was a specialist in algebraic groups at Penn State. He disappeared on 4–5 January 1985 near the Ñuble river. The initial Chilean account was that he had drowned.",
+    "The Clinton administration’s Chile Declassification Project released documents in 2000 including the translated account of a member of the army patrol who took part in his abduction and delivery. Judge Jorge Zepeda indicted eight officers in 2012 for kidnapping. An appeals court later closed the investigation permanently, leaving the family without a judicial outcome."
+  ],
+  "detail_fr": [
+    "Weisfeiler était spécialiste des groupes algébriques à Penn State. Il disparaît les 4-5 janvier 1985 près de la rivière Ñuble. La version chilienne initiale était qu’il s’était noyé.",
+    "Le Chile Declassification Project de l’administration Clinton a publié en 2000 des documents comprenant le récit traduit d’un membre de la patrouille militaire ayant participé à son enlèvement et à sa remise. Le juge Jorge Zepeda a inculpé huit officiers en 2012 pour séquestration. Une cour d’appel a ensuite définitivement clos l’instruction, laissant la famille sans issue judiciaire."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "US declassified documents on the Weisfeiler disappearance", "u": "https://boris.weisfeiler.com/docs/US_declassified_documents.html" },
+    { "t": "Chilean judge permanently closes investigation — Committee of Concerned Scientists", "u": "https://concernedscientists.org/2016/03/chilean-appeals-court-judge-permanently-closes-investigation-into-the-disappearance-of-mathematician-boris-weisfeiler/" },
+    { "t": "Judge orders arrests over missing US hiker — BBC", "u": "https://feeds.bbci.co.uk/news/world-latin-america-19340756" }
+  ],
+  "related": ["vladimir-alexandrov"]
+},
+{
+  "slug": "alberto-nisman",
+  "name": "Alberto Nisman",
+  "born": "1963", "died": "2015-01-18", "age": 51,
+  "country": "AR", "place_en": "Buenos Aires, Argentina", "place_fr": "Buenos Aires, Argentine",
+  "role_en": "Special prosecutor investigating the 1994 AMIA bombing",
+  "role_fr": "Procureur spécial chargé de l’enquête sur l’attentat de l’AMIA en 1994",
+  "category": "targeted-killing", "status": "unsolved",
+  "sectors": ["justice", "politics"],
+  "featured": true, "updated": "2026-08-20",
+  "warned": true,
+  "warning_en": "He had told journalists he might not survive his complaint against the president: “I might come out of this dead.”",
+  "warning_fr": "Il avait dit à des journalistes qu’il pourrait ne pas survivre à sa plainte contre la présidente : « Je pourrais en sortir mort. »",
+  "ruling_en": "Initially suicide. A 2017 Gendarmería forensic report and successive federal appeal court rulings (2017, reaffirmed 2025) establish homicide. No perpetrator identified.",
+  "ruling_fr": "D’abord suicide. Un rapport médico-légal de la Gendarmería (2017) et des arrêts successifs de la cour fédérale d’appel (2017, reconfirmé en 2025) établissent un homicide. Aucun auteur identifié.",
+  "summary_en": "Nisman was found shot in his flat four days after accusing President Cristina Fernández de Kirchner of covering up Iran’s role in the bombing of a Jewish community centre, and the night before he was to present his evidence to parliament.",
+  "summary_fr": "Nisman a été retrouvé mort par balle chez lui quatre jours après avoir accusé la présidente Cristina Fernández de Kirchner d’avoir couvert le rôle de l’Iran dans l’attentat contre un centre communautaire juif, et la veille du jour où il devait présenter ses preuves au Parlement.",
+  "detail_en": [
+    "The 1994 AMIA bombing killed 85 people and remains the deadliest terrorist attack in Argentine history. Nisman spent a decade on it and concluded that Iran was responsible and that the government had traded impunity for a grain-for-oil deal.",
+    "The Gendarmería’s forensic re-examination found ketamine in his body, evidence of a beating, and signs that at least two people had subdued him and staged the scene. The Federal Court of Buenos Aires confirmed in 2017 that the death was a homicide and a ‘direct consequence’ of his accusation. A decade on, prosecutors have not identified who entered the flat."
+  ],
+  "detail_fr": [
+    "L’attentat de l’AMIA, en 1994, a fait 85 morts et reste l’attaque terroriste la plus meurtrière de l’histoire argentine. Nisman y a consacré dix ans et a conclu à la responsabilité de l’Iran et à un troc d’impunité contre un accord céréales-pétrole.",
+    "La contre-expertise de la Gendarmería a relevé de la kétamine dans son corps, des traces de coups, et des indices qu’au moins deux personnes l’avaient maîtrisé et avaient maquillé la scène. La cour fédérale de Buenos Aires a confirmé en 2017 qu’il s’agissait d’un homicide et d’une « conséquence directe » de sa plainte. Dix ans après, les procureurs n’ont pas identifié qui est entré dans l’appartement."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "Alberto Nisman’s death ruled a murder — CNN", "u": "https://www.cnn.com/2017/12/26/americas/argentina-alberto-nisman-murder-ruling/index.html" },
+    { "t": "Argentine federal court confirms Nisman was murdered — Times of Israel", "u": "https://www.timesofisrael.com/argentine-federal-court-confirms-amia-prosecutor-was-murdered/" },
+    { "t": "A decade on, prosecutors conclude Nisman was killed — Buenos Aires Times", "u": "https://www.batimes.com.ar/news/argentina/a-decade-on-prosecutors-conclude-alberto-nisman-was-killed.phtml" }
+  ],
+  "related": ["bernard-borrel", "yann-piat"]
+},
+{
+  "slug": "berta-caceres",
+  "name": "Berta Cáceres",
+  "born": "1971", "died": "2016-03-02", "age": 44,
+  "country": "HN", "place_en": "La Esperanza, Honduras", "place_fr": "La Esperanza, Honduras",
+  "role_en": "Lenca indigenous leader, Goldman Prize winner, opponent of the Agua Zarca dam",
+  "role_fr": "Dirigeante indigène lenca, lauréate du prix Goldman, opposante au barrage d’Agua Zarca",
+  "category": "targeted-killing", "status": "established",
+  "sectors": ["environment", "energy"],
+  "featured": true, "updated": "2026-08-20",
+  "warned": true,
+  "warning_en": "She had reported more than 30 death threats to the authorities and was under precautionary measures ordered by the Inter-American Commission on Human Rights.",
+  "warning_fr": "Elle avait signalé plus de 30 menaces de mort aux autorités et bénéficiait de mesures conservatoires ordonnées par la Commission interaméricaine des droits de l’homme.",
+  "ruling_en": "Murder. Eight people convicted, including David Castillo, former president of the dam company DESA, sentenced to 22 years and 6 months for co-ordinating and financing the killing.",
+  "ruling_fr": "Meurtre. Huit personnes condamnées, dont David Castillo, ancien président de la société du barrage DESA, à 22 ans et 6 mois pour avoir coordonné et financé l’assassinat.",
+  "summary_en": "Cáceres was shot dead in her home after years of opposing a hydroelectric project on a river sacred to the Lenca people. A court established that a dam company executive had surveilled her for years using paid informants, then organised and paid for her assassination.",
+  "summary_fr": "Cáceres a été abattue chez elle après des années d’opposition à un projet hydroélectrique sur une rivière sacrée pour le peuple lenca. Un tribunal a établi qu’un dirigeant de la société du barrage l’avait surveillée pendant des années via des informateurs payés, puis avait organisé et financé son assassinat.",
+  "detail_en": [
+    "Cáceres co-founded COPINH and won the Goldman Environmental Prize in 2015 for the campaign that stalled the Agua Zarca dam on the Gualcarque river.",
+    "On 5 July 2021 the court found David Castillo, a former military intelligence officer and DESA’s president, guilty as co-perpetrator: he used his military background and paid informants to monitor her, then co-ordinated and financed the killing. He is the eighth person convicted. The financial backers of the plan have not been prosecuted.",
+    "The case is the clearest judicial demonstration in this record that the ‘renewable’ label protects no one: the convicted executive ran a hydroelectric company."
+  ],
+  "detail_fr": [
+    "Cáceres a cofondé le COPINH et reçu le prix Goldman de l’environnement en 2015 pour la campagne qui a bloqué le barrage d’Agua Zarca sur la rivière Gualcarque.",
+    "Le 5 juillet 2021, le tribunal a déclaré David Castillo, ancien officier du renseignement militaire et président de DESA, coupable comme coauteur : il a utilisé son passé militaire et des informateurs payés pour la surveiller, puis a coordonné et financé l’assassinat. Il est la huitième personne condamnée. Les financeurs du plan n’ont pas été poursuivis.",
+    "C’est la démonstration judiciaire la plus nette de ce relevé que l’étiquette « renouvelable » ne protège personne : le dirigeant condamné dirigeait une société hydroélectrique."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "Alleged mastermind convicted in the killing of Berta Cáceres — NPR", "u": "https://www.npr.org/2021/07/05/1013216856/alleged-mastermind-convicted-in-the-killing-of-environmental-activist-berta-cace" },
+    { "t": "David Castillo jailed for 22 years — Business & Human Rights Resource Centre", "u": "https://www.business-humanrights.org/en/latest-news/honduras-recibe-22-a%C3%B1os-de-c%C3%A1rcel-ejecutivo-de-desarrollos-energ%C3%A9ticos-desa-y-coautor-del-asesinato-de-la-ambientalista-berta-c%C3%A1ceres/" }
+  ],
+  "related": ["environmental-defenders", "hilda-murrell"]
+},
+{
+  "slug": "roberto-calvi",
+  "name": "Roberto Calvi",
+  "born": "1920", "died": "1982-06-18", "age": 62,
+  "country": "GB", "place_en": "Blackfriars Bridge, London", "place_fr": "Blackfriars Bridge, Londres",
+  "role_en": "Chairman of Banco Ambrosiano, ‘God’s banker’",
+  "role_fr": "Président du Banco Ambrosiano, « le banquier de Dieu »",
+  "category": "targeted-killing", "status": "unsolved",
+  "sectors": ["finance"],
+  "featured": false, "updated": "2026-08-20",
+  "warned": false,
+  "ruling_en": "First inquest: suicide. Second inquest (1983): open verdict. Now treated as murder after 2003 forensic tests. Five defendants acquitted in Rome in 2007.",
+  "ruling_fr": "Première enquête : suicide. Seconde enquête (1983) : verdict ouvert. Désormais traité comme un meurtre après les expertises de 2003. Cinq accusés acquittés à Rome en 2007.",
+  "summary_en": "Calvi was found hanging under Blackfriars Bridge with bricks in his pockets, days after his bank collapsed with $1.3 billion missing. Forensic tests two decades later found no scaffolding paint or metal on his shoes — he had not climbed there.",
+  "summary_fr": "Calvi a été retrouvé pendu sous Blackfriars Bridge, des briques dans les poches, quelques jours après l’effondrement de sa banque avec 1,3 milliard de dollars manquants. Des expertises menées vingt ans plus tard n’ont retrouvé sur ses chaussures ni peinture ni métal de l’échafaudage — il n’y avait pas grimpé.",
+  "detail_en": [
+    "Banco Ambrosiano was entangled with the Vatican bank (IOR) and the illegal masonic lodge P2. Calvi fled Italy on a false passport days before the bank collapsed.",
+    "The 1982 inquest found suicide; a second inquest in 1983, after the family retained George Carman QC, returned an open verdict. In 2003 tests on his shoes and hands found no trace of the scaffolding, indicating he was killed elsewhere and suspended afterwards. A 2007 Rome trial acquitted five defendants including a senior mafia figure for lack of evidence."
+  ],
+  "detail_fr": [
+    "Le Banco Ambrosiano était imbriqué avec la banque du Vatican (IOR) et la loge maçonnique illégale P2. Calvi a fui l’Italie avec un faux passeport quelques jours avant l’effondrement de la banque.",
+    "L’enquête de 1982 conclut au suicide ; une seconde, en 1983, après que la famille a engagé l’avocat George Carman, rend un verdict ouvert. En 2003, des analyses de ses chaussures et de ses mains ne retrouvent aucune trace de l’échafaudage, indiquant qu’il a été tué ailleurs puis suspendu. Le procès de Rome, en 2007, a acquitté cinq accusés, dont une figure mafieuse, faute de preuves."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "All acquitted in ‘God’s banker’ murder trial — NBC News", "u": "https://www.nbcnews.com/id/wbna19075395" },
+    { "t": "Roberto Calvi — Wikipedia", "u": "https://en.wikipedia.org/wiki/Roberto_Calvi" }
+  ],
+  "related": ["robert-maxwell", "enrico-mattei"]
+},
+{
+  "slug": "enrico-mattei",
+  "name": "Enrico Mattei",
+  "born": "1906", "died": "1962-10-27", "age": 56,
+  "country": "IT", "place_en": "Bascapè, near Pavia, Italy", "place_fr": "Bascapè, près de Pavie, Italie",
+  "role_en": "Founder of ENI, who broke the Seven Sisters oil cartel",
+  "role_fr": "Fondateur d’ENI, qui a brisé le cartel pétrolier des Sept Sœurs",
+  "category": "targeted-killing", "status": "unsolved",
+  "sectors": ["energy", "politics"],
+  "featured": true, "updated": "2026-08-20",
+  "warned": false,
+  "ruling_en": "1962 inquiry: accident in bad weather. 1997 exhumation and parliamentary commission: sabotage by an onboard bomb. Open homicide case; no perpetrators identified.",
+  "ruling_fr": "Enquête de 1962 : accident par mauvais temps. Exhumation et commission parlementaire de 1997 : sabotage par une bombe embarquée. Homicide toujours ouvert ; aucun auteur identifié.",
+  "summary_en": "Mattei rewrote the terms of the world oil trade by offering producer countries 75% of revenues, and dealt with Iran, the USSR and the Algerian FLN. His plane came down at night near Pavia. Thirty-five years later, an exhumation found blast injuries and explosive traces.",
+  "summary_fr": "Mattei a réécrit les règles du commerce pétrolier mondial en offrant 75 % des revenus aux pays producteurs, et traitait avec l’Iran, l’URSS et le FLN algérien. Son avion s’est abattu de nuit près de Pavie. Trente-cinq ans plus tard, une exhumation a révélé des lésions de souffle et des traces d’explosif.",
+  "detail_en": [
+    "Mattei’s 75/25 contracts and his dealings with nationalist governments made him the most disruptive figure in postwar energy. The initial inquiry, overseen by Giulio Andreotti’s government, attributed the crash to weather.",
+    "A 1997 exhumation and autopsy detected injuries consistent with a blast wave, and metal splinters embedded in the bones of Mattei and his pilot Irnerio Bertuzzi. A parliamentary commission identified TNT-type traces on recovered fragments and concluded the aircraft was sabotaged by a bomb detonated during descent. Italy still treats it as an open homicide."
+  ],
+  "detail_fr": [
+    "Les contrats 75/25 de Mattei et ses accords avec des gouvernements nationalistes en ont fait la figure la plus perturbatrice de l’énergie d’après-guerre. L’enquête initiale, supervisée par le gouvernement de Giulio Andreotti, a attribué l’accident à la météo.",
+    "Une exhumation et une autopsie en 1997 ont détecté des lésions compatibles avec une onde de souffle, et des éclats métalliques fichés dans les os de Mattei et de son pilote Irnerio Bertuzzi. Une commission parlementaire a identifié des traces de type TNT sur des fragments et conclu à un sabotage par bombe déclenchée à la descente. L’Italie traite toujours l’affaire comme un homicide ouvert."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "It happened today: Enrico Mattei dies in a plane crash — FIRSTonline", "u": "https://www.firstonline.info/en/it-happened-today-27-October-1962-enrico-mattei-dies-in-a-plane-crash-a-mystery-still-unsolved/" },
+    { "t": "The mystery of Enrico Mattei — HistoricWings", "u": "http://fly.historicwings.com/2012/10/the-mystery-of-enrico-mattei/" }
+  ],
+  "related": ["dag-hammarskjold", "roberto-calvi"]
+},
+{
+  "slug": "dag-hammarskjold",
+  "name": "Dag Hammarskjöld",
+  "born": "1905", "died": "1961-09-18", "age": 56,
+  "country": "ZM", "place_en": "near Ndola, Northern Rhodesia (now Zambia)", "place_fr": "près de Ndola, Rhodésie du Nord (aujourd’hui Zambie)",
+  "role_en": "Secretary-General of the United Nations",
+  "role_fr": "Secrétaire général des Nations unies",
+  "category": "targeted-killing", "status": "contested",
+  "sectors": ["politics", "intelligence"],
+  "featured": true, "updated": "2026-08-20",
+  "warned": false,
+  "ruling_en": "1961–62 Rhodesian inquiries: pilot error. UN inquiry (1962): open verdict. UN reports by Mohamed Chande Othman (2017, 2019): an external attack or threat is ‘plausible’.",
+  "ruling_fr": "Enquêtes rhodésiennes de 1961-62 : erreur de pilotage. Enquête de l’ONU (1962) : verdict ouvert. Rapports Othman pour l’ONU (2017, 2019) : une attaque ou une menace extérieure est « plausible ».",
+  "summary_en": "The UN Secretary-General died with fifteen others when his DC-6 came down on approach to Ndola, on a mission to negotiate a ceasefire in Katanga. Sixty years of UN review has moved the finding from pilot error to an external attack being plausible — and several states still have not declassified their files.",
+  "summary_fr": "Le secrétaire général de l’ONU est mort avec quinze autres personnes quand son DC-6 s’est écrasé à l’approche de Ndola, lors d’une mission de cessez-le-feu au Katanga. Soixante ans de réexamens onusiens ont fait passer la conclusion de l’erreur de pilotage à une attaque extérieure jugée plausible — et plusieurs États n’ont toujours pas déclassifié leurs archives.",
+  "detail_en": [
+    "Hammarskjöld was flying to meet Katangese leader Moïse Tshombé during the Congo crisis, in which Western mining interests backed the secession. The aircraft, ‘Albertina’, crashed in forest short of the runway.",
+    "Judge Mohamed Chande Othman’s reports for the UN Secretary-General document probable intercepts of relevant communications by member states, the capacity of Katanga’s air force to mount an attack, the presence of foreign paramilitary and intelligence personnel, and multiple eyewitnesses describing a second aircraft, fire before impact, or the DC-6 being engaged. Othman concluded an external attack or threat is plausible."
+  ],
+  "detail_fr": [
+    "Hammarskjöld se rendait auprès du dirigeant katangais Moïse Tshombé pendant la crise congolaise, où des intérêts miniers occidentaux soutenaient la sécession. L’appareil, « Albertina », s’est écrasé en forêt avant la piste.",
+    "Les rapports du juge Mohamed Chande Othman pour le secrétaire général documentent des interceptions probables de communications par des États membres, la capacité de l’aviation katangaise à mener une attaque, la présence de paramilitaires et d’agents étrangers, et plusieurs témoins décrivant un second appareil, un incendie avant l’impact, ou le DC-6 pris à partie. Othman conclut qu’une attaque ou une menace extérieure est plausible."
+  ],
+  "disputed_en": [
+    "Multiple eyewitness accounts of a second aircraft and of fire before impact.",
+    "The original inquiries were run by the colonial administration whose allies had an interest in the outcome.",
+    "Member states have still not released all relevant intercepts."
+  ],
+  "disputed_fr": [
+    "Plusieurs témoignages décrivant un second appareil et un incendie avant l’impact.",
+    "Les enquêtes initiales ont été menées par l’administration coloniale dont les alliés avaient un intérêt dans l’issue.",
+    "Des États membres n’ont toujours pas communiqué toutes les interceptions pertinentes."
+  ],
+  "holds_en": [
+    "Controlled flight into terrain on a night approach without ground radar remains a fully sufficient explanation on the physical evidence."
+  ],
+  "holds_fr": [
+    "Un vol contrôlé jusqu’au sol lors d’une approche de nuit sans radar au sol reste une explication pleinement suffisante au vu des éléments matériels."
+  ],
+  "sources": [
+    { "t": "Plausible that ‘attack or threat’ led to crash — UN News", "u": "https://news.un.org/en/story/2017/10/569262" },
+    { "t": "Crash investigations and the death of Dag Hammarskjöld — Dag Hammarskjöld Foundation", "u": "https://www.daghammarskjold.se/dag-hammarskjold/death-dag-hammarskjold/" }
+  ],
+  "related": ["enrico-mattei"]
+},
+{
+  "slug": "yann-piat",
+  "name": "Yann Piat",
+  "born": "1949", "died": "1994-02-25", "age": 44,
+  "country": "FR", "place_en": "Hyères, Var", "place_fr": "Hyères (Var)",
+  "role_en": "French MP for the Var, campaigning against corruption and organised crime",
+  "role_fr": "Députée du Var, engagée contre la corruption et le crime organisé",
+  "category": "targeted-killing", "status": "unsolved",
+  "sectors": ["politics"],
+  "featured": false, "updated": "2026-08-20",
+  "warned": true,
+  "warning_en": "Two years before her death she wrote a letter naming five men to be held responsible if she died suspiciously — including Maurice Arreckx, Bernard Tapie and the crime boss Jean-Louis Fargette.",
+  "warning_fr": "Deux ans avant sa mort, elle a écrit une lettre nommant cinq hommes à tenir pour responsables en cas de mort suspecte — dont Maurice Arreckx, Bernard Tapie et le parrain Jean-Louis Fargette.",
+  "ruling_en": "Assassination. Gunmen and intermediaries were convicted in 1998; the people who ordered it were never identified.",
+  "ruling_fr": "Assassinat. Tireurs et intermédiaires condamnés en 1998 ; les commanditaires n’ont jamais été identifiés.",
+  "summary_en": "Piat was shot by two men on a motorcycle as she was driven home in Hyères. She had left a written list, two years earlier, of who to look at if she died — and the trial never reached any of them.",
+  "summary_fr": "Piat a été abattue par deux hommes à moto alors qu’on la ramenait chez elle à Hyères. Elle avait laissé deux ans plus tôt une liste écrite des personnes à examiner si elle mourait — et le procès n’en a atteint aucune.",
+  "detail_en": [
+    "Piat had broken with the far right and built a platform on fighting the entanglement of Var politics, property development and the Provençal milieu. She was the first sitting French MP assassinated in the Fifth Republic.",
+    "The 1998 trial convicted the shooters and intermediaries but established no commissioning chain. The letter naming five men — written precisely for this contingency — did not produce a prosecution of any of them."
+  ],
+  "detail_fr": [
+    "Piat avait rompu avec l’extrême droite et bâti une ligne politique sur la lutte contre l’imbrication de la politique varoise, de la promotion immobilière et du milieu provençal. Elle est la première députée française assassinée sous la Ve République.",
+    "Le procès de 1998 a condamné les tireurs et les intermédiaires mais n’a établi aucune chaîne de commanditaires. La lettre nommant cinq hommes — écrite précisément pour ce cas de figure — n’a débouché sur la poursuite d’aucun d’eux."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "L’affaire Yann Piat — INA", "u": "https://www.ina.fr/ina-eclaire-actu/l-affaire-yann-piat" },
+    { "t": "1994 — L’assassinat de Yann Piat, députée du Var — Vouland Avocats", "u": "https://voulandavocats.com/affaires/1994-lassassinat-de-yann-piat-deputee-du-var/" }
+  ],
+  "related": ["bernard-borrel", "robert-boulin"]
+},
+{
+  "slug": "bernard-borrel",
+  "name": "Judge Bernard Borrel",
+  "born": "1956", "died": "1995-10-18", "age": 39,
+  "country": "DJ", "place_en": "Djibouti", "place_fr": "Djibouti",
+  "role_en": "French magistrate seconded as technical adviser to Djibouti’s justice ministry",
+  "role_fr": "Magistrat français détaché comme conseiller technique du ministère djiboutien de la Justice",
+  "category": "targeted-killing", "status": "unsolved",
+  "sectors": ["justice", "politics"],
+  "featured": false, "updated": "2026-08-20",
+  "warned": false,
+  "ruling_en": "Initially suicide by self-immolation, accepted by both Djiboutian and French authorities. Reclassified by French justice as assassination on 6 February 1996. Still unresolved, obstructed by defence secrecy.",
+  "ruling_fr": "D’abord suicide par immolation, thèse acceptée par les autorités djiboutiennes et françaises. Requalifié par la justice française en assassinat le 6 février 1996. Toujours non résolu, entravé par le secret défense.",
+  "summary_en": "Borrel’s partly burned body was found at the bottom of a ravine outside Djibouti City. The suicide theory required him to have walked into the desert and set himself alight; French forensic work established he could not have done so alone.",
+  "summary_fr": "Le corps partiellement brûlé de Borrel a été retrouvé au fond d’un ravin, à l’extérieur de Djibouti. La thèse du suicide supposait qu’il ait marché dans le désert et se soit immolé ; les expertises françaises ont établi qu’il n’avait pas pu le faire seul.",
+  "detail_en": [
+    "Borrel had been working on sensitive files touching the Djiboutian presidency. He disappeared on 18 October 1995; his body was found the next day, 80 kilometres from the capital.",
+    "Thirty years on, the French investigation is still blocked by classification and by the Franco-Djiboutian relationship. Borrel is one of only three French magistrates assassinated since 1945, alongside Judge Renaud (1975) and Judge Michel (1981)."
+  ],
+  "detail_fr": [
+    "Borrel travaillait sur des dossiers sensibles touchant à la présidence djiboutienne. Il disparaît le 18 octobre 1995 ; son corps est retrouvé le lendemain, à 80 kilomètres de la capitale.",
+    "Trente ans après, l’instruction française reste bloquée par la classification et par la relation franco-djiboutienne. Borrel est l’un des trois seuls magistrats français assassinés depuis 1945, avec le juge Renaud (1975) et le juge Michel (1981)."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "Affaire Borrel — Wikipédia", "u": "https://fr.wikipedia.org/wiki/Affaire_Borrel" },
+    { "t": "Trente ans après, la vérité face au secret défense — AllAfrica", "u": "https://fr.allafrica.com/stories/202510180109.html" }
+  ],
+  "related": ["yann-piat", "alberto-nisman"]
+},
+{
+  "slug": "thomas-baron",
+  "name": "Thomas Ronald Baron",
+  "born": "1929", "died": "1967-04-27", "age": 38,
+  "country": "US", "place_en": "Florida, near his home", "place_fr": "Floride, près de son domicile",
+  "role_en": "North American Aviation safety inspector who testified to Congress about Apollo 1",
+  "role_fr": "Inspecteur sécurité de North American Aviation, ayant témoigné devant le Congrès sur Apollo 1",
+  "category": "targeted-killing", "status": "contested",
+  "sectors": ["aerospace", "whistleblowing"],
+  "featured": true, "updated": "2026-08-20",
+  "warned": false,
+  "ruling_en": "Accident: a train struck his car at a level crossing. A witness saw it happen; no suspicion of foul play was recorded.",
+  "ruling_fr": "Accident : un train a percuté sa voiture à un passage à niveau. Une témoin a assisté à la scène ; aucune suspicion d’acte criminel n’a été consignée.",
+  "summary_en": "Baron was the quality inspector who documented the disarray in the Apollo command module programme. He was fired weeks before the Apollo 1 fire, testified to Congress on 21 April 1967, and was killed with his wife and stepdaughter six days later. The copy of his report submitted to the committee has since disappeared from the record.",
+  "summary_fr": "Baron était l’inspecteur qualité qui a documenté le désordre du programme du module de commande Apollo. Licencié quelques semaines avant l’incendie d’Apollo 1, il a témoigné devant le Congrès le 21 avril 1967 et a été tué avec sa femme et sa belle-fille six jours plus tard. L’exemplaire de son rapport remis à la commission a depuis disparu des archives.",
+  "detail_en": [
+    "Baron worked for North American Aviation, the prime contractor for the Apollo command module. He compiled a report — described in sources as either 275 or 500 pages — documenting sloppy work, ignored procedures and safety failures. North American fired him in January 1967, days before the fire that killed Gus Grissom, Ed White and Roger Chaffee on 27 January.",
+    "He testified before Congressman Olin Teague’s subcommittee on 21 April 1967, telling members the programme was in such disarray that the United States would never reach the Moon. The committee declined to enter the full report into the official record, citing its bulk and the cost of reproducing it. The submitted copy has never been located since.",
+    "Six days later a train hit his car at a crossing near his home, killing him, his wife and his stepdaughter instantly. A woman witnessed the collision. It was ruled an accident. Nothing material contradicts that ruling — what keeps the case open is the sequence and the missing report."
+  ],
+  "detail_fr": [
+    "Baron travaillait pour North American Aviation, maître d’œuvre du module de commande Apollo. Il a compilé un rapport — décrit selon les sources comme comptant 275 ou 500 pages — documentant un travail bâclé, des procédures ignorées et des manquements à la sécurité. North American le licencie en janvier 1967, quelques jours avant l’incendie qui tue Gus Grissom, Ed White et Roger Chaffee le 27 janvier.",
+    "Il témoigne devant la sous-commission du représentant Olin Teague le 21 avril 1967, déclarant que le programme est dans un tel désordre que les États-Unis n’atteindront jamais la Lune. La commission refuse de verser l’intégralité du rapport au dossier officiel, invoquant son volume et le coût de reproduction. L’exemplaire remis n’a jamais été retrouvé depuis.",
+    "Six jours plus tard, un train percute sa voiture à un passage à niveau près de chez lui, le tuant sur le coup avec son épouse et sa belle-fille. Une femme a assisté à la collision. L’accident a été retenu. Rien de matériel ne contredit cette conclusion — ce qui maintient le dossier ouvert, c’est l’enchaînement et le rapport disparu."
+  ],
+  "disputed_en": [
+    "He died six days after testifying, with his entire immediate family.",
+    "The full report submitted to Congress was never entered into the record and cannot now be located."
+  ],
+  "disputed_fr": [
+    "Il meurt six jours après son témoignage, avec toute sa famille proche.",
+    "Le rapport complet remis au Congrès n’a jamais été versé au dossier et reste introuvable."
+  ],
+  "holds_en": [
+    "The collision was witnessed by an independent bystander.",
+    "Level-crossing collisions were, and remain, a common cause of accidental death in the area."
+  ],
+  "holds_fr": [
+    "La collision a été vue par une témoin indépendante.",
+    "Les collisions aux passages à niveau étaient, et restent, une cause fréquente de mort accidentelle dans la région."
+  ],
+  "sources": [
+    { "t": "Thomas Baron — Wikipedia", "u": "https://en.wikipedia.org/wiki/Thomas_Baron" },
+    { "t": "After the fire: a long-lost transcript from the Apollo 1 investigation — The Space Review", "u": "https://www.thespacereview.com/article/4005/1" },
+    { "t": "Clavius — Baron bibliography", "u": "https://www.clavius.org/baron.html" }
+  ],
+  "related": ["apollo-1", "john-barnett"]
+}
+]

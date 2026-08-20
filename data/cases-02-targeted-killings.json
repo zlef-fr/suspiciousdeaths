@@ -1,0 +1,468 @@
+[
+{
+  "slug": "gerald-bull",
+  "name": "Gerald Bull",
+  "born": "1928", "died": "1990-03-22", "age": 62,
+  "country": "BE", "place_en": "Brussels, Belgium", "place_fr": "Bruxelles, Belgique",
+  "role_en": "Canadian ballistics engineer, designer of Iraq’s Project Babylon ‘supergun’",
+  "role_fr": "Ingénieur canadien en balistique, concepteur du « supercanon » irakien du projet Babylone",
+  "category": "targeted-killing", "status": "unsolved",
+  "sectors": ["physics", "intelligence"],
+  "featured": true, "updated": "2026-08-20",
+  "warned": false,
+  "ruling_en": "Homicide. No one has ever been charged.",
+  "ruling_fr": "Homicide. Personne n’a jamais été inculpé.",
+  "summary_en": "Bull was the world’s leading long-range artillery designer and was building a gun for Saddam Hussein capable of firing shells over a thousand kilometres. He was shot five times at point-blank range at his own front door, with his wallet left untouched. The killing is widely attributed to Mossad; no one has been charged in 36 years.",
+  "summary_fr": "Bull était le meilleur concepteur d’artillerie à longue portée au monde et construisait pour Saddam Hussein un canon capable de tirer à plus de mille kilomètres. Il a été abattu de cinq balles à bout portant devant sa porte, son portefeuille intact. L’assassinat est largement attribué au Mossad ; personne n’a été inculpé en 36 ans.",
+  "detail_en": [
+    "Bull had spent his career pushing the range of conventional guns, first for Canada and the US, then — after a conviction for illegal arms exports to South Africa — for whoever would fund him. By 1990 that was Iraq, and the programme was Project Babylon: a gun with a barrel over 150 metres long.",
+    "On 22 March 1990 he was shot twice in the neck and three times in the back as he reached his apartment door in Brussels. Nothing was taken. Investigative accounts, including the journalist Gordon Thomas, describe a Mossad operation authorised at prime-ministerial level. Israel has never confirmed or denied it. The Belgian file remains open and unsolved."
+  ],
+  "detail_fr": [
+    "Bull avait passé sa carrière à repousser la portée des canons conventionnels, d’abord pour le Canada et les États-Unis, puis — après une condamnation pour exportation illégale d’armes vers l’Afrique du Sud — pour qui voulait le financer. En 1990, c’était l’Irak, et le programme s’appelait Babylone : un canon au tube de plus de 150 mètres.",
+    "Le 22 mars 1990, il est abattu de deux balles dans la nuque et de trois dans le dos alors qu’il atteint la porte de son appartement bruxellois. Rien n’est emporté. Des enquêtes journalistiques, dont celle de Gordon Thomas, décrivent une opération du Mossad autorisée au niveau du Premier ministre. Israël n’a jamais confirmé ni démenti. Le dossier belge reste ouvert et non élucidé."
+  ],
+  "disputed_en": [],
+  "disputed_fr": [],
+  "holds_en": [],
+  "holds_fr": [],
+  "sources": [
+    { "t": "Gerald Bull — Wikipedia", "u": "https://en.wikipedia.org/wiki/Gerald_Bull" },
+    { "t": "The Man Who Made the Supergun — PBS Frontline", "u": "https://www.pbs.org/wgbh/frontline/wgbh/pages/frontline/programs/transcripts/911.html" }
+  ],
+  "related": ["mohsen-fakhrizadeh", "iran-nuclear-scientists-2025"]
+},
+{
+  "slug": "mohsen-fakhrizadeh",
+  "name": "Mohsen Fakhrizadeh",
+  "born": "1958", "died": "2020-11-27", "age": 62,
+  "country": "IR", "place_en": "Absard, near Tehran", "place_fr": "Absard, près de Téhéran",
+  "role_en": "Physicist regarded by Western intelligence as the architect of Iran’s nuclear weapons work",
+  "role_fr": "Physicien considéré par les services occidentaux comme l’architecte du volet militaire nucléaire iranien",
+  "category": "targeted-killing", "status": "established",
+  "sectors": ["nuclear", "intelligence"],
+  "featured": true, "updated": "2026-08-20",
+  "warned": false,
+  "ruling_en": "Assassination. Attributed to Mossad by extensive reporting; never officially claimed.",
+  "ruling_fr": "Assassinat. Attribué au Mossad par de nombreuses enquêtes ; jamais officiellement revendiqué.",
+  "summary_en": "Fakhrizadeh was killed on a road east of Tehran by a remote-operated machine gun mounted on a parked vehicle — an operation that lasted under a minute, required no operative on site, and left his wife, sitting beside him, unhurt.",
+  "summary_fr": "Fakhrizadeh a été tué sur une route à l’est de Téhéran par une mitrailleuse pilotée à distance montée sur un véhicule stationné — une opération de moins d’une minute, sans opérateur sur place, qui a laissé indemne son épouse assise à côté de lui.",
+  "detail_en": [
+    "Fakhrizadeh had been named for years in IAEA files and Western assessments as the head of Iran’s weaponisation research. He was the fifth Iranian nuclear scientist killed since 2010, and by far the most senior.",
+    "The method marked a step change: reporting by the New York Times described a computerised, satellite-linked machine gun operated remotely, with facial-recognition targeting, that fired only at him. The operation ended the debate over whether such killings could be conducted without exposing agents on the ground."
+  ],
+  "detail_fr": [
+    "Fakhrizadeh était désigné depuis des années, dans les dossiers de l’AIEA et les évaluations occidentales, comme le responsable des recherches de militarisation iraniennes. Il était le cinquième scientifique nucléaire iranien tué depuis 2010, et de très loin le plus haut placé.",
+    "La méthode marque une rupture : selon le New York Times, une mitrailleuse informatisée reliée par satellite, pilotée à distance et dotée d’un ciblage par reconnaissance faciale, n’a tiré que sur lui. L’opération a clos le débat sur la possibilité de tels assassinats sans exposer d’agents au sol."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "Mossad killed Iran’s top nuclear scientist with remote-operated machine gun — Times of Israel / NYT", "u": "https://www.timesofisrael.com/mossad-killed-irans-top-nuke-scientist-with-remote-operated-machine-gun-nyt/" },
+    { "t": "Assassination of top Iran weapons scientist — Science (AAAS)", "u": "https://www.science.org/content/article/assassination-top-iran-weapons-scientist-dims-hopes-nuclear-diplomacy" }
+  ],
+  "related": ["iran-nuclear-scientists-2010-2012", "iran-nuclear-scientists-2025"]
+},
+{
+  "slug": "iran-nuclear-scientists-2010-2012",
+  "name": "Iranian nuclear scientists, 2010–2012",
+  "born": "", "died": "2010-01-12", "age": null,
+  "country": "IR", "place_en": "Tehran, Iran", "place_fr": "Téhéran, Iran",
+  "role_en": "Four physicists and engineers of Iran’s nuclear programme killed in two years",
+  "role_fr": "Quatre physiciens et ingénieurs du programme nucléaire iranien tués en deux ans",
+  "category": "targeted-killing", "status": "established",
+  "sectors": ["nuclear"],
+  "featured": false, "updated": "2026-08-20",
+  "warned": false,
+  "ruling_en": "Assassinations by bomb and gunfire. Attributed by Iran to Israel; never officially claimed.",
+  "ruling_fr": "Assassinats à la bombe et par balles. Attribués par l’Iran à Israël ; jamais officiellement revendiqués.",
+  "summary_en": "Between January 2010 and January 2012, four Iranian nuclear scientists were killed in Tehran by remote-detonated motorcycle bombs, magnetic charges attached to their cars by passing motorcyclists, and gunfire. A fifth, Fereydoun Abbasi, survived the same method and was killed thirteen years later.",
+  "summary_fr": "Entre janvier 2010 et janvier 2012, quatre scientifiques nucléaires iraniens ont été tués à Téhéran par des bombes de moto télécommandées, des charges magnétiques posées sur leurs voitures par des motards, et par balles. Un cinquième, Fereydoun Abbasi, a survécu à la même méthode et a été tué treize ans plus tard.",
+  "detail_en": [
+    "Masoud Ali Mohammadi, a Tehran University physics professor, was killed on 12 January 2010 by a remote-controlled bomb on a motorcycle outside his home. Majid Shahriari died on 29 November 2010 when motorcyclists attached a magnetic bomb to his car on the Artesh highway; the identical method was used the same day against Fereydoun Abbasi, who survived and went on to lead Iran’s Atomic Energy Organisation.",
+    "Darioush Rezaeinejad was shot dead outside his home in July 2011. Mostafa Ahmadi Roshan was killed by another magnetic bomb on 11 January 2012. Iran attributed all of them to Israel, sometimes naming the United States and local agents; Israel has historically neither claimed nor denied such operations."
+  ],
+  "detail_fr": [
+    "Masoud Ali Mohammadi, professeur de physique à l’université de Téhéran, est tué le 12 janvier 2010 par une bombe télécommandée placée sur une moto devant chez lui. Majid Shahriari meurt le 29 novembre 2010 quand des motards fixent une bombe magnétique sur sa voiture, sur l’autoroute Artesh ; la même méthode est employée le même jour contre Fereydoun Abbasi, qui survit et dirigera l’Organisation iranienne de l’énergie atomique.",
+    "Darioush Rezaeinejad est abattu devant son domicile en juillet 2011. Mostafa Ahmadi Roshan est tué par une autre bombe magnétique le 11 janvier 2012. L’Iran a attribué tous ces actes à Israël, citant parfois les États-Unis et des agents locaux ; Israël n’a historiquement ni revendiqué ni démenti ce type d’opérations."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "Assassinations of Iran nuclear scientists — USIP Iran Primer", "u": "https://iranprimer.usip.org/blog/2020/dec/02/part-5-assassinations-iran-nuclear-scientists" },
+    { "t": "History of assassinations of Iran’s top nuclear scientists — VOA", "u": "https://www.voanews.com/a/extremism-watch_history-assassinations-irans-top-nuclear-scientists/6199135.html" }
+  ],
+  "related": ["mohsen-fakhrizadeh", "iran-nuclear-scientists-2025"]
+},
+{
+  "slug": "iran-nuclear-scientists-2025",
+  "name": "Iranian nuclear scientists, June 2025",
+  "born": "", "died": "2025-06-13", "age": null,
+  "country": "IR", "place_en": "Tehran and across Iran", "place_fr": "Téhéran et dans toute l’Iran",
+  "role_en": "Eleven to fourteen nuclear scientists killed in Israeli strikes, several with their families",
+  "role_fr": "Onze à quatorze scientifiques nucléaires tués dans des frappes israéliennes, plusieurs avec leurs familles",
+  "category": "targeted-killing", "status": "established",
+  "sectors": ["nuclear"],
+  "featured": true, "updated": "2026-08-20",
+  "warned": false,
+  "ruling_en": "Acknowledged military strikes. An Israeli official stated the operation killed 11 senior nuclear scientists and over 30 security chiefs.",
+  "ruling_fr": "Frappes militaires assumées. Un responsable israélien a déclaré que l’opération avait tué 11 scientifiques nucléaires de haut rang et plus de 30 responsables sécuritaires.",
+  "summary_en": "In June 2025 the targeted killing of nuclear scientists stopped being a deniable covert practice and became an openly acknowledged military campaign. Among the dead was Fereydoun Abbasi, who had survived a magnetic car bomb in 2010. Several scientists were killed at home together with their spouses and children.",
+  "summary_fr": "En juin 2025, l’assassinat ciblé de scientifiques nucléaires a cessé d’être une pratique clandestine niable pour devenir une campagne militaire ouvertement assumée. Parmi les morts, Fereydoun Abbasi, qui avait survécu à une bombe magnétique en 2010. Plusieurs scientifiques ont été tués chez eux avec leurs conjoints et leurs enfants.",
+  "detail_en": [
+    "Named among the dead: Fereydoun Abbasi-Davani, nuclear engineer and former head of the Atomic Energy Organisation of Iran; Mohammad Mehdi Tehranchi, theoretical physicist and president of Islamic Azad University; Abdolhamid Minouchehr; Ahmadreza Zolfaghari; Amirhossein Feqhi; Motalleblizadeh; Isar Tabatabai-Koshme, killed on 21 June with his wife; Ali Bakui, killed on 15 June with his family; Mohammad Reza Seddiqi Saber; and Mostafa Sadati Armaki, killed with his three children aged 5, 8 and 15.",
+    "The doctrinal shift matters as much as the toll. Fifteen years of deniable operations — motorcycle bombs, magnetic charges, a remote gun — were replaced by strikes claimed publicly by a state, with family members among the casualties."
+  ],
+  "detail_fr": [
+    "Parmi les morts identifiés : Fereydoun Abbasi-Davani, ingénieur nucléaire et ancien chef de l’Organisation iranienne de l’énergie atomique ; Mohammad Mehdi Tehranchi, physicien théoricien et président de l’université Azad ; Abdolhamid Minouchehr ; Ahmadreza Zolfaghari ; Amirhossein Feqhi ; Motalleblizadeh ; Isar Tabatabai-Koshme, tué le 21 juin avec son épouse ; Ali Bakui, tué le 15 juin avec sa famille ; Mohammad Reza Seddiqi Saber ; et Mostafa Sadati Armaki, tué avec ses trois enfants de 5, 8 et 15 ans.",
+    "Le basculement doctrinal compte autant que le bilan. Quinze ans d’opérations niables — bombes de moto, charges magnétiques, mitrailleuse à distance — ont été remplacés par des frappes publiquement revendiquées par un État, avec des membres de familles parmi les victimes."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "The Iranian generals and scientists killed by Israeli strikes — TIME", "u": "https://time.com/7293886/iranian-generals-scientists-targets-killed-by-israeli-strikes/" },
+    { "t": "Israeli official says strikes killed 11 nuclear scientists — Times of Israel", "u": "https://www.timesofisrael.com/israeli-official-says-iran-strikes-killed-over-30-security-chiefs-11-nuclear-scientists/" },
+    { "t": "Nuclear scientists have long been targets — Georgia Tech Research", "u": "https://research.gatech.edu/nuclear-scientists-have-long-been-targets-covert-ops-israel-has-brought-policy-out-shadows" }
+  ],
+  "related": ["mohsen-fakhrizadeh", "iran-nuclear-scientists-2010-2012"]
+},
+{
+  "slug": "alexander-litvinenko",
+  "name": "Alexander Litvinenko",
+  "born": "1962", "died": "2006-11-23", "age": 44,
+  "country": "GB", "place_en": "London, United Kingdom", "place_fr": "Londres, Royaume-Uni",
+  "role_en": "Former FSB officer, defector and public critic of Vladimir Putin",
+  "role_fr": "Ancien officier du FSB, transfuge et critique public de Vladimir Poutine",
+  "category": "targeted-killing", "status": "established",
+  "sectors": ["intelligence", "politics"],
+  "featured": true, "updated": "2026-08-20",
+  "warned": true,
+  "warning_en": "From his hospital bed, days before dying, he dictated a statement naming Putin as responsible for his poisoning.",
+  "warning_fr": "Depuis son lit d’hôpital, quelques jours avant de mourir, il a dicté une déclaration désignant Poutine comme responsable de son empoisonnement.",
+  "ruling_en": "Murder by polonium-210 poisoning. UK public inquiry (2016): an FSB operation ‘probably approved’ by Nikolai Patrushev and President Putin.",
+  "ruling_fr": "Meurtre par empoisonnement au polonium 210. Enquête publique britannique (2016) : opération du FSB « probablement approuvée » par Nikolaï Patrouchev et le président Poutine.",
+  "summary_en": "Litvinenko drank tea laced with polonium-210 at a London hotel and died of acute radiation syndrome three weeks later. A British public inquiry named the two men who poisoned him, identified the FSB as the sponsor, and found the operation was probably approved at the top of the Russian state.",
+  "summary_fr": "Litvinenko a bu un thé contenant du polonium 210 dans un hôtel londonien et est mort d’un syndrome d’irradiation aiguë trois semaines plus tard. Une enquête publique britannique a nommé les deux hommes qui l’ont empoisonné, identifié le FSB comme commanditaire et conclu que l’opération avait probablement été approuvée au sommet de l’État russe.",
+  "detail_en": [
+    "Litvinenko had publicly accused the FSB of orchestrating apartment bombings in Russia and was working for British intelligence and for exiled businessmen. On 1 November 2006 he met Andrei Lugovoi and Dmitri Kovtun in the Pine Bar of the Millennium Hotel in Mayfair.",
+    "The polonium trail was traceable through hotel rooms, aircraft and restaurants across London. Sir Robert Owen’s 2016 report concluded that Lugovoi and Kovtun poisoned him under FSB direction and that the operation was probably approved by Patrushev and Putin. Russia has refused extradition; Lugovoi later became a member of the Duma."
+  ],
+  "detail_fr": [
+    "Litvinenko avait accusé publiquement le FSB d’avoir orchestré des attentats contre des immeubles en Russie et travaillait pour le renseignement britannique et des hommes d’affaires exilés. Le 1er novembre 2006, il rencontre Andreï Lougovoï et Dmitri Kovtoun au Pine Bar du Millennium Hotel, à Mayfair.",
+    "La trace du polonium était détectable dans des chambres d’hôtel, des avions et des restaurants dans tout Londres. Le rapport de Sir Robert Owen (2016) conclut que Lougovoï et Kovtoun l’ont empoisonné sous la direction du FSB et que l’opération a probablement été approuvée par Patrouchev et Poutine. La Russie a refusé l’extradition ; Lougovoï est devenu député à la Douma."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "Litvinenko inquiry: key findings — BBC", "u": "https://feeds.bbci.co.uk/news/uk-35371344" },
+    { "t": "Putin ‘probably’ approved murder — NPR", "u": "https://www.npr.org/2016/01/21/463865354/vladimir-putin-probably-approved-murder-of-russian-spy-british-report-says" }
+  ],
+  "related": ["alexei-navalny", "nikolai-glushkov", "alexander-perepilichnyy"]
+},
+{
+  "slug": "alexei-navalny",
+  "name": "Alexei Navalny",
+  "born": "1976", "died": "2024-02-16", "age": 47,
+  "country": "RU", "place_en": "IK-3 penal colony, Kharp, Arctic Russia", "place_fr": "Colonie pénitentiaire IK-3, Kharp, Arctique russe",
+  "role_en": "Russia’s principal opposition leader and anti-corruption investigator",
+  "role_fr": "Principal opposant russe et enquêteur anticorruption",
+  "category": "targeted-killing", "status": "established",
+  "sectors": ["politics"],
+  "featured": true, "updated": "2026-08-20",
+  "warned": true,
+  "warning_en": "He had already survived a Novichok poisoning in 2020 and said publicly that if he were killed it would be on the Kremlin’s orders.",
+  "warning_fr": "Il avait déjà survécu à un empoisonnement au Novitchok en 2020 et déclarait publiquement que s’il était tué, ce serait sur ordre du Kremlin.",
+  "ruling_en": "Russia: cardiac arrhythmia. In February 2026 the UK, France, Germany, Sweden and the Netherlands jointly stated that laboratory tests conclusively confirmed poisoning by epibatidine.",
+  "ruling_fr": "Russie : arythmie cardiaque. En février 2026, le Royaume-Uni, la France, l’Allemagne, la Suède et les Pays-Bas ont déclaré conjointement que des analyses confirmaient de façon concluante un empoisonnement à l’épibatidine.",
+  "summary_en": "Navalny died in an Arctic penal colony after three years of escalating punishment. Russia said his heart stopped. Five European governments later announced that samples smuggled out of Russia tested conclusively for epibatidine — a frog-derived toxin to which no prisoner above the Arctic Circle could be exposed by accident.",
+  "summary_fr": "Navalny est mort dans une colonie pénitentiaire arctique après trois ans de sanctions croissantes. La Russie a dit que son cœur s’était arrêté. Cinq gouvernements européens ont ensuite annoncé que des prélèvements sortis clandestinement de Russie révélaient de façon concluante de l’épibatidine — une toxine issue de grenouilles à laquelle aucun détenu au-delà du cercle polaire ne peut être exposé par accident.",
+  "detail_en": [
+    "Navalny returned to Russia in January 2021 knowing he would be jailed, five months after being poisoned with Novichok and evacuated to Berlin. He was moved to the IK-3 colony at Kharp in December 2023 and held in punishment cells for much of his final year.",
+    "The Russian forensic examination bears the marks of a conclusion written in advance. The February 2026 joint European statement, based on independent laboratory analysis of biological samples, identified epibatidine and held the Russian state responsible. No individual has been charged."
+  ],
+  "detail_fr": [
+    "Navalny est rentré en Russie en janvier 2021 en sachant qu’il serait emprisonné, cinq mois après avoir été empoisonné au Novitchok et évacué vers Berlin. Il est transféré à la colonie IK-3 de Kharp en décembre 2023 et passe une grande partie de sa dernière année en cellule disciplinaire.",
+    "L’expertise russe porte les marques d’une conclusion écrite d’avance. La déclaration européenne commune de février 2026, fondée sur des analyses de laboratoire indépendantes de prélèvements biologiques, identifie l’épibatidine et impute la responsabilité à l’État russe. Aucune personne n’a été inculpée."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "Death and funeral of Alexei Navalny — Wikipedia", "u": "https://en.wikipedia.org/wiki/Death_and_funeral_of_Alexei_Navalny" },
+    { "t": "Findings from the official forensic examination — FBK", "u": "https://fbk.info/en/news/findings-from-the-official-forensic-examination-of-alexei-navalny" },
+    { "t": "Navalny may have been poisoned in prison — RFE/RL", "u": "https://www.rferl.org/a/aleksei-navalny-death-prison-insider-report-poisoning-probe/33140565.html" }
+  ],
+  "related": ["alexander-litvinenko", "boris-nemtsov", "sergei-magnitsky"]
+},
+{
+  "slug": "anna-politkovskaya",
+  "name": "Anna Politkovskaya",
+  "born": "1958", "died": "2006-10-07", "age": 48,
+  "country": "RU", "place_en": "Moscow, Russia", "place_fr": "Moscou, Russie",
+  "role_en": "Novaya Gazeta reporter documenting abuses in Chechnya",
+  "role_fr": "Journaliste à Novaïa Gazeta, documentant les exactions en Tchétchénie",
+  "category": "targeted-killing", "status": "unsolved",
+  "sectors": ["journalism"],
+  "featured": false, "updated": "2026-08-20",
+  "warned": true,
+  "warning_en": "She had survived a poisoning in 2004 and had described repeated threats connected to her Chechnya reporting.",
+  "warning_fr": "Elle avait survécu à un empoisonnement en 2004 et décrivait des menaces répétées liées à ses reportages sur la Tchétchénie.",
+  "ruling_en": "Contract killing. Five men convicted in 2011–2014, including the organiser, sentenced to life. The person who ordered it has never been identified.",
+  "ruling_fr": "Assassinat commandité. Cinq hommes condamnés entre 2011 et 2014, dont l’organisateur, à la perpétuité. Le commanditaire n’a jamais été identifié.",
+  "summary_en": "Politkovskaya was shot in the lobby of her apartment building in an execution-style killing, on Vladimir Putin’s birthday. The gunmen and their organiser were eventually convicted; Russia’s own Investigative Committee concedes it never established who ordered the killing.",
+  "summary_fr": "Politkovskaïa a été abattue dans le hall de son immeuble, façon exécution, le jour de l’anniversaire de Vladimir Poutine. Les tireurs et leur organisateur ont fini par être condamnés ; le Comité d’enquête russe lui-même reconnaît n’avoir jamais établi qui avait commandité l’assassinat.",
+  "detail_en": [
+    "Politkovskaya was the most persistent chronicler of torture, disappearances and extrajudicial killing in the second Chechen war, and of the Kadyrov administration installed afterwards. She had survived a poisoning while flying to cover the Beslan siege in 2004.",
+    "Five men, most of them Chechen, were convicted, including Lom-Ali Gaitukayev, who organised the killing on the orders of unidentified figures and received a life sentence. Investigators have publicly acknowledged that they have not identified the person who commissioned it."
+  ],
+  "detail_fr": [
+    "Politkovskaïa était la chroniqueuse la plus opiniâtre des tortures, disparitions et exécutions extrajudiciaires de la seconde guerre de Tchétchénie, et de l’administration Kadyrov installée ensuite. Elle avait survécu à un empoisonnement en vol alors qu’elle se rendait à Beslan en 2004.",
+    "Cinq hommes, pour la plupart tchétchènes, ont été condamnés, dont Lom-Ali Gaïtoukaïev, qui a organisé l’assassinat sur ordre de personnes non identifiées et a écopé de la perpétuité. Les enquêteurs ont publiquement reconnu ne pas avoir identifié le commanditaire."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "Five sentenced in killing of Russian journalist — AP via Fox News", "u": "https://www.foxnews.com/world/5-sentenced-2-to-life-in-killing-of-russian-journalist-politikovskaya" },
+    { "t": "The same fingerprints in the killing of Nemtsov and Politkovskaya — KHPG", "u": "https://khpg.org/en/1444346015" }
+  ],
+  "related": ["boris-nemtsov", "alexei-navalny"]
+},
+{
+  "slug": "boris-nemtsov",
+  "name": "Boris Nemtsov",
+  "born": "1959", "died": "2015-02-27", "age": 55,
+  "country": "RU", "place_en": "Bolshoy Moskvoretsky Bridge, Moscow", "place_fr": "Pont Bolchoï Moskvoretski, Moscou",
+  "role_en": "Former Russian deputy prime minister turned opposition leader",
+  "role_fr": "Ancien vice-Premier ministre russe devenu chef de l’opposition",
+  "category": "targeted-killing", "status": "unsolved",
+  "sectors": ["politics"],
+  "featured": false, "updated": "2026-08-20",
+  "warned": true,
+  "warning_en": "Weeks before his death he told an interviewer he feared Putin would have him killed.",
+  "warning_fr": "Quelques semaines avant sa mort, il déclarait à un journaliste craindre que Poutine ne le fasse tuer.",
+  "ruling_en": "Murder. Five Chechen men convicted, including the gunman Zaur Dadayev. The person who ordered it was never prosecuted.",
+  "ruling_fr": "Meurtre. Cinq Tchétchènes condamnés, dont le tireur Zaour Dadaïev. Le commanditaire n’a jamais été poursuivi.",
+  "summary_en": "Nemtsov was shot four times in the back while walking across a bridge in direct view of the Kremlin, days before an opposition march and while finalising a report on Russian troops in Ukraine.",
+  "summary_fr": "Nemtsov a été abattu de quatre balles dans le dos alors qu’il traversait un pont en vue directe du Kremlin, quelques jours avant une marche de l’opposition et alors qu’il finalisait un rapport sur la présence de troupes russes en Ukraine.",
+  "detail_en": [
+    "Nemtsov had been a first deputy prime minister under Yeltsin before becoming one of the most visible critics of the Putin era. He was killed on 27 February 2015 within sight of the Kremlin walls, on one of the most heavily surveilled bridges in Russia.",
+    "Zaur Dadayev, a former officer in a Chechen security unit, was convicted as the gunman along with four accomplices; the court heard the group had been promised 15 million roubles. Nemtsov’s allies describe the investigation as a containment exercise that deliberately stopped below the level of those who ordered it."
+  ],
+  "detail_fr": [
+    "Nemtsov avait été premier vice-Premier ministre sous Eltsine avant de devenir l’un des critiques les plus visibles de l’ère Poutine. Il est tué le 27 février 2015 en vue des murs du Kremlin, sur l’un des ponts les plus surveillés de Russie.",
+    "Zaour Dadaïev, ancien officier d’une unité de sécurité tchétchène, a été condamné comme tireur avec quatre complices ; le tribunal a entendu qu’une prime de 15 millions de roubles leur avait été promise. Les proches de Nemtsov décrivent une enquête de containment, délibérément arrêtée en dessous du niveau des commanditaires."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "Navalny’s death preceded by a long list of murders — Kyiv Independent", "u": "https://kyivindependent.com/navalnys-death-preceded-by-long-list-of-putin-critics-murders/" },
+    { "t": "The list is long — RFE/RL", "u": "https://www.rferl.org/a/enemies-kremlin-deaths-prigozhin-list/32562583.html" }
+  ],
+  "related": ["anna-politkovskaya", "alexei-navalny"]
+},
+{
+  "slug": "sergei-magnitsky",
+  "name": "Sergei Magnitsky",
+  "born": "1972", "died": "2009-11-16", "age": 37,
+  "country": "RU", "place_en": "Butyrka prison, Moscow", "place_fr": "Prison de Boutyrka, Moscou",
+  "role_en": "Auditor who exposed a $230 million tax fraud by Russian officials",
+  "role_fr": "Auditeur ayant révélé une fraude fiscale de 230 millions de dollars impliquant des responsables russes",
+  "category": "targeted-killing", "status": "established",
+  "sectors": ["finance", "whistleblowing"],
+  "featured": false, "updated": "2026-08-20",
+  "warned": false,
+  "ruling_en": "Death in custody following denial of medical care and a beating. No effective investigation; he was tried and convicted posthumously.",
+  "ruling_fr": "Mort en détention après un refus de soins et des coups. Aucune enquête effective ; il a été jugé et condamné à titre posthume.",
+  "summary_en": "Magnitsky uncovered how officials had stolen $230 million through fraudulent tax refunds, testified about it, and was arrested by officers he had named. He was held for 358 days, denied treatment for pancreatitis and gallstones, beaten shortly before he died, and then prosecuted after his death.",
+  "summary_fr": "Magnitski a mis au jour le détournement de 230 millions de dollars par des fonctionnaires via de faux remboursements d’impôts, a témoigné, et a été arrêté par des officiers qu’il avait nommés. Détenu 358 jours, privé de soins pour une pancréatite et des calculs biliaires, battu peu avant sa mort, il a ensuite été poursuivi après son décès.",
+  "detail_en": [
+    "Magnitsky was an auditor working for Hermitage Capital. After identifying the fraud and testifying, he was arrested in November 2008 on tax evasion charges brought by officers implicated in his own testimony.",
+    "He died in Butyrka prison on 16 November 2009. Russia’s presidential human rights council found he had been beaten and denied care. No one was meaningfully punished; instead he was convicted posthumously in 2013. His death produced the Magnitsky Acts, a family of sanctions laws now adopted in more than 30 jurisdictions."
+  ],
+  "detail_fr": [
+    "Magnitski était auditeur pour Hermitage Capital. Après avoir identifié la fraude et témoigné, il est arrêté en novembre 2008 pour évasion fiscale, sur des charges portées par des officiers mis en cause dans son propre témoignage.",
+    "Il meurt à la prison de Boutyrka le 16 novembre 2009. Le conseil présidentiel russe des droits de l’homme a établi qu’il avait été battu et privé de soins. Personne n’a été réellement sanctionné ; il a au contraire été condamné à titre posthume en 2013. Sa mort a donné naissance aux lois Magnitski, adoptées dans plus de 30 juridictions."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "Kremlin critics who died — Kyiv Independent", "u": "https://kyivindependent.com/navalnys-death-preceded-by-long-list-of-putin-critics-murders/" }
+  ],
+  "related": ["alexander-perepilichnyy", "alexei-navalny"]
+},
+{
+  "slug": "nikolai-glushkov",
+  "name": "Nikolai Glushkov",
+  "born": "1949", "died": "2018-03-12", "age": 68,
+  "country": "GB", "place_en": "New Malden, London", "place_fr": "New Malden, Londres",
+  "role_en": "Former Aeroflot deputy director, Russian political refugee in the UK",
+  "role_fr": "Ancien directeur adjoint d’Aeroflot, réfugié politique russe au Royaume-Uni",
+  "category": "targeted-killing", "status": "unsolved",
+  "sectors": ["finance", "politics"],
+  "featured": false, "updated": "2026-08-20",
+  "warned": false,
+  "ruling_en": "Unlawful killing by strangulation (coroner). Counter-terrorism police led the investigation; no arrests.",
+  "ruling_fr": "Homicide illégal par strangulation (coroner). Enquête pilotée par la police antiterroriste ; aucune arrestation.",
+  "summary_en": "Glushkov was found dead at his London home days after the Salisbury Novichok attack. A coroner ruled he had been strangled. The murder investigation was run by counter-terrorism officers, hundreds of statements were taken, and no one has ever been arrested.",
+  "summary_fr": "Glouchkov a été retrouvé mort à son domicile londonien quelques jours après l’attaque au Novitchok de Salisbury. Un coroner a conclu qu’il avait été étranglé. L’enquête criminelle a été confiée à la police antiterroriste, des centaines de dépositions ont été recueillies, et personne n’a jamais été arrêté.",
+  "detail_en": [
+    "Glushkov fled Russia after fraud charges tied to his Aeroflot role and was granted political asylum in 2010. He was a close associate of Boris Berezovsky, who was himself found dead in a locked bathroom in 2013 with a scarf around his neck, in a case that recorded an open verdict.",
+    "His daughter found his body on 12 March 2018. Senior coroner Chinyere Inyama ruled unlawful killing. Police appealed for information about a black car seen near the house, which has never been traced. Detectives said nothing linked the death to the Skripal poisoning eight days earlier."
+  ],
+  "detail_fr": [
+    "Glouchkov a fui la Russie après des poursuites pour fraude liées à ses fonctions chez Aeroflot et a obtenu l’asile politique en 2010. Il était un proche de Boris Berezovski, lui-même retrouvé mort dans une salle de bains verrouillée en 2013, une écharpe autour du cou, affaire close sur un verdict ouvert.",
+    "Sa fille découvre son corps le 12 mars 2018. Le coroner principal Chinyere Inyama conclut à un homicide illégal. La police a lancé un appel à témoins sur une voiture noire vue près du domicile, jamais retrouvée. Les enquêteurs ont indiqué que rien ne reliait cette mort à l’empoisonnement des Skripal huit jours plus tôt."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "Coroner rules Glushkov was strangled — Reuters via Yahoo", "u": "https://news.yahoo.com/russian-businessman-glushkov-strangled-2018-075145445.html" },
+    { "t": "Counter-terror police investigate ‘unexplained’ death — BBC", "u": "https://feeds.bbci.co.uk/news/uk-43385998" }
+  ],
+  "related": ["alexander-litvinenko", "alexander-perepilichnyy"]
+},
+{
+  "slug": "yevgeny-prigozhin",
+  "name": "Yevgeny Prigozhin",
+  "born": "1961", "died": "2023-08-23", "age": 62,
+  "country": "RU", "place_en": "Tver region, Russia", "place_fr": "Région de Tver, Russie",
+  "role_en": "Head of the Wagner private military company",
+  "role_fr": "Chef de la société militaire privée Wagner",
+  "category": "targeted-killing", "status": "unsolved",
+  "sectors": ["intelligence", "politics"],
+  "featured": false, "updated": "2026-08-20",
+  "warned": false,
+  "ruling_en": "Intentional onboard explosion. Putin stated grenade fragments were found in the victims’ bodies and there was no external impact. US intelligence assessed an intentional explosion; US and UK officials said Putin ‘probably approved’ it.",
+  "ruling_fr": "Explosion intentionnelle à bord. Poutine a déclaré que des fragments de grenade avaient été retrouvés dans les corps et qu’il n’y avait pas eu d’impact externe. Le renseignement américain a conclu à une explosion intentionnelle ; les responsables américains et britanniques ont dit que Poutine l’avait « probablement approuvée ».",
+  "summary_en": "Two months after leading an armed mutiny that reached within 200 km of Moscow, Prigozhin’s private jet fell out of the sky with his senior commanders aboard. The Russian president himself later said the cause was an explosion inside the aircraft.",
+  "summary_fr": "Deux mois après avoir mené une mutinerie armée arrivée à moins de 200 km de Moscou, le jet privé de Prigojine s’est abattu avec ses principaux commandants à bord. Le président russe lui-même a ensuite déclaré que la cause était une explosion à l’intérieur de l’appareil.",
+  "detail_en": [
+    "The Embraer Legacy 600 was flying from Moscow to St Petersburg on 23 August 2023 when it fell near the village of Kuzhenkino. All ten people aboard died, including Wagner co-founder Dmitry Utkin and logistics chief Valery Chekalov.",
+    "In October 2023 Putin said investigators had found hand-grenade fragments in the bodies and no sign of external impact, and complained that no alcohol or drug testing had been done. A preliminary US assessment concluded an intentional explosion caused the crash. The Kremlin has called the suggestion that Putin ordered it an ‘absolute lie’."
+  ],
+  "detail_fr": [
+    "L’Embraer Legacy 600 reliait Moscou à Saint-Pétersbourg le 23 août 2023 quand il s’est abattu près du village de Koujenkino. Les dix personnes à bord sont mortes, dont le cofondateur de Wagner Dmitri Outkine et le chef de la logistique Valeri Tchekalov.",
+    "En octobre 2023, Poutine a déclaré que les enquêteurs avaient trouvé des fragments de grenade dans les corps et aucun signe d’impact externe, en regrettant l’absence de tests d’alcoolémie et de stupéfiants. Une évaluation préliminaire américaine conclut à une explosion intentionnelle. Le Kremlin qualifie de « mensonge absolu » l’idée que Poutine l’aurait ordonnée."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "Putin suggests plane brought down by grenade blast — Al Jazeera", "u": "https://www.aljazeera.com/news/2023/10/6/putin-suggests-wagner-mercenary-chiefs-plane-brought-down-by-grenade-blast" },
+    { "t": "Prigozhin plane crash: what we know — Al Jazeera", "u": "https://www.aljazeera.com/news/2023/8/31/prigozhin-plane-crash-what-we-know-over-a-week-after-wagner-chiefs-death" }
+  ],
+  "related": ["russian-energy-executives", "alexei-navalny"]
+},
+{
+  "slug": "georgi-markov",
+  "name": "Georgi Markov",
+  "born": "1929", "died": "1978-09-11", "age": 49,
+  "country": "GB", "place_en": "Waterloo Bridge, London", "place_fr": "Waterloo Bridge, Londres",
+  "role_en": "Bulgarian dissident writer and broadcaster for the BBC and RFE",
+  "role_fr": "Écrivain dissident bulgare, collaborateur de la BBC et de RFE",
+  "category": "targeted-killing", "status": "unsolved",
+  "sectors": ["journalism", "intelligence"],
+  "featured": false, "updated": "2026-08-20",
+  "warned": false,
+  "ruling_en": "Murder by ricin poisoning. The Bulgarian investigation was closed in 2013 without charges; much of the file had been destroyed.",
+  "ruling_fr": "Meurtre par empoisonnement à la ricine. L’enquête bulgare a été close en 2013 sans inculpation ; une grande partie du dossier avait été détruite.",
+  "summary_en": "Markov felt a sting in his leg while waiting for a bus on Waterloo Bridge; a man behind him picked up an umbrella and apologised in a foreign accent. Four days later he was dead. A ricin pellet the size of a pinhead was recovered from his thigh.",
+  "summary_fr": "Markov a ressenti une piqûre à la jambe en attendant le bus sur Waterloo Bridge ; derrière lui, un homme a ramassé un parapluie et s’est excusé avec un accent étranger. Quatre jours plus tard, il était mort. Une microbille de ricine de la taille d’une tête d’épingle a été extraite de sa cuisse.",
+  "detail_en": [
+    "Markov had defected in 1969 and broadcast satirical attacks on the Zhivkov regime. Ten days before the attack, another Bulgarian émigré journalist, Vladimir Kostov, was struck by an identical pellet on the Paris Métro; he survived.",
+    "Former KGB officers Oleg Kalugin and Oleg Gordievsky separately described KGB involvement and the umbrella delivery mechanism. Multiple journalistic investigations point to Francesco Gullino, a Dane of Bulgarian origin codenamed ‘Piccadilly’. He was never charged and died in 2021."
+  ],
+  "detail_fr": [
+    "Markov avait fait défection en 1969 et diffusait des attaques satiriques contre le régime Jivkov. Dix jours avant l’attaque, un autre journaliste émigré bulgare, Vladimir Kostov, était atteint d’une bille identique dans le métro parisien ; il a survécu.",
+    "Les anciens officiers du KGB Oleg Kalouguine et Oleg Gordievski ont décrit séparément l’implication du KGB et le mécanisme du parapluie. Plusieurs enquêtes journalistiques désignent Francesco Gullino, Danois d’origine bulgare au nom de code « Piccadilly ». Il n’a jamais été inculpé et est mort en 2021."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "Bulgaria closes umbrella killing probe — BBC", "u": "https://feeds.bbci.co.uk/news/world-europe-24068781" },
+    { "t": "Letter from Bulgarian intelligence refutes spy claim — RFE/RL", "u": "https://www.rferl.org/a/no-agent-bulgarian-spies-letter-refutes-talk-of-umbrella-murder-victim-markov-as-spy/29772449.html" }
+  ],
+  "related": ["alexander-litvinenko"]
+},
+{
+  "slug": "jamal-khashoggi",
+  "name": "Jamal Khashoggi",
+  "born": "1958", "died": "2018-10-02", "age": 59,
+  "country": "TR", "place_en": "Saudi consulate, Istanbul", "place_fr": "Consulat d’Arabie saoudite, Istanbul",
+  "role_en": "Saudi journalist and Washington Post columnist",
+  "role_fr": "Journaliste saoudien et chroniqueur du Washington Post",
+  "category": "targeted-killing", "status": "established",
+  "sectors": ["journalism", "politics"],
+  "featured": true, "updated": "2026-08-20",
+  "warned": false,
+  "ruling_en": "Premeditated murder by Saudi state agents (UN special rapporteur). The CIA assessed with high confidence that Crown Prince Mohammed bin Salman ordered it.",
+  "ruling_fr": "Meurtre prémédité par des agents de l’État saoudien (rapporteuse spéciale de l’ONU). La CIA a évalué avec un haut degré de confiance que le prince héritier Mohammed ben Salmane l’avait ordonné.",
+  "summary_en": "Khashoggi walked into his country’s consulate in Istanbul to collect a document for his marriage and never walked out. A 15-man team flown in from Riyadh killed and dismembered him. A UN inquiry called it a state execution; the CIA concluded the crown prince ordered it.",
+  "summary_fr": "Khashoggi est entré dans le consulat de son pays à Istanbul pour retirer un document en vue de son mariage et n’en est jamais ressorti. Une équipe de quinze hommes venue de Riyad l’a tué et démembré. Une enquête de l’ONU a qualifié l’acte d’exécution d’État ; la CIA a conclu que le prince héritier l’avait ordonné.",
+  "detail_en": [
+    "Khashoggi had been a Saudi insider — adviser to the royal court, editor of Al-Watan — before going into self-imposed exile in 2017 and writing columns criticising Mohammed bin Salman’s repression of dissent.",
+    "UN special rapporteur Agnès Callamard found evidence of ‘a brutal and premeditated killing, planned and perpetrated by officials of the state of Saudi Arabia’, and said it was inconceivable the crown prince was unaware. The CIA’s assessment cited the involvement of a key adviser and members of MBS’s own protective detail. Saudi Arabia convicted eight people in a closed trial; sentences were later reduced."
+  ],
+  "detail_fr": [
+    "Khashoggi avait été un homme du sérail saoudien — conseiller de la cour, rédacteur en chef d’Al-Watan — avant de s’exiler volontairement en 2017 et d’écrire des chroniques critiquant la répression de la dissidence par Mohammed ben Salmane.",
+    "La rapporteuse spéciale de l’ONU Agnès Callamard a établi des preuves d’« un meurtre brutal et prémédité, planifié et perpétré par des agents de l’État saoudien », et jugé inconcevable que le prince héritier l’ait ignoré. L’évaluation de la CIA cite l’implication d’un conseiller clé et de membres de la garde rapprochée de MBS. L’Arabie saoudite a condamné huit personnes lors d’un procès à huis clos ; les peines ont ensuite été réduites."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "Inquiry into the killing of Mr Jamal Khashoggi — OHCHR", "u": "https://www.ohchr.org/en/special-procedures/sr-executions/inquiry-killing-mr-jamal-kashoggi" },
+    { "t": "CIA assessment on the Khashoggi killing — FactCheck.org", "u": "https://www.factcheck.org/2025/11/trump-at-odds-with-cia-assessment-on-khashoggi-killing/" }
+  ],
+  "related": ["daphne-caruana-galizia", "jan-kuciak"]
+},
+{
+  "slug": "daphne-caruana-galizia",
+  "name": "Daphne Caruana Galizia",
+  "born": "1964", "died": "2017-10-16", "age": 53,
+  "country": "MT", "place_en": "Bidnija, Malta", "place_fr": "Bidnija, Malte",
+  "role_en": "Investigative journalist reporting on Maltese corruption and the Panama Papers",
+  "role_fr": "Journaliste d’investigation sur la corruption maltaise et les Panama Papers",
+  "category": "targeted-killing", "status": "established",
+  "sectors": ["journalism"],
+  "featured": true, "updated": "2026-08-20",
+  "warned": true,
+  "warning_en": "She had reported repeated threats and had filed dozens of libel suits against her; her last post read: “There are crooks everywhere you look now. The situation is desperate.”",
+  "warning_fr": "Elle signalait des menaces répétées et faisait l’objet de dizaines de procès en diffamation ; son dernier billet disait : « Il y a des escrocs partout où l’on regarde. La situation est désespérée. »",
+  "ruling_en": "Murder by car bomb. Multiple convictions. A public inquiry found the Maltese state bears responsibility for the circumstances that enabled it.",
+  "ruling_fr": "Meurtre à la voiture piégée. Plusieurs condamnations. Une enquête publique a conclu que l’État maltais porte la responsabilité des circonstances qui l’ont rendu possible.",
+  "summary_en": "Caruana Galizia was killed by a bomb placed under her car, minutes from her home. Six men have been convicted or admitted involvement; the alleged mastermind, businessman Yorgen Fenech, still awaits trial. A public inquiry concluded the state itself created the conditions for the murder.",
+  "summary_fr": "Caruana Galizia a été tuée par une bombe placée sous sa voiture, à quelques minutes de son domicile. Six hommes ont été condamnés ou ont reconnu leur implication ; le commanditaire présumé, l’homme d’affaires Yorgen Fenech, attend toujours son procès. Une enquête publique a conclu que l’État lui-même avait créé les conditions du meurtre.",
+  "detail_en": [
+    "Her blog, Running Commentary, was the most-read news source in Malta and had exposed offshore structures tied to senior figures in government, revealed by the Panama Papers.",
+    "Brothers Alfred and George Degiorgio are serving 40 years for planting and detonating the bomb; Vincent Muscat is serving 15; Robert Agius and Jamie Vella were convicted in June 2025 of supplying the military-grade explosive. The July 2021 public inquiry found the killing was ‘intrinsically or directly linked’ to her work and was enabled by a culture of impunity among politicians, businesspeople and criminals."
+  ],
+  "detail_fr": [
+    "Son blog, Running Commentary, était la source d’information la plus lue de Malte et avait révélé des structures offshore liées à de hauts responsables du gouvernement, mises au jour par les Panama Papers.",
+    "Les frères Alfred et George Degiorgio purgent 40 ans pour la pose et le déclenchement de la bombe ; Vincent Muscat, 15 ans ; Robert Agius et Jamie Vella ont été condamnés en juin 2025 pour avoir fourni l’explosif de qualité militaire. L’enquête publique de juillet 2021 a conclu que l’assassinat était « intrinsèquement ou directement lié » à son travail et rendu possible par une culture d’impunité entre politiques, hommes d’affaires et criminels."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "Public inquiry: Maltese state must shoulder responsibility — RSF", "u": "https://rsf.org/en/landmark-public-inquiry-report-finds-maltese-state-must-shoulder-responsibility-assassination" },
+    { "t": "Two brothers convicted and sentenced to 40 years — ICIJ", "u": "https://www.icij.org/inside-icij/2022/10/two-brothers-convicted-of-murdering-daphne-caruana-galizia-sentenced-to-40-years-in-prison/" }
+  ],
+  "related": ["jan-kuciak", "jamal-khashoggi"]
+},
+{
+  "slug": "jan-kuciak",
+  "name": "Ján Kuciak and Martina Kušnírová",
+  "born": "1990", "died": "2018-02-21", "age": 27,
+  "country": "SK", "place_en": "Veľká Mača, Slovakia", "place_fr": "Veľká Mača, Slovaquie",
+  "role_en": "Investigative reporter on EU-funds fraud and organised crime, killed with his fiancée",
+  "role_fr": "Journaliste d’investigation sur la fraude aux fonds européens et le crime organisé, tué avec sa fiancée",
+  "category": "targeted-killing", "status": "established",
+  "sectors": ["journalism"],
+  "featured": false, "updated": "2026-08-20",
+  "warned": true,
+  "warning_en": "He had filed a criminal complaint 44 days before his death about threats from businessman Marián Kočner; police had not acted on it.",
+  "warning_fr": "Il avait déposé plainte 44 jours avant sa mort pour des menaces de l’homme d’affaires Marián Kočner ; la police n’y avait pas donné suite.",
+  "ruling_en": "Double murder. The gunman, driver and middleman are convicted. Alena Zsuzsová was convicted of organising it. Marián Kočner has been acquitted twice and both acquittals overturned by the Supreme Court; a third trial opened in January 2026.",
+  "ruling_fr": "Double meurtre. Le tireur, le chauffeur et l’intermédiaire sont condamnés. Alena Zsuzsová a été condamnée comme organisatrice. Marián Kočner a été acquitté deux fois, les deux acquittements annulés par la Cour suprême ; un troisième procès s’est ouvert en janvier 2026.",
+  "summary_en": "Kuciak was shot dead at home with his fiancée while reporting on the theft of EU agricultural subsidies and links between the Italian ’Ndrangheta and people around the Slovak prime minister. The killings brought down the government.",
+  "summary_fr": "Kuciak a été abattu chez lui avec sa fiancée alors qu’il enquêtait sur le détournement de subventions agricoles européennes et sur les liens entre la ’Ndrangheta italienne et l’entourage du Premier ministre slovaque. Ce double meurtre a fait tomber le gouvernement.",
+  "detail_en": [
+    "Kuciak worked for Aktuality.sk. His unfinished last article concerned Italian businessmen with ’Ndrangheta ties operating in eastern Slovakia and their contacts inside the office of Prime Minister Robert Fico, who resigned amid the protests that followed.",
+    "Miroslav Marček (gunman), Tomáš Szabó (driver) and Zoltán Andruskó (middleman) were convicted. Alena Zsuzsová received 25 years in 2023 for organising the murders. The case against Kočner has now been through three trials, with the Supreme Court twice faulting the trial court’s handling of the evidence."
+  ],
+  "detail_fr": [
+    "Kuciak travaillait pour Aktuality.sk. Son dernier article inachevé portait sur des hommes d’affaires italiens liés à la ’Ndrangheta actifs dans l’est de la Slovaquie et sur leurs contacts au cabinet du Premier ministre Robert Fico, qui a démissionné sous la pression des manifestations qui ont suivi.",
+    "Miroslav Marček (tireur), Tomáš Szabó (chauffeur) et Zoltán Andruskó (intermédiaire) ont été condamnés. Alena Zsuzsová a écopé de 25 ans en 2023 comme organisatrice. Le dossier Kočner en est à son troisième procès, la Cour suprême ayant par deux fois censuré l’appréciation des preuves par le tribunal."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "Slovak court’s verdict leaves ‘bitter taste’ — Balkan Insight", "u": "https://balkaninsight.com/2023/05/29/slovak-courts-verdict-in-kuciak-case-leaves-bitter-taste/" },
+    { "t": "RSF on the Kočner retrial", "u": "https://rsf.org/en/slovakia-retrial-alleged-mastermind-behind-journalist-jan-kuciak-s-assassination-approaches-rsf" }
+  ],
+  "related": ["daphne-caruana-galizia", "jamal-khashoggi"]
+}
+]

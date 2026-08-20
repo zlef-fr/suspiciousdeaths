@@ -1,0 +1,541 @@
+[
+{
+  "slug": "marconi-scientists", "name": "The GEC-Marconi defence scientists",
+  "born": "", "died": "1982-03-01", "age": null,
+  "country": "GB", "place_en": "United Kingdom", "place_fr": "Royaume-Uni",
+  "role_en": "Roughly 20–25 engineers and computer scientists on classified British defence programmes, dead between 1982 and 1990",
+  "role_fr": "Environ 20 à 25 ingénieurs et informaticiens de programmes de défense britanniques classifiés, morts entre 1982 et 1990",
+  "category": "cluster", "status": "unsolved",
+  "sectors": ["intelligence", "physics"],
+  "featured": true, "updated": "2026-08-20", "warned": false,
+  "ruling_en": "Most deaths were individually ruled suicide. No public inquiry was ever held. The Ministry of Defence denied any pattern and attributed the cluster to ‘unusually high stresses associated with secret defence research’.",
+  "ruling_fr": "La plupart des morts ont été individuellement classées suicides. Aucune enquête publique n’a jamais eu lieu. Le ministère de la Défense a nié tout schéma et attribué la série aux « tensions inhabituelles associées à la recherche secrète de défense ».",
+  "summary_en": "Between 1982 and 1990 a run of engineers working on British torpedo guidance, electronic warfare and SDI-related programmes died in strange ways. There was never an inquiry — and there has never been a serious statistical analysis either. Anomaly is not proof.",
+  "summary_fr": "Entre 1982 et 1990, une série d’ingénieurs travaillant sur le guidage de torpilles, la guerre électronique et des programmes liés à l’IDS britanniques sont morts de façons étranges. Il n’y a jamais eu d’enquête — ni jamais d’analyse statistique sérieuse. Une anomalie n’est pas une preuve.",
+  "detail_en": [
+    "The most cited cases: Keith Bowden, a senior computer scientist, in March 1982; Vimal Dajibhai, 24, of Marconi Underwater Systems, who fell from a bridge in Bristol in August 1986; and Ashad Sharif, 26, found in September 1986 with a broken neck, a rope tied at once to his neck and to a tree, having driven his car away.",
+    "Two things are true simultaneously. The official response was nothing at all — no public inquiry, a flat denial of any pattern. And the list itself is elastic: it ranges from 16 to 25-plus depending on the source, includes people with no connection to Marconi, and has never been tested against the expected mortality of a workforce that size."
+  ],
+  "detail_fr": [
+    "Les cas les plus cités : Keith Bowden, informaticien senior, en mars 1982 ; Vimal Dajibhai, 24 ans, de Marconi Underwater Systems, tombé d’un pont à Bristol en août 1986 ; et Ashad Sharif, 26 ans, retrouvé en septembre 1986 la nuque brisée, une corde attachée à la fois à son cou et à un arbre, après avoir lancé sa voiture.",
+    "Deux choses sont vraies en même temps. La réponse officielle a été nulle — pas d’enquête publique, un déni pur et simple de tout schéma. Et la liste elle-même est élastique : elle va de 16 à plus de 25 selon les sources, inclut des personnes sans lien avec Marconi, et n’a jamais été confrontée à la mortalité attendue d’un effectif de cette taille."
+  ],
+  "disputed_en": ["No public inquiry was ever conducted despite parliamentary calls for one.", "Several individual deaths have mechanisms that are hard to reconcile with suicide."],
+  "disputed_fr": ["Aucune enquête publique n’a jamais été menée malgré des demandes parlementaires.", "Plusieurs morts prises individuellement présentent des mécanismes difficiles à concilier avec un suicide."],
+  "holds_en": ["The membership of the list varies wildly between sources.", "No base-rate comparison has ever been published."],
+  "holds_fr": ["La composition de la liste varie énormément selon les sources.", "Aucune comparaison au taux de base n’a jamais été publiée."],
+  "sources": [
+    { "t": "Dead scientists: the Marconi murders — The Unredacted", "u": "https://theunredacted.com/dead-scientists-the-marconi-murders/" },
+    { "t": "GEC-Marconi scientist deaths conspiracy theory — Wikipedia", "u": "https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory" }
+  ],
+  "related": ["microbiologists-2001", "missing-scientists-2026"]
+},
+{
+  "slug": "microbiologists-2001", "name": "The ‘dead microbiologists’ of 2001–2002",
+  "born": "", "died": "2001-11-12", "age": null,
+  "country": "INT", "place_en": "United States, Russia, United Kingdom, Australia", "place_fr": "États-Unis, Russie, Royaume-Uni, Australie",
+  "role_en": "About eleven microbiologists who died within five months after 9/11 and the anthrax letters",
+  "role_fr": "Environ onze microbiologistes morts en cinq mois après le 11-Septembre et les lettres à l’anthrax",
+  "category": "cluster", "status": "unsupported",
+  "sectors": ["biology"],
+  "featured": false, "updated": "2026-08-20", "warned": false,
+  "ruling_en": "Individually: accidents, natural causes, and two ordinary murders that were solved. No connection between them has ever been demonstrated.",
+  "ruling_fr": "Individuellement : accidents, causes naturelles, et deux meurtres de droit commun élucidés. Aucun lien entre eux n’a jamais été démontré.",
+  "summary_en": "The founding example of the elastic list. Eleven deaths in five months became ‘forty’, then ‘over a hundred’, as the criteria loosened. The two cases with identified perpetrators had motives entirely unrelated to bioweapons.",
+  "summary_fr": "L’exemple fondateur de la liste extensible. Onze morts en cinq mois sont devenues « quarante », puis « plus de cent », à mesure que les critères se relâchaient. Les deux affaires avec auteurs identifiés avaient des mobiles totalement étrangers aux armes biologiques.",
+  "detail_en": [
+    "The names usually given: Benito Que (beaten in a Miami car park, 12 November 2001); Don C. Wiley, the Harvard structural biologist who vanished from a Memphis bridge on 16 November 2001 and whose body was recovered from the Mississippi — ruled accidental; Vladimir Pasechnik, the Biopreparat defector, stroke, 21 November 2001; Robert Schwartz, stabbed at home on 10 December 2001; Nguyen Van Set, asphyxiated in a nitrogen-filled airlock in Geelong, Australia, 14 December 2001; Victor Korshunov, head injuries in Moscow, February 2002; Ian Langford, Norwich, February 2002; Tanya Holzmayer, shot by a colleague who then killed himself, February 2002.",
+    "Robert Schwartz’s murder was solved: his daughter and members of a gothic group were convicted. Holzmayer’s killer was a colleague acting on a personal grievance. Everything else is accident, illness or unrelated crime. The cluster is an artefact of pattern-matching."
+  ],
+  "detail_fr": [
+    "Les noms généralement cités : Benito Que (battu sur un parking de Miami, 12 novembre 2001) ; Don C. Wiley, biologiste structural de Harvard, disparu d’un pont de Memphis le 16 novembre 2001, corps repêché dans le Mississippi — classé accidentel ; Vladimir Pasechnik, transfuge de Biopreparat, AVC, 21 novembre 2001 ; Robert Schwartz, poignardé chez lui le 10 décembre 2001 ; Nguyen Van Set, asphyxié dans un sas rempli d’azote à Geelong, Australie, 14 décembre 2001 ; Victor Korchounov, traumatismes crâniens à Moscou, février 2002 ; Ian Langford, Norwich, février 2002 ; Tanya Holzmayer, abattue par un collègue qui s’est ensuite suicidé, février 2002.",
+    "Le meurtre de Robert Schwartz a été élucidé : sa fille et des membres d’un groupe gothique ont été condamnés. Le meurtrier de Holzmayer était un collègue mû par un grief personnel. Tout le reste relève de l’accident, de la maladie ou d’un crime sans rapport. La grappe est un artefact de mise en série."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "Scientists’ deaths are under the microscope — The Globe and Mail (2002)", "u": "https://www.theglobeandmail.com/news/world/scientists-deaths-are-under-the-microscope/article4134797/" },
+    { "t": "Conspiracy didn’t kill microbiologists, coincidence did", "u": "https://www.revisionisthistory.org/secretagent.html" }
+  ],
+  "related": ["marconi-scientists", "missing-scientists-2026", "bruce-ivins"]
+},
+{
+  "slug": "russian-energy-executives", "name": "Russian energy and transport executives, 2022–2025",
+  "born": "", "died": "2022-04-18", "age": null,
+  "country": "RU", "place_en": "Russia, Spain, France", "place_fr": "Russie, Espagne, France",
+  "role_en": "Thirteen sudden deaths of senior executives at Gazprom, Lukoil, Novatek and related companies",
+  "role_fr": "Treize morts subites de dirigeants de Gazprom, Loukoïl, Novatek et sociétés liées",
+  "category": "cluster", "status": "unsolved",
+  "sectors": ["energy", "finance"],
+  "featured": true, "updated": "2026-08-20", "warned": false,
+  "ruling_en": "Individually: murder-suicides, heart failure, falls from windows, a drowning, a swimming-pool gunshot. None has been the subject of a credible independent investigation.",
+  "ruling_fr": "Individuellement : meurtres-suicides, insuffisance cardiaque, chutes de fenêtres, une noyade, un tir dans une piscine. Aucun n’a fait l’objet d’une enquête indépendante crédible.",
+  "summary_en": "This is the one cluster in the record that is qualitatively different. The repetition of a single method — falls from windows — inside a single state apparatus, with no possibility of independent investigation, is a pattern in a way the microbiologists never were. But no individual case is judicially established as homicide.",
+  "summary_fr": "C’est la seule grappe du relevé qui soit qualitativement différente. La répétition d’une même méthode — les chutes de fenêtres — au sein d’un même appareil d’État, sans possibilité d’enquête indépendante, constitue un schéma, ce que les microbiologistes n’ont jamais été. Mais aucun cas individuel n’est judiciairement établi comme homicide.",
+  "detail_en": [
+    "Vladislav Avayev, formerly of Gazprombank, found dead with his family in Moscow in April 2022 (official version: murder-suicide). Sergey Protosenya, ex-Novatek, found hanged at his Spanish villa the same month, his wife and daughter killed — his family reject the murder-suicide theory and the case is unresolved. Alexander Subbotin, former Lukoil board member, died in May 2022 in a basement in Mytishchi; official cause, heart failure after a shamanic ritual involving toad venom.",
+    "Yuri Voronov, a Gazprom subcontractor, found in his swimming pool with a gunshot wound to the head, July 2022. Ravil Maganov, chairman of Lukoil — which had publicly called for an end to the war in Ukraine — fell from a Moscow hospital window on 1 September 2022. Ivan Pechorin, an Arctic development executive, fell from a boat that month. Meduza counts thirteen such deaths since 2022."
+  ],
+  "detail_fr": [
+    "Vladislav Avaïev, ancien de Gazprombank, retrouvé mort avec sa famille à Moscou en avril 2022 (version officielle : meurtre-suicide). Sergueï Protossenia, ex-Novatek, retrouvé pendu dans sa villa espagnole le même mois, sa femme et sa fille tuées — sa famille rejette la thèse du meurtre-suicide et l’affaire n’est pas résolue. Alexandre Soubbotine, ancien membre du conseil de Loukoïl, mort en mai 2022 dans un sous-sol à Mytichtchi ; cause officielle : insuffisance cardiaque après un rituel chamanique au venin de crapaud.",
+    "Iouri Voronov, sous-traitant de Gazprom, retrouvé dans sa piscine avec une balle dans la tête, juillet 2022. Ravil Maganov, président de Loukoïl — qui avait publiquement appelé à la fin de la guerre en Ukraine — est tombé d’une fenêtre d’hôpital moscovite le 1er septembre 2022. Ivan Petchorine, dirigeant du développement arctique, est tombé d’un bateau le même mois. Meduza recense treize morts de ce type depuis 2022."
+  ],
+  "disputed_en": ["A single method repeated across an industry inside one state.", "No independent investigation is possible in any of the cases."],
+  "disputed_fr": ["Une même méthode répétée dans tout un secteur au sein d’un seul État.", "Aucune enquête indépendante n’est possible dans aucun de ces dossiers."],
+  "holds_en": ["Russia has extremely high baseline rates of alcohol-related and violent death among men.", "No individual case has been judicially established as a homicide."],
+  "holds_fr": ["La Russie présente des taux de base très élevés de morts violentes et liées à l’alcool chez les hommes.", "Aucun cas individuel n’a été judiciairement établi comme un homicide."],
+  "sources": [
+    { "t": "They don’t only fall out of windows — Meduza", "u": "https://meduza.io/en/feature/2025/07/07/they-don-t-only-fall-out-of-windows" },
+    { "t": "Suspicious deaths of Russian businesspeople (2022–2023) — Wikipedia", "u": "https://en.wikipedia.org/wiki/Suspicious_deaths_of_Russian_businesspeople_(2022%E2%80%932023)" },
+    { "t": "At least eight Russian businessmen have died in six months — CNN", "u": "https://www.cnn.com/2022/09/02/business/russian-oligarchs-deaths-intl/index.html" }
+  ],
+  "related": ["yevgeny-prigozhin", "crypto-executives-2022"]
+},
+{
+  "slug": "crypto-executives-2022", "name": "Crypto executives, late 2022",
+  "born": "", "died": "2022-11-22", "age": null,
+  "country": "INT", "place_en": "Spain, Hong Kong, France, Puerto Rico", "place_fr": "Espagne, Hong Kong, France, Porto Rico",
+  "role_en": "Four crypto founders and executives dead within about a month",
+  "role_fr": "Quatre fondateurs et dirigeants crypto morts en un mois environ",
+  "category": "cluster", "status": "unsupported",
+  "sectors": ["finance"],
+  "featured": false, "updated": "2026-08-20", "warned": false,
+  "ruling_en": "A suicide, an unexplained death in sleep, a helicopter crash and a drowning. No material link between any of them.",
+  "ruling_fr": "Un suicide, une mort inexpliquée dans le sommeil, un accident d’hélicoptère et une noyade. Aucun lien matériel entre eux.",
+  "summary_en": "Javier Biosca (22 November 2022, under investigation for Spain’s largest crypto fraud, ruled suicide), Tiantian Kullander of Amber Group (23 November, died in his sleep at 30), Vyacheslav Taran of Forex Club (25 November, helicopter crash Lausanne–Monaco) and Nikolai Mushegian (October). Four deaths in a sector with tens of thousands of exposed executives, with heterogeneous causes: a statistically unremarkable run.",
+  "summary_fr": "Javier Biosca (22 novembre 2022, poursuivi dans la plus grosse fraude crypto espagnole, classé suicide), Tiantian Kullander d’Amber Group (23 novembre, mort dans son sommeil à 30 ans), Vyacheslav Taran de Forex Club (25 novembre, crash d’hélicoptère Lausanne–Monaco) et Nikolai Mushegian (octobre). Quatre morts dans un secteur qui compte des dizaines de milliers de dirigeants exposés, aux causes hétérogènes : une série statistiquement banale.",
+  "detail_en": [
+    "The cluster spread widely on social media in late 2022 with the implication of a coordinated campaign. Fact-checking at the time found limited-to-no evidence that any of the deaths resulted from a plot.",
+    "It is kept in the record as a calibration case: four deaths inside a month feels like a pattern and is not one."
+  ],
+  "detail_fr": [
+    "La grappe s’est massivement diffusée sur les réseaux fin 2022, avec l’insinuation d’une campagne coordonnée. Les vérifications de l’époque n’ont trouvé que peu ou pas d’éléments indiquant qu’une de ces morts résultait d’un complot.",
+    "Elle est conservée dans le relevé comme cas d’étalonnage : quatre morts en un mois donnent l’impression d’un schéma, et n’en sont pas un."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "Crypto CEOs’ and founders’ ‘sudden deaths’ — what we do know — Newsweek", "u": "https://www.newsweek.com/crypto-ceos-founders-sudden-deathswhat-we-do-know-what-we-dont-1763586" }
+  ],
+  "related": ["nikolai-mushegian", "russian-energy-executives"]
+},
+{
+  "slug": "missing-scientists-2026", "name": "The ‘missing scientists’ of 2026",
+  "born": "", "died": "2026-02-27", "age": null,
+  "country": "US", "place_en": "United States", "place_fr": "États-Unis",
+  "role_en": "Ten to fifteen deaths and disappearances presented as a campaign against scientists in classified programmes",
+  "role_fr": "Dix à quinze morts et disparitions présentées comme une campagne visant des scientifiques de programmes classifiés",
+  "category": "cluster", "status": "unsupported",
+  "sectors": ["aerospace", "nuclear", "physics"],
+  "featured": true, "updated": "2026-08-20", "warned": false,
+  "ruling_en": "Refuted case by case by colleagues, families and reporters — but subject to a real federal review coordinated by the FBI, with three disappearances still unexplained.",
+  "ruling_fr": "Réfutée cas par cas par les collègues, les familles et les journalistes — mais objet d’une véritable revue fédérale coordonnée par le FBI, avec trois disparitions toujours inexpliquées.",
+  "summary_en": "The theory started spreading after Maj. Gen. William Neil McCasland went missing in February 2026 and grew into a list of scientists supposedly killed for what they knew. Almost every case on it has a documented, ordinary cause. Three do not.",
+  "summary_fr": "La théorie a commencé à se diffuser après la disparition du général de division William Neil McCasland en février 2026, avant de devenir une liste de scientifiques prétendument tués pour ce qu’ils savaient. Presque chaque cas de cette liste a une cause ordinaire et documentée. Trois n’en ont pas.",
+  "detail_en": [
+    "Documented causes on the list: Ning Li (Alzheimer’s, after a 2014 road accident); Amy Eskridge (suicide); Michel David Hicks of JPL (heart disease); Matthew Sullivan (accidental overdose); Joshua LeBlanc of NASA Marshall (traffic collision); Jason Thomas of Novartis (drowning); Nuno Loureiro of MIT (a real homicide — but the FBI tied it to the perpetrator of the Brown University shooting two days earlier, with no connection to fusion research); Carl Grillmair of Caltech (carjacking homicide); Nick Pope (oesophageal cancer). Still unexplained: Anthony Chavez, Steven Garcia, and McCasland himself.",
+    "The FBI says it is ‘spearheading the effort to look for connections’, working with the Departments of Energy and Defense, NASA and local police; the White House announced an interagency review; the House Oversight Committee took it up. Meanwhile Grillmair’s widow called the theory ‘absolute nonsense’, Hicks’s brother objected that his brother would now be remembered ‘for some baloney, Loch Ness Monster, Bigfoot conspiracy theory’, and Pope’s wife pointed out that believing it requires believing the government planted a cancer gene.",
+    "Medical sociologist Robert Bartholomew describes the belief as apophenia. Mick West notes that on base rates alone, 250-plus people in the aerospace and nuclear sectors die by homicide or suicide in the US each year, and thousands more of natural causes."
+  ],
+  "detail_fr": [
+    "Causes documentées de la liste : Ning Li (Alzheimer, après un accident de la route en 2014) ; Amy Eskridge (suicide) ; Michel David Hicks, du JPL (cardiopathie) ; Matthew Sullivan (surdose accidentelle) ; Joshua LeBlanc, de NASA Marshall (accident de la route) ; Jason Thomas, de Novartis (noyade) ; Nuno Loureiro, du MIT (un homicide bien réel — mais le FBI l’a rattaché à l’auteur de la fusillade de Brown University deux jours plus tôt, sans lien avec la recherche sur la fusion) ; Carl Grillmair, de Caltech (homicide lors d’un car-jacking) ; Nick Pope (cancer de l’œsophage). Toujours inexpliqués : Anthony Chavez, Steven Garcia, et McCasland lui-même.",
+    "Le FBI dit « piloter l’effort de recherche de liens », avec les ministères de l’Énergie et de la Défense, la NASA et les polices locales ; la Maison-Blanche a annoncé une revue interagences ; la commission de surveillance de la Chambre s’en est saisie. Pendant ce temps, la veuve de Grillmair a qualifié la théorie d’« absurdité totale », le frère de Hicks a protesté que son frère serait désormais retenu « pour une ânerie façon monstre du Loch Ness », et l’épouse de Pope a fait remarquer qu’y croire suppose de croire que le gouvernement a implanté un gène du cancer.",
+    "Le sociologue médical Robert Bartholomew y voit de l’apophénie. Mick West rappelle que, sur la seule base des taux, plus de 250 personnes des secteurs aérospatial et nucléaire meurent chaque année d’homicide ou de suicide aux États-Unis, et des milliers d’autres de causes naturelles."
+  ],
+  "disputed_en": ["Three disappearances on the list, including a retired AFRL commander, remain unexplained.", "A genuine federal review is under way."],
+  "disputed_fr": ["Trois disparitions de la liste, dont celle d’un ancien commandant de l’AFRL, restent inexpliquées.", "Une véritable revue fédérale est en cours."],
+  "holds_en": ["Nearly every case has a published, ordinary cause of death.", "Families and colleagues of the named individuals reject the connection.", "The base-rate arithmetic makes a list of this size unremarkable."],
+  "holds_fr": ["Presque chaque cas a une cause de mort publiée et ordinaire.", "Les familles et collègues des personnes citées rejettent le lien.", "L’arithmétique des taux de base rend une liste de cette taille sans particularité."],
+  "sources": [
+    { "t": "Missing scientists conspiracy theory — Wikipedia", "u": "https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" },
+    { "t": "Deaths and disappearances of scientists spark federal probe — CNN", "u": "https://www.cnn.com/2026/04/21/us/deaths-disappearances-scientists-investigation" },
+    { "t": "FBI investigating deaths and disappearances — CBS News", "u": "https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" }
+  ],
+  "related": ["william-mccasland", "amy-eskridge", "matthew-sullivan", "microbiologists-2001"]
+},
+{
+  "slug": "indian-nuclear-scientists", "name": "Indian nuclear scientists, BARC and Kaiga, 2009–2013",
+  "born": "", "died": "2009-06-08", "age": null,
+  "country": "IN", "place_en": "Mumbai, Karwar and Kalpakkam, India", "place_fr": "Mumbai, Karwar et Kalpakkam, Inde",
+  "role_en": "At least nine unnatural deaths of scientists and engineers at two nuclear sites in about three years",
+  "role_fr": "Au moins neuf morts non naturelles de scientifiques et d’ingénieurs sur deux sites nucléaires en environ trois ans",
+  "category": "cluster", "status": "unsolved",
+  "sectors": ["nuclear"],
+  "featured": true, "updated": "2026-08-20", "warned": false,
+  "ruling_en": "Two classified as suicide; the rest unresolved with no one held responsible. No independent national inquiry has ever been held.",
+  "ruling_fr": "Deux classées suicides ; les autres non résolues, sans responsable identifié. Aucune enquête nationale indépendante n’a jamais eu lieu.",
+  "summary_en": "Unlike the microbiologist and ‘missing scientists’ lists, this cluster is concentrated on two sites in one sector, and most of its files were simply left open. It is the least examined serious cluster in this record.",
+  "summary_fr": "Contrairement aux listes de microbiologistes et de « missing scientists », cette grappe est concentrée sur deux sites d’un même secteur, et la plupart de ses dossiers ont simplement été laissés ouverts. C’est la grappe sérieuse la moins examinée de ce relevé.",
+  "detail_en": [
+    "L. Mahalingam, 47, a senior scientific officer at the Kaiga Atomic Power Station, went for a morning walk on 8 June 2009 and never returned; his badly decomposed body was recovered from the Kali river five days later. Officially suicide, contested by his family, unresolved.",
+    "Umang Singh and Partha Pratim Bag were burned to death in an unexplained fire in the modular laboratory of BARC’s radiation and photochemistry department in December 2009. Uma Rao, 63, former scientist and head of the Indian Women Scientists’ Association, was found dead near the BARC campus in April 2011; suicide, disputed by her family, investigation judged unsatisfactory. Mohammad Mustafa, 24, of IGCAR Kalpakkam, was found in 2012 with his wrists slashed; a note was recovered but police found no motive.",
+    "Separately, in 2009 an employee at Kaiga was poisoned with tritiated heavy water put into a drinking-water dispenser — an incident the authorities treated as deliberate insider sabotage. It was never solved either."
+  ],
+  "detail_fr": [
+    "L. Mahalingam, 47 ans, cadre scientifique senior à la centrale de Kaiga, part marcher le matin du 8 juin 2009 et ne revient jamais ; son corps très décomposé est repêché dans la rivière Kali cinq jours plus tard. Officiellement un suicide, contesté par sa famille, non résolu.",
+    "Umang Singh et Partha Pratim Bag ont été brûlés vifs dans un incendie inexpliqué du laboratoire modulaire du département de radiochimie et photochimie du BARC, en décembre 2009. Uma Rao, 63 ans, ancienne scientifique et présidente de l’Indian Women Scientists’ Association, est retrouvée morte près du campus du BARC en avril 2011 ; suicide, contesté par sa famille, enquête jugée insuffisante. Mohammad Mustafa, 24 ans, de l’IGCAR de Kalpakkam, est retrouvé en 2012 les poignets tailladés ; une note est récupérée mais la police ne trouve aucun mobile.",
+    "Par ailleurs, en 2009, un employé de Kaiga a été empoisonné avec de l’eau lourde tritiée versée dans une fontaine à eau — un incident que les autorités ont traité comme un sabotage interne délibéré. Il n’a jamais été élucidé non plus."
+  ],
+  "disputed_en": ["Concentration on two sites in a single strategic sector.", "Most files closed or left open without a responsible party identified.", "No independent national inquiry."],
+  "disputed_fr": ["Concentration sur deux sites d’un même secteur stratégique.", "La plupart des dossiers clos ou laissés ouverts sans responsable identifié.", "Aucune enquête nationale indépendante."],
+  "holds_en": ["India’s nuclear establishment employs tens of thousands of people.", "Individual causes, where established, are ordinary."],
+  "holds_fr": ["L’establishment nucléaire indien emploie des dizaines de milliers de personnes.", "Les causes individuelles, quand elles sont établies, sont ordinaires."],
+  "sources": [
+    { "t": "When several Indian nuclear scientists died mysteriously — The Week", "u": "https://www.theweek.in/news/india/2021/01/06/from-the-archives-when-several-indian-nuclear-scientists-died-mysteriously.html" },
+    { "t": "India’s vanishing nuclear scientists — Asia Times", "u": "https://asiatimes.com/2019/07/indias-vanishing-nuclear-scientists/" }
+  ],
+  "related": ["homi-bhabha", "iran-nuclear-scientists-2010-2012"]
+},
+{
+  "slug": "environmental-defenders", "name": "Land and environmental defenders",
+  "born": "", "died": "2024-12-31", "age": null,
+  "country": "INT", "place_en": "Worldwide, concentrated in Latin America", "place_fr": "Monde entier, concentration en Amérique latine",
+  "role_en": "At least 146 killed or disappeared in 2024 alone; at least 2,253 since 2012",
+  "role_fr": "Au moins 146 tués ou disparus pour la seule année 2024 ; au moins 2 253 depuis 2012",
+  "category": "targeted-killing", "status": "established",
+  "sectors": ["environment", "energy"],
+  "featured": true, "updated": "2026-08-20", "warned": false,
+  "ruling_en": "Documented annually by Global Witness. Roughly three people killed or disappeared every week in 2024.",
+  "ruling_fr": "Documenté chaque année par Global Witness. Environ trois personnes tuées ou disparues chaque semaine en 2024.",
+  "summary_en": "This is the largest and least-discussed category in the entire record. Every spectacular case on this site — inventors, physicists, whistleblowers, across seventy years — adds up to less, numerically, than a single year of environmental defenders being killed.",
+  "summary_fr": "C’est la catégorie la plus vaste et la moins discutée de tout ce relevé. Toutes les affaires spectaculaires de ce site — inventeurs, physiciens, lanceurs d’alerte, sur soixante-dix ans — pèsent moins, numériquement, qu’une seule année de défenseurs de l’environnement assassinés.",
+  "detail_en": [
+    "Global Witness recorded 146 killings or disappearances in 2024: 117 in Latin America (82%), of which 48 in Colombia — the deadliest country for the third consecutive year — 20 in Guatemala, 18 in Mexico, 12 in Brazil, 7 in the Philippines, 5 each in Honduras and Indonesia.",
+    "Indigenous peoples suffer around a third of lethal attacks while making up about 6% of the world’s population. The 2024 figure is lower than the 196 recorded in 2023, but Global Witness cautions this reflects chronic under-reporting, verification difficulties in conflict zones and a climate of fear, not progress.",
+    "The Berta Cáceres conviction shows the mechanism in court: an executive of a hydroelectric company surveilled an opponent for years and paid for her killing. The energy transition does not change who gets killed for standing in the way of a project."
+  ],
+  "detail_fr": [
+    "Global Witness a recensé 146 meurtres ou disparitions en 2024 : 117 en Amérique latine (82 %), dont 48 en Colombie — pays le plus meurtrier pour la troisième année consécutive —, 20 au Guatemala, 18 au Mexique, 12 au Brésil, 7 aux Philippines, 5 au Honduras et 5 en Indonésie.",
+    "Les peuples autochtones subissent environ un tiers des attaques létales alors qu’ils représentent environ 6 % de la population mondiale. Le chiffre de 2024 est inférieur aux 196 de 2023, mais Global Witness prévient qu’il traduit une sous-déclaration chronique, des difficultés de vérification en zone de conflit et un climat de peur, non un progrès.",
+    "La condamnation dans l’affaire Berta Cáceres montre le mécanisme devant un tribunal : un dirigeant d’une société hydroélectrique a surveillé une opposante pendant des années et payé pour son assassinat. La transition énergétique ne change pas qui se fait tuer pour avoir bloqué un projet."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "At least 146 land and environmental defenders killed or disappeared in 2024 — Global Witness", "u": "https://globalwitness.org/en/press-releases/at-least-146-land-and-environmental-defenders-killed-or-disappeared-globally-in-2024/" },
+    { "t": "Latin America is deadliest region for environmental defenders — TIME", "u": "https://time.com/7317840/environmental-defenders-killed-2024-global-witness/" }
+  ],
+  "related": ["berta-caceres"]
+},
+{
+  "slug": "apollo-1", "name": "Apollo 1: Grissom, White and Chaffee",
+  "born": "", "died": "1967-01-27", "age": null,
+  "country": "US", "place_en": "Launch Complex 34, Cape Kennedy, Florida", "place_fr": "Complexe de lancement 34, Cap Kennedy (Floride)",
+  "role_en": "Three astronauts killed in a flash fire during a launch rehearsal",
+  "role_fr": "Trois astronautes tués dans un incendie éclair lors d’une répétition de lancement",
+  "category": "cluster", "status": "unsupported",
+  "sectors": ["aerospace"],
+  "featured": false, "updated": "2026-08-20", "warned": false,
+  "ruling_en": "Accident. The Thompson review board could not identify the ignition source but found a catastrophic design environment: a pure-oxygen atmosphere, flammable materials and an inward-opening hatch.",
+  "ruling_fr": "Accident. La commission Thompson n’a pas pu identifier la source d’allumage mais a établi un environnement de conception catastrophique : atmosphère d’oxygène pur, matériaux inflammables et écoutille s’ouvrant vers l’intérieur.",
+  "summary_en": "Gus Grissom was the programme’s most vocal internal critic — he once hung a lemon on the simulator. In 1999 his son Scott said he had found a ‘fabricated’ metal plate behind a control panel and called it sabotage. That claim has never been independently examined, and the accident finding stands.",
+  "summary_fr": "Gus Grissom était le critique interne le plus virulent du programme — il avait un jour accroché un citron au simulateur. En 1999, son fils Scott a affirmé avoir trouvé une plaque métallique « fabriquée » derrière un panneau de commande et y a vu un sabotage. Cette affirmation n’a jamais été examinée indépendamment, et la conclusion accidentelle tient.",
+  "detail_en": [
+    "The board, chaired by NASA Langley director Floyd L. Thompson, reported in April 1967. It never pinned down the spark, and suspected a damaged wiring bundle.",
+    "The Grissom sabotage claim rests on one person’s account of one object and has not been tested by any investigation. It is included here alongside Thomas Baron — the whistleblower who died six days after testifying about the same programme — because the two are constantly conflated. Baron’s case has an unexplained element; this one does not."
+  ],
+  "detail_fr": [
+    "La commission, présidée par le directeur du centre Langley de la NASA, Floyd L. Thompson, a rendu son rapport en avril 1967. Elle n’a jamais identifié l’étincelle et soupçonnait un faisceau de câbles endommagé.",
+    "L’allégation de sabotage de Grissom repose sur le récit d’une seule personne au sujet d’un seul objet et n’a été vérifiée par aucune enquête. Elle figure ici aux côtés de Thomas Baron — le lanceur d’alerte mort six jours après avoir témoigné sur ce même programme — parce que les deux sont sans cesse confondus. Le dossier Baron comporte un élément inexpliqué ; celui-ci, non."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "Apollo 1 resources — NASA", "u": "https://www.nasa.gov/apollo-1-resources/" },
+    { "t": "Apollo 204 historical resources — NASA History", "u": "https://www.nasa.gov/history/Apollo204/hist.html" }
+  ],
+  "related": ["thomas-baron", "yuri-gagarin"]
+},
+{
+  "slug": "cern-hoaxes", "name": "CERN and antimatter: the cases that do not exist",
+  "born": "", "died": "2016-08-01", "age": null,
+  "country": "INT", "place_en": "Meyrin, Switzerland", "place_fr": "Meyrin, Suisse",
+  "role_en": "A research organisation with no documented suspicious death, and the hoaxes attached to it",
+  "role_fr": "Un organisme de recherche sans aucune mort suspecte documentée, et les canulars qui s’y greffent",
+  "category": "cluster", "status": "unsupported",
+  "sectors": ["physics"],
+  "featured": false, "updated": "2026-08-20", "warned": false,
+  "ruling_en": "No suspicious death of a CERN scientist is on record. The viral ‘human sacrifice’ video was a prank filmed on site without authorisation, confirmed by CERN, which opened an internal investigation.",
+  "ruling_fr": "Aucune mort suspecte de chercheur du CERN n’est documentée. La vidéo virale de « sacrifice humain » était un canular tourné sur le site sans autorisation, confirmé par le CERN, qui a ouvert une enquête interne.",
+  "summary_en": "This entry records an absence, and the absence is the finding. Fundamental physics without an immediate weapons application produces no suspicious deaths — which is the strongest confirmation of what does get people killed.",
+  "summary_fr": "Cette fiche consigne une absence, et l’absence est le résultat. La physique fondamentale sans application militaire immédiate ne produit aucune mort suspecte — ce qui est la meilleure confirmation de ce qui fait réellement tuer.",
+  "detail_en": [
+    "In August 2016 a video showed hooded figures staging a mock sacrifice before the Shiva statue on CERN’s Meyrin site. A CERN spokesperson told AFP: ‘This video was filmed on our property but without the permission of our institution’, adding that some of the thousands of visiting researchers ‘let their sense of humour go too far’. An internal investigation followed. Nobody died.",
+    "The one real CERN criminal case is Adlène Hicheur, an LHCb particle physicist arrested on 8 October 2009 and sentenced to five years by a Paris court for terrorism-related association, after email exchanges with a suspected AQIM member. He is alive; his defence argued he had only expressed opinions online.",
+    "On antimatter: CERN’s ALPHA, AEgIS and BASE experiments trap antihydrogen a few atoms at a time, and total world antimatter production is measured in nanograms. The explosive antimatter of fiction is fiction — and it is that fiction, more than anything else, that generated the imagined body count."
+  ],
+  "detail_fr": [
+    "En août 2016, une vidéo montrait des personnages encapuchonnés simulant un sacrifice devant la statue de Shiva, sur le site de Meyrin. Un porte-parole du CERN a déclaré à l’AFP : « Cette vidéo a été tournée sur notre propriété mais sans l’autorisation de notre institution », ajoutant que certains des milliers de chercheurs de passage « laissent leur sens de l’humour aller trop loin ». Une enquête interne a suivi. Personne n’est mort.",
+    "La seule vraie affaire pénale du CERN est celle d’Adlène Hicheur, physicien des particules de LHCb arrêté le 8 octobre 2009 et condamné à cinq ans par un tribunal parisien pour association de malfaiteurs en vue d’une entreprise terroriste, après des échanges de courriels avec un membre présumé d’AQMI. Il est vivant ; sa défense a plaidé qu’il n’avait fait qu’exprimer des opinions en ligne.",
+    "Sur l’antimatière : les expériences ALPHA, AEgIS et BASE du CERN piègent l’antihydrogène par quelques atomes, et la production mondiale totale d’antimatière se mesure en nanogrammes. L’antimatière explosive est une fiction — et c’est cette fiction, plus que tout, qui a produit le décompte imaginaire de victimes."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "Hoax sacrifice video prompts CERN investigation — SWI swissinfo", "u": "https://www.swissinfo.ch/eng/sci-tech/viral-prank_hoax-sacrifice-video-prompts-cern-investigation/42380952" },
+    { "t": "CERN ritual hoax — Wikipedia", "u": "https://en.wikipedia.org/wiki/CERN_ritual_hoax" },
+    { "t": "Criminal trial begins for CERN scientist — Science (AAAS)", "u": "https://www.science.org/content/article/criminal-trial-begins-cern-scientist" }
+  ],
+  "related": ["missing-scientists-2026"]
+},
+{
+  "slug": "stanley-meyer", "name": "Stanley Meyer",
+  "born": "1940", "died": "1998-03-20", "age": 57,
+  "country": "US", "place_en": "Grove City, Ohio", "place_fr": "Grove City (Ohio)",
+  "role_en": "Inventor of the ‘water fuel cell’, ruled a fraud by an Ohio court in 1996",
+  "role_fr": "Inventeur de la « water fuel cell », jugée frauduleuse par un tribunal de l’Ohio en 1996",
+  "category": "unexplained", "status": "unsupported",
+  "sectors": ["energy", "invention"],
+  "featured": true, "updated": "2026-08-20", "warned": true,
+  "warning_en": "According to his brother, he ran out of the restaurant shouting “they poisoned me” and collapsed.",
+  "warning_fr": "Selon son frère, il est sorti du restaurant en criant « ils m’ont empoisonné » avant de s’effondrer.",
+  "ruling_en": "Cerebral aneurysm, natural causes, on a background of known hypertension. The toxicology screen was negative — no poison was found.",
+  "ruling_fr": "Anévrisme cérébral, cause naturelle, sur un terrain d’hypertension connue. Le dépistage toxicologique était négatif — aucun poison n’a été trouvé.",
+  "summary_en": "Meyer is the most-cited ‘killed for his invention’ case in the world. The coroner found a natural death and no poison. An Ohio court had already found the invention itself to be fraudulent, with expert evidence, and ordered him to repay his investors.",
+  "summary_fr": "Meyer est le cas de « tué pour son invention » le plus cité au monde. Le coroner a conclu à une mort naturelle sans aucun poison. Un tribunal de l’Ohio avait déjà jugé l’invention elle-même frauduleuse, expertise à l’appui, et l’avait condamné à rembourser ses investisseurs.",
+  "detail_en": [
+    "Meyer claimed a cell that split water with far less energy than the resulting hydrogen contained — a violation of conservation of energy. In 1996 an Ohio court, having heard expert witnesses, found his claims fraudulent.",
+    "On 20 March 1998 he was dining with two Belgian investors, drank cranberry juice, ran outside and collapsed. The coroner’s report gives a cerebral aneurysm; toxicology found nothing.",
+    "There is no suppressed invention here. There is a prosecuted fraud and a documented natural death — and this entry exists so that the difference is on the record next to the cases where something genuinely does not add up."
+  ],
+  "detail_fr": [
+    "Meyer revendiquait une cellule dissociant l’eau avec bien moins d’énergie que n’en contenait l’hydrogène produit — une violation de la conservation de l’énergie. En 1996, un tribunal de l’Ohio, après audition d’experts, a jugé ses affirmations frauduleuses.",
+    "Le 20 mars 1998, il dînait avec deux investisseurs belges, a bu du jus de canneberge, est sorti en courant et s’est effondré. Le rapport du coroner indique un anévrisme cérébral ; la toxicologie n’a rien trouvé.",
+    "Il n’y a pas d’invention supprimée ici. Il y a une escroquerie jugée et une mort naturelle documentée — et cette fiche existe pour que la différence soit consignée à côté des dossiers où quelque chose ne colle vraiment pas."
+  ],
+  "disputed_en": ["The reported dying words."],
+  "disputed_fr": ["Les derniers mots rapportés."],
+  "holds_en": ["Negative toxicology.", "Documented hypertension and a natural mechanism.", "The invention had already been ruled fraudulent in court on expert evidence."],
+  "holds_fr": ["Toxicologie négative.", "Hypertension documentée et mécanisme naturel.", "L’invention avait déjà été jugée frauduleuse par un tribunal, sur expertise."],
+  "sources": [
+    { "t": "Water fuel cell — Wikipedia", "u": "https://en.wikipedia.org/wiki/Water_fuel_cell" }
+  ],
+  "related": ["tom-ogle", "eugene-mallove", "paul-pantone"]
+},
+{
+  "slug": "eugene-mallove", "name": "Eugene Mallove",
+  "born": "1947", "died": "2004-05-14", "age": 56,
+  "country": "US", "place_en": "Norwich, Connecticut", "place_fr": "Norwich (Connecticut)",
+  "role_en": "Former MIT science writer, leading advocate of cold fusion, editor of Infinite Energy",
+  "role_fr": "Ancien rédacteur scientifique du MIT, principal défenseur de la fusion froide, rédacteur en chef d’Infinite Energy",
+  "category": "targeted-killing", "status": "unsupported",
+  "sectors": ["energy", "physics"],
+  "featured": false, "updated": "2026-08-20", "warned": false,
+  "ruling_en": "Murder — solved. The motive was a rental eviction dispute, with no connection to his scientific work.",
+  "ruling_fr": "Meurtre — élucidé. Le mobile était un litige d’expulsion locative, sans lien avec ses travaux scientifiques.",
+  "summary_en": "Mallove was beaten to death outside his childhood home. He is routinely listed as a cold fusion researcher silenced for his work. He was in fact killed while clearing out a property from which a family had just been evicted.",
+  "summary_fr": "Mallove a été battu à mort devant la maison de son enfance. Il est systématiquement présenté comme un chercheur en fusion froide réduit au silence. Il a en réalité été tué alors qu’il vidait un logement d’où une famille venait d’être expulsée.",
+  "detail_en": [
+    "Two men were initially charged and exonerated in 2008 after a clerical error in the DNA evidence was uncovered. Chad Schaffer later pleaded guilty to first-degree manslaughter (16 years); Mozzelle Brown was convicted of murder in October 2014 and sentenced to 58 years, a conviction later overturned on appeal; Candace Foster was the third person involved.",
+    "The established motive is the eviction of the Schaffer family from the property Mallove was cleaning out. This entry is a demonstration case: a genuine, violent, unsolved-for-years murder of a heterodox scientist — with a mundane cause that the ‘suppressed science’ framing simply ignored for a decade."
+  ],
+  "detail_fr": [
+    "Deux hommes ont d’abord été inculpés puis disculpés en 2008, après la découverte d’une erreur d’écriture dans les scellés ADN. Chad Schaffer a ensuite plaidé coupable d’homicide involontaire au premier degré (16 ans) ; Mozzelle Brown a été condamné pour meurtre en octobre 2014 à 58 ans, condamnation ensuite annulée en appel ; Candace Foster était la troisième personne impliquée.",
+    "Le mobile établi est l’expulsion de la famille Schaffer du logement que Mallove était en train de vider. Cette fiche sert de démonstration : un meurtre bien réel, violent, longtemps non élucidé, d’un scientifique hétérodoxe — avec une cause banale que le récit de la « science supprimée » a purement et simplement ignorée pendant dix ans."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "Man found guilty in Norwich physicist murder case — NBC Connecticut", "u": "https://www.nbcconnecticut.com/news/local/man-found-guilty-in-norwich-physicist-murder-case/100019/" },
+    { "t": "Eugene Mallove — Wikipedia", "u": "https://en.wikipedia.org/wiki/Eugene_Mallove" }
+  ],
+  "related": ["stanley-meyer", "bruce-depalma"]
+},
+{
+  "slug": "seth-rich", "name": "Seth Rich",
+  "born": "1989", "died": "2016-07-10", "age": 27,
+  "country": "US", "place_en": "Washington, DC", "place_fr": "Washington, DC",
+  "role_en": "Democratic National Committee staffer",
+  "role_fr": "Employé du Comité national démocrate",
+  "category": "targeted-killing", "status": "unsupported",
+  "sectors": ["politics"],
+  "featured": false, "updated": "2026-08-20", "warned": false,
+  "ruling_en": "Murder, most likely a botched street robbery. Unsolved, no suspects. The claim that he leaked DNC emails was refuted by the Mueller report, the FBI and the intelligence community.",
+  "ruling_fr": "Meurtre, très probablement un vol de rue qui a mal tourné. Non élucidé, aucun suspect. L’affirmation selon laquelle il aurait fourni les e-mails du DNC a été réfutée par le rapport Mueller, le FBI et la communauté du renseignement.",
+  "summary_en": "Rich was shot walking home at 4am. Nothing was taken; the assault appears to have been interrupted. A false story linking him to the WikiLeaks release of DNC emails spread worldwide — Fox News retracted it after eight days and settled with his parents for a seven-figure sum.",
+  "summary_fr": "Rich a été abattu alors qu’il rentrait chez lui à 4 heures du matin. Rien n’a été emporté ; l’agression semble avoir été interrompue. Une fausse histoire le reliant à la publication des e-mails du DNC par WikiLeaks s’est diffusée dans le monde entier — Fox News l’a rétractée au bout de huit jours et a transigé avec ses parents pour une somme à sept chiffres.",
+  "detail_en": [
+    "The unsolved murder is real. The conspiracy narrative attached to it is not: US intelligence, the FBI and the Mueller investigation all concluded that Russian military intelligence hacked the DNC and passed the emails to WikiLeaks.",
+    "This entry exists because it shows the cost of the failure mode this site is built against. A family lost a son to an unsolved crime and then spent years being told, wrongly, why he died."
+  ],
+  "detail_fr": [
+    "Le meurtre non élucidé est réel. Le récit complotiste qui s’y est greffé ne l’est pas : le renseignement américain, le FBI et l’enquête Mueller ont tous conclu que le renseignement militaire russe avait piraté le DNC et transmis les e-mails à WikiLeaks.",
+    "Cette fiche existe parce qu’elle montre le coût du mode de défaillance contre lequel ce site est construit. Une famille a perdu un fils dans un crime non élucidé, puis a passé des années à s’entendre dire, à tort, pourquoi il était mort."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "Parents of slain DNC staffer settle suit with Fox News — NBC News", "u": "https://www.nbcnews.com/politics/politics-news/parents-slain-dnc-staffer-seth-rich-settle-suit-fox-news-n1248894" },
+    { "t": "Fox News settles with Seth Rich family — Variety", "u": "https://variety.com/2020/tv/news/fox-news-seth-rich-settlement-murder-1234839202/amp" }
+  ],
+  "related": ["vince-foster", "peter-smith"]
+},
+{
+  "slug": "vince-foster", "name": "Vince Foster",
+  "born": "1945", "died": "1993-07-20", "age": 48,
+  "country": "US", "place_en": "Fort Marcy Park, Virginia", "place_fr": "Fort Marcy Park (Virginie)",
+  "role_en": "Deputy White House counsel",
+  "role_fr": "Conseiller juridique adjoint de la Maison-Blanche",
+  "category": "suicide-doubt", "status": "unsupported",
+  "sectors": ["politics", "justice"],
+  "featured": false, "updated": "2026-08-20", "warned": false,
+  "ruling_en": "Suicide, confirmed by five separate official investigations, including two independent counsels.",
+  "ruling_fr": "Suicide, confirmé par cinq enquêtes officielles distinctes, dont deux procureurs indépendants.",
+  "summary_en": "Foster’s death has been examined by the US Park Police with the DOJ and FBI, by independent counsel Robert Fiske, by the Senate Banking Committee, by a House committee, and by Kenneth Starr’s three-year re-investigation. All five concluded suicide.",
+  "summary_fr": "La mort de Foster a été examinée par la police des parcs avec le ministère de la Justice et le FBI, par le procureur indépendant Robert Fiske, par la commission bancaire du Sénat, par une commission de la Chambre, et par la contre-enquête de trois ans de Kenneth Starr. Les cinq ont conclu au suicide.",
+  "detail_en": [
+    "The evidence base includes the weapon, gunshot residue, fingerprints, the autopsy, the scene and a note. Starr’s 1997 report reaffirmed that the condition of the scene, the medical examiner’s findings and the gathered information clearly indicated suicide.",
+    "Included as a calibration point: this is what a genuinely well-investigated death looks like. Compare it to David Kelly, where no full inquest was held at all."
+  ],
+  "detail_fr": [
+    "La base probatoire comprend l’arme, les résidus de tir, les empreintes, l’autopsie, la scène et un mot. Le rapport Starr de 1997 a réaffirmé que l’état de la scène, les constats du médecin légiste et les informations recueillies indiquaient clairement un suicide.",
+    "Inclus comme point d’étalonnage : voilà à quoi ressemble une mort réellement bien instruite. À comparer avec David Kelly, où aucune enquête complète de coroner n’a jamais eu lieu."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "Fifth investigation finds that Vince Foster killed himself — Seattle Times", "u": "https://archive.seattletimes.com/archive/19971011/2565470/fifth-investigation-finds-that-vince-foster-killed-himself" },
+    { "t": "Suicide of Vince Foster — Wikipedia", "u": "https://en.wikipedia.org/wiki/Suicide_of_Vince_Foster" }
+  ],
+  "related": ["seth-rich", "david-kelly"]
+},
+{
+  "slug": "peter-smith", "name": "Peter W. Smith",
+  "born": "1936", "died": "2017-05-14", "age": 81,
+  "country": "US", "place_en": "Rochester, Minnesota", "place_fr": "Rochester (Minnesota)",
+  "role_en": "Republican operative who sought Hillary Clinton’s emails from Russian hackers",
+  "role_fr": "Opérateur politique républicain ayant cherché à obtenir les e-mails d’Hillary Clinton auprès de hackers russes",
+  "category": "suicide-doubt", "status": "unsupported",
+  "sectors": ["politics"],
+  "featured": false, "updated": "2026-08-20", "warned": false,
+  "ruling_en": "Suicide, ten days after giving an interview to the Wall Street Journal. He left a note reading ‘NO FOUL PLAY WHATSOEVER’.",
+  "ruling_fr": "Suicide, dix jours après avoir accordé un entretien au Wall Street Journal. Il a laissé un mot indiquant « AUCUN ACTE CRIMINEL, D’AUCUNE SORTE ».",
+  "summary_en": "The timing is spectacular and the explanation is fully documented: Smith left a note citing a sharp decline in his health since January 2017 and the imminent expiry of a $5 million life insurance policy.",
+  "summary_fr": "Le calendrier est spectaculaire et l’explication entièrement documentée : Smith a laissé un mot invoquant une dégradation brutale de son état de santé depuis janvier 2017 et l’expiration imminente d’une assurance-vie de 5 millions de dollars.",
+  "detail_en": [
+    "A hotel clerk found his body with a bag over his head connected to a helium source, alongside a stack of documents including the note.",
+    "The case is a useful control for the ‘he died right after talking’ heuristic: the sequence looks damning and the file is unambiguous."
+  ],
+  "detail_fr": [
+    "Un employé de l’hôtel a découvert son corps, un sac sur la tête relié à une source d’hélium, à côté d’une pile de documents comprenant le mot.",
+    "Le cas est un bon témoin pour l’heuristique du « il est mort juste après avoir parlé » : l’enchaînement paraît accablant et le dossier est sans ambiguïté."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "Peter W. Smith — Wikipedia", "u": "https://en.wikipedia.org/wiki/Peter_W._Smith" },
+    { "t": "Report: GOP operative who sought Clinton emails died by suicide — CBS News", "u": "https://cbsnews.com/amp/news/report-peter-smith-clinton-emails-dead-by-suicide" }
+  ],
+  "related": ["seth-rich", "vince-foster"]
+},
+{
+  "slug": "mike-lynch", "name": "Mike Lynch and Stephen Chamberlain",
+  "born": "1965", "died": "2024-08-19", "age": 59,
+  "country": "IT", "place_en": "off Porticello, Sicily / Cambridgeshire, England", "place_fr": "au large de Porticello (Sicile) / Cambridgeshire, Angleterre",
+  "role_en": "Autonomy founder and his former finance VP, co-defendants acquitted of fraud two months earlier",
+  "role_fr": "Fondateur d’Autonomy et son ancien vice-président finance, coaccusés acquittés de fraude deux mois plus tôt",
+  "category": "unexplained", "status": "unsupported",
+  "sectors": ["ai", "finance"],
+  "featured": false, "updated": "2026-08-20", "warned": false,
+  "ruling_en": "Chamberlain: struck by a car while running on 17 August 2024, died on the 20th; Cambridgeshire Police found nothing ‘suspicious or untoward’. Lynch: drowned when the yacht Bayesian sank in a waterspout on 19 August; the investigations are technical, with no criminal line.",
+  "ruling_fr": "Chamberlain : renversé par une voiture en courant le 17 août 2024, mort le 20 ; la police du Cambridgeshire n’a rien trouvé de « suspect ou anormal ». Lynch : noyé lors du naufrage du voilier Bayesian dans une trombe marine le 19 août ; les enquêtes sont techniques, sans piste criminelle.",
+  "summary_en": "Two co-defendants acquitted together in June 2024 died within 48 hours of each other in August. It is one of the most striking coincidences in this record, and there is no evidence of anything else.",
+  "summary_fr": "Deux coaccusés acquittés ensemble en juin 2024 sont morts à moins de 48 heures d’intervalle en août. C’est l’une des coïncidences les plus frappantes de ce relevé, et rien n’indique autre chose.",
+  "detail_en": [
+    "Lynch and Chamberlain had been acquitted in San Francisco of fraud over the $11 billion sale of Autonomy to Hewlett-Packard. Lynch had organised the cruise to celebrate.",
+    "Cambridgeshire Police said officers had not been in contact with Italian police and treated Chamberlain’s death as a road traffic collision. The Bayesian sinking is the subject of technical inquiries into stability, the mast and open hatches."
+  ],
+  "detail_fr": [
+    "Lynch et Chamberlain avaient été acquittés à San Francisco des accusations de fraude liées à la vente d’Autonomy à Hewlett-Packard pour 11 milliards de dollars. Lynch avait organisé la croisière pour fêter cela.",
+    "La police du Cambridgeshire a indiqué que ses agents n’avaient pas été en contact avec la police italienne et a traité la mort de Chamberlain comme un accident de la route. Le naufrage du Bayesian fait l’objet d’enquêtes techniques sur la stabilité, le mât et des écoutilles ouvertes."
+  ],
+  "disputed_en": ["Two acquitted co-defendants dying within 48 hours."],
+  "disputed_fr": ["Deux coaccusés acquittés morts à moins de 48 heures d’intervalle."],
+  "holds_en": ["Police found nothing suspicious in the road collision.", "The sinking occurred during a documented severe weather event that struck other vessels."],
+  "holds_fr": ["La police n’a rien trouvé de suspect dans la collision routière.", "Le naufrage s’est produit lors d’un épisode météorologique violent documenté, qui a touché d’autres navires."],
+  "sources": [
+    { "t": "Death of tycoon’s ex-partner not ‘untoward’ — police — BBC", "u": "https://feeds.bbci.co.uk/news/articles/c7v5l81ge4zo" },
+    { "t": "Stephen Chamberlain dies after being struck by car — CNN", "u": "https://www.cnn.com/2024/08/19/uk/stephen-chamberlain-mike-lynch-co-defendant-dies-car-intl-latam" }
+  ],
+  "related": ["crypto-executives-2022"]
+},
+{
+  "slug": "jeffrey-epstein", "name": "Jeffrey Epstein",
+  "born": "1953", "died": "2019-08-10", "age": 66,
+  "country": "US", "place_en": "Metropolitan Correctional Center, Manhattan", "place_fr": "Metropolitan Correctional Center, Manhattan",
+  "role_en": "Financier and convicted sex offender, awaiting trial on federal trafficking charges",
+  "role_fr": "Financier et délinquant sexuel condamné, en attente de procès pour trafic sexuel devant la justice fédérale",
+  "category": "suicide-doubt", "status": "contested",
+  "sectors": ["justice"],
+  "featured": true, "updated": "2026-08-20", "warned": false,
+  "ruling_en": "Suicide by hanging (New York City Chief Medical Examiner). A 2023 DOJ Inspector General report found extensive Bureau of Prisons failures but no involvement by any third party.",
+  "ruling_fr": "Suicide par pendaison (médecin légiste en chef de New York). Un rapport de l’inspecteur général du ministère de la Justice (2023) a constaté d’importantes défaillances du Bureau of Prisons mais aucune implication de tiers.",
+  "summary_en": "The only entry in this section that retains a genuine unresolved forensic dispute. Michael Baden, present at the autopsy for the family, recorded three neck fractures — both thyroid cartilages and the left hyoid — and said he had never seen that pattern in a suicidal hanging.",
+  "summary_fr": "La seule fiche de cette section qui conserve un vrai désaccord médico-légal non résolu. Michael Baden, présent à l’autopsie pour la famille, a relevé trois fractures cervicales — les deux cartilages thyroïdes et l’os hyoïde gauche — et a déclaré n’avoir jamais vu ce tableau dans une pendaison suicidaire.",
+  "detail_en": [
+    "The custodial failures are established beyond dispute: his cellmate was removed, guards did not perform required rounds and later falsified records, and cameras malfunctioned.",
+    "The New York medical examiner stands by the suicide finding. Baden’s objection has never been withdrawn or resolved. The honest position is that the official ruling stands, a real forensic disagreement persists, and the institution responsible for the custody demonstrably failed."
+  ],
+  "detail_fr": [
+    "Les défaillances de la détention sont établies sans discussion : son codétenu a été retiré, les surveillants n’ont pas effectué les rondes obligatoires et ont ensuite falsifié les registres, et des caméras étaient défectueuses.",
+    "Le médecin légiste de New York maintient sa conclusion de suicide. L’objection de Baden n’a jamais été retirée ni tranchée. La position honnête est que la conclusion officielle tient, qu’un vrai désaccord médico-légal persiste, et que l’institution chargée de sa garde a manifestement failli."
+  ],
+  "disputed_en": ["Three neck fractures that the family’s pathologist considers more consistent with homicidal strangulation.", "Systematic custodial failures on the night in question."],
+  "disputed_fr": ["Trois fractures cervicales que le médecin légiste de la famille juge plus compatibles avec une strangulation homicide.", "Des défaillances systématiques de la détention cette nuit-là."],
+  "holds_en": ["The DOJ Inspector General found no evidence of third-party involvement.", "Hyoid fractures do occur in suicidal hangings, particularly in older men."],
+  "holds_fr": ["L’inspecteur général du ministère de la Justice n’a trouvé aucune preuve d’implication de tiers.", "Les fractures de l’hyoïde surviennent aussi dans les pendaisons suicidaires, en particulier chez les hommes âgés."],
+  "sources": [
+    { "t": "DOJ Inspector General report (PDF)", "u": "https://oig.justice.gov/sites/default/files/reports/23-085.pdf" },
+    { "t": "Medical examiner dismisses doubts about Epstein autopsy — PBS NewsHour", "u": "https://www.pbs.org/newshour/nation/medical-examiner-dismisses-doubts-about-epstein-autopsy" },
+    { "t": "Death of Jeffrey Epstein — Wikipedia", "u": "https://en.wikipedia.org/wiki/Death_of_Jeffrey_Epstein" }
+  ],
+  "related": ["robert-maxwell", "vince-foster"]
+},
+{
+  "slug": "robert-maxwell", "name": "Robert Maxwell",
+  "born": "1923", "died": "1991-11-05", "age": 68,
+  "country": "ES", "place_en": "Atlantic Ocean, off the Canary Islands", "place_fr": "Océan Atlantique, au large des Canaries",
+  "role_en": "Media proprietor, found dead after disappearing from his yacht",
+  "role_fr": "Magnat de presse, retrouvé mort après avoir disparu de son yacht",
+  "category": "unexplained", "status": "unsolved",
+  "sectors": ["finance", "journalism"],
+  "featured": false, "updated": "2026-08-20", "warned": false,
+  "ruling_en": "Heart attack combined with accidental drowning; the coroner recorded an open verdict.",
+  "ruling_fr": "Crise cardiaque combinée à une noyade accidentelle ; le coroner a rendu un verdict ouvert.",
+  "summary_en": "Maxwell vanished from the Lady Ghislaine days before the theft of hundreds of millions from his companies’ pension funds became public. Accident, suicide and assassination all remain formally open; only the first two have any evidence behind them.",
+  "summary_fr": "Maxwell a disparu du Lady Ghislaine quelques jours avant que le détournement de centaines de millions dans les fonds de pension de ses groupes ne devienne public. Accident, suicide et assassinat restent formellement ouverts ; seuls les deux premiers reposent sur des éléments.",
+  "detail_en": [
+    "A friend and long-time photographer noted that Maxwell habitually urinated over the stern at night and that the rails were wire — an ordinary route to falling overboard for a very heavy man.",
+    "The assassination theories draw on his documented intelligence contacts. No evidence has ever supported them. The open verdict is the accurate record."
+  ],
+  "detail_fr": [
+    "Un ami et photographe de longue date a rappelé que Maxwell avait l’habitude d’uriner par-dessus la poupe la nuit et que les rambardes étaient en câble — un chemin ordinaire vers la chute par-dessus bord pour un homme très corpulent.",
+    "Les thèses d’assassinat s’appuient sur ses contacts documentés dans le renseignement. Rien ne les a jamais étayées. Le verdict ouvert est la consignation exacte."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "Natural cause ruling in Maxwell death fails to dispel mystery — UPI (1991)", "u": "https://www.upi.com/Archives/1991/12/14/Natural-cause-ruling-in-Maxwell-death-fails-to-dispel-mystery/6606692686800/" },
+    { "t": "Robert Maxwell’s strange and tragic death — ABC (Australia)", "u": "https://www.abc.net.au/news/2022-06-29/did-robert-maxwell-death-define-ghislaine-maxwells-life/100757834" }
+  ],
+  "related": ["roberto-calvi", "jeffrey-epstein"]
+},
+{
+  "slug": "david-crowley", "name": "David Crowley",
+  "born": "1985", "died": "2015-01-17", "age": 29,
+  "country": "US", "place_en": "Apple Valley, Minnesota", "place_fr": "Apple Valley (Minnesota)",
+  "role_en": "Filmmaker behind the unfinished anti-government film ‘Gray State’",
+  "role_fr": "Réalisateur du film antigouvernemental inachevé « Gray State »",
+  "category": "suicide-doubt", "status": "unsupported",
+  "sectors": ["journalism"],
+  "featured": false, "updated": "2026-08-20", "warned": false,
+  "ruling_en": "Murder-suicide (Hennepin County Medical Examiner): Crowley shot his wife Komel and their five-year-old daughter Rania, then himself.",
+  "ruling_fr": "Meurtre-suicide (médecin légiste du comté de Hennepin) : Crowley a tué par balle son épouse Komel et leur fille Rania, cinq ans, puis lui-même.",
+  "summary_en": "Crowley’s film about a government takeover of America had a large anti-government following, which read the family’s deaths as a silencing. A year-long police investigation documented an ordinary and devastating domestic murder-suicide.",
+  "summary_fr": "Le film de Crowley sur une prise de contrôle du pays par le gouvernement avait un large public antigouvernemental, qui a lu la mort de la famille comme une mise au silence. Une enquête policière d’un an a documenté un meurtre-suicide familial ordinaire et dévastateur.",
+  "detail_en": [
+    "Apple Valley police disclosed the scene details to FOX 9 after a year: ‘Allah Akbar’ written on a wall in his wife’s blood, and the family cutting off contact with relatives and disconnecting their phones for the final seven weeks. Investigators documented financial stress and did not establish a motive.",
+    "Included as a case where the pattern-matching was strong, emotionally compelling, and completely wrong."
+  ],
+  "detail_fr": [
+    "La police d’Apple Valley a communiqué les détails de la scène à FOX 9 au bout d’un an : « Allah Akbar » écrit sur un mur avec le sang de son épouse, et la famille coupant tout contact avec ses proches et débranchant ses téléphones pendant les sept dernières semaines. Les enquêteurs ont documenté un stress financier et n’ont pas établi de mobile.",
+    "Inclus comme cas où la mise en série était forte, émotionnellement convaincante, et complètement fausse."
+  ],
+  "disputed_en": [], "disputed_fr": [], "holds_en": [], "holds_fr": [],
+  "sources": [
+    { "t": "New documentary examines ‘Gray State’ murder-suicide — FOX 9", "u": "https://www.fox9.com/news/new-documentary-examines-gray-state-murder-suicide" },
+    { "t": "Conspiracist filmmaker, family found dead — SPLC", "u": "https://www.splcenter.org/hatewatch/2015/01/20/conspiracist-filmmaker-family-found-dead-murder-suicide-spurring-fresh-theories" }
+  ],
+  "related": ["seth-rich", "missing-scientists-2026"]
+}
+]

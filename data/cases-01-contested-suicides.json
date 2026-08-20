@@ -1,0 +1,613 @@
+[
+{
+  "slug": "john-barnett",
+  "name": "John Barnett",
+  "born": "1961", "died": "2024-03-09", "age": 62,
+  "country": "US", "place_en": "Charleston, South Carolina", "place_fr": "Charleston (Caroline du Sud)",
+  "role_en": "Boeing quality manager who blew the whistle on 787 Dreamliner production",
+  "role_fr": "Responsable qualité chez Boeing, lanceur d’alerte sur la production du 787 Dreamliner",
+  "category": "suicide-doubt", "status": "contested",
+  "sectors": ["aerospace", "whistleblowing"],
+  "featured": true, "updated": "2026-08-20",
+  "warned": true,
+  "warning_en": "Asked by a family friend whether he was scared, days before leaving for his deposition: “No, I ain’t scared, but if anything happens to me, it’s not suicide.”",
+  "warning_fr": "À une amie de la famille qui lui demandait s’il avait peur, quelques jours avant de partir pour sa déposition : « Non, je n’ai pas peur, mais s’il m’arrive quelque chose, ce n’est pas un suicide. »",
+  "ruling_en": "Self-inflicted gunshot wound (Charleston County Coroner). Charleston police found no indication of foul play.",
+  "ruling_fr": "Blessure par arme à feu auto-infligée (coroner du comté de Charleston). La police de Charleston n’a relevé aucun indice d’acte criminel.",
+  "summary_en": "Barnett spent seven years telling the FAA that Boeing was installing defective parts and losing track of them on the 787 line — findings the regulator substantiated. He was found dead in his truck in a hotel car park on the morning he was due to continue giving evidence against the company, days after telling a friend that if anything happened to him it would not be suicide.",
+  "summary_fr": "Barnett a passé sept ans à signaler à la FAA que Boeing montait des pièces défectueuses et en perdait la trace sur la chaîne du 787 — des constats que le régulateur a confirmés. Il a été retrouvé mort dans son pick-up sur le parking d’un hôtel le matin où il devait poursuivre sa déposition contre l’entreprise, quelques jours après avoir dit à une amie que s’il lui arrivait quelque chose, ce ne serait pas un suicide.",
+  "detail_en": [
+    "John Barnett worked at Boeing for 32 years, the last seven of them at the North Charleston plant that builds the 787 Dreamliner. He reported that workers under schedule pressure were fitting sub-standard parts pulled from scrap bins, that hundreds of defective components had gone missing from the tracking system, and that up to a quarter of the emergency oxygen systems on the line could fail to deploy. The FAA substantiated the missing-parts finding.",
+    "In March 2024 he travelled to Charleston for a deposition in his long-running retaliation lawsuit against Boeing. He gave evidence on 7 and 8 March. On 9 March he did not appear for the final session. He was found in his truck in the car park of the Holiday Inn where he was staying, dead of a gunshot wound the coroner described as apparently self-inflicted.",
+    "His estate later sued Boeing for wrongful death, arguing that a sustained campaign of harassment and retaliation drove him to take his own life. That claim accepts the suicide finding — and holds the company responsible for it."
+  ],
+  "detail_fr": [
+    "John Barnett a travaillé 32 ans chez Boeing, dont les sept dernières années à l’usine de North Charleston qui assemble le 787 Dreamliner. Il a signalé que des ouvriers sous pression de cadence montaient des pièces non conformes récupérées dans les bacs de rebut, que des centaines de composants défectueux avaient disparu du système de traçabilité, et qu’un quart des systèmes d’oxygène de secours de la chaîne pouvaient ne pas se déclencher. La FAA a confirmé le constat sur les pièces manquantes.",
+    "En mars 2024, il se rend à Charleston pour une déposition dans sa longue action contre Boeing pour représailles. Il témoigne les 7 et 8 mars. Le 9 mars, il ne se présente pas à la dernière session. Il est retrouvé dans son pick-up sur le parking du Holiday Inn où il logeait, tué par une arme à feu, blessure que le coroner décrit comme apparemment auto-infligée.",
+    "Sa succession a ensuite assigné Boeing pour mort injustifiée, en soutenant qu’une campagne prolongée de harcèlement et de représailles l’avait poussé au suicide. Cette action retient donc le suicide — et en impute la responsabilité à l’entreprise."
+  ],
+  "disputed_en": [
+    "The explicit, dated warning to a family friend: “if anything happens to me, it’s not suicide.”",
+    "The timing — he died on the morning of the final day of a deposition he had fought for years to obtain.",
+    "No public release of a full investigative file; the coroner’s language (“appears to be”) was never upgraded by a published report."
+  ],
+  "disputed_fr": [
+    "L’avertissement explicite et daté à une amie de la famille : « s’il m’arrive quelque chose, ce n’est pas un suicide ».",
+    "Le calendrier — il meurt le matin du dernier jour d’une déposition qu’il s’était battu des années pour obtenir.",
+    "Aucun dossier d’enquête complet rendu public ; la formule du coroner (« apparemment ») n’a jamais été confirmée par un rapport publié."
+  ],
+  "holds_en": [
+    "Police examined the scene and reported no indication of a third party.",
+    "Barnett was under extreme, documented, multi-year professional and financial strain — the same strain his own family’s lawsuit describes as the cause of his death."
+  ],
+  "holds_fr": [
+    "La police a examiné la scène et n’a signalé aucun indice de tiers.",
+    "Barnett subissait une pression professionnelle et financière extrême et documentée depuis des années — celle-là même que l’action de sa famille désigne comme la cause de sa mort."
+  ],
+  "sources": [
+    { "t": "‘If anything happens, it’s not suicide’ — ABC News 4", "u": "https://abcnews4.com/news/local/if-anything-happens-its-not-suicide-boeing-whistleblowers-prediction-before-death-south-carolina-abc-news-4-2024" },
+    { "t": "Boeing whistleblower found dead — NPR", "u": "https://npr.org/2024/03/12/1238033573/boeing-whistleblower-dead-john-barnett" },
+    { "t": "Family sues Boeing alleging harassment campaign — NBC News", "u": "https://www.nbcnews.com/news/us-news/family-boeing-whistle-blower-sues-company-alleging-harassment-campaign-rcna197439" },
+    { "t": "John Barnett — Wikipedia", "u": "https://en.wikipedia.org/wiki/John_Barnett_(whistleblower)" }
+  ],
+  "related": ["joshua-dean", "suchir-balaji"]
+},
+{
+  "slug": "suchir-balaji",
+  "name": "Suchir Balaji",
+  "born": "1998", "died": "2024-11-26", "age": 26,
+  "country": "US", "place_en": "San Francisco, California", "place_fr": "San Francisco (Californie)",
+  "role_en": "OpenAI researcher turned copyright whistleblower",
+  "role_fr": "Chercheur chez OpenAI devenu lanceur d’alerte sur le droit d’auteur",
+  "category": "suicide-doubt", "status": "contested",
+  "sectors": ["ai", "whistleblowing"],
+  "featured": true, "updated": "2026-08-20",
+  "warned": false,
+  "ruling_en": "Suicide by gunshot (San Francisco Office of the Chief Medical Examiner); no evidence of foul play.",
+  "ruling_fr": "Suicide par arme à feu (médecin légiste en chef de San Francisco) ; aucun élément d’acte criminel.",
+  "summary_en": "Balaji spent nearly four years at OpenAI before quitting in August 2024 and going public with the claim that training on copyrighted work was not fair use. He was named as a custodian of relevant evidence in the copyright litigation against the company. He was found dead in his apartment three months later; the city ruled suicide, and a second autopsy commissioned by his parents concluded the wound was not consistent with one.",
+  "summary_fr": "Balaji a passé près de quatre ans chez OpenAI avant de démissionner en août 2024 et de déclarer publiquement que l’entraînement sur des œuvres protégées ne relevait pas du fair use. Il avait été désigné comme détenteur de pièces dans les procès en contrefaçon visant l’entreprise. Il a été retrouvé mort chez lui trois mois plus tard ; la ville a conclu au suicide, et une contre-autopsie commandée par ses parents estime que la blessure n’y est pas compatible.",
+  "detail_en": [
+    "Balaji joined OpenAI out of Berkeley and worked on data pipelines used to train GPT-4. He left in August 2024, saying publicly that he had come to believe the company’s use of copyrighted material was unlawful and that he no longer wanted to contribute to it. In October he was named in a court filing as someone holding documents relevant to The New York Times’ copyright suit.",
+    "He was found dead in his San Francisco apartment on 26 November 2024. The medical examiner ruled suicide by gunshot and said there was no evidence of foul play. His parents rejected the finding, commissioned an independent autopsy, and say its forensic experts found the trajectory of the wound inconsistent with self-infliction.",
+    "The family has filed two lawsuits: one against the City of San Francisco and its police department to compel release of the full investigative file, and one against the owners and managers of his apartment building, alleging that evidence was concealed and that packages addressed to him disappeared after his death."
+  ],
+  "detail_fr": [
+    "Balaji rejoint OpenAI à sa sortie de Berkeley et travaille sur les chaînes de données servant à entraîner GPT-4. Il démissionne en août 2024, déclarant publiquement qu’il en était venu à considérer l’usage d’œuvres protégées comme illicite et ne plus vouloir y contribuer. En octobre, une pièce de procédure le désigne comme détenteur de documents pertinents dans le procès du New York Times.",
+    "Il est retrouvé mort chez lui, à San Francisco, le 26 novembre 2024. Le médecin légiste conclut au suicide par arme à feu et à l’absence de tout élément criminel. Ses parents rejettent cette conclusion, commandent une autopsie indépendante et affirment que ses experts ont jugé la trajectoire de la blessure incompatible avec un geste auto-infligé.",
+    "La famille a engagé deux procédures : l’une contre la ville de San Francisco et sa police pour obtenir l’intégralité du dossier d’enquête, l’autre contre les propriétaires et gestionnaires de l’immeuble, accusés d’avoir dissimulé des éléments et laissé disparaître des colis qui lui étaient adressés après sa mort."
+  ],
+  "disputed_en": [
+    "An independent autopsy commissioned by the family concluded the gunshot wound was not consistent with suicide.",
+    "Packages addressed to Balaji reportedly disappeared from the building after his death.",
+    "The full investigative file has not been released; the family is suing to obtain it."
+  ],
+  "disputed_fr": [
+    "Une autopsie indépendante commandée par la famille conclut que la blessure n’est pas compatible avec un suicide.",
+    "Des colis adressés à Balaji auraient disparu de l’immeuble après sa mort.",
+    "Le dossier d’enquête complet n’a pas été communiqué ; la famille agit en justice pour l’obtenir."
+  ],
+  "holds_en": [
+    "The official autopsy found no evidence of a struggle or of a third party in the apartment.",
+    "No suspect, motive or mechanism has been proposed by the family’s experts beyond the wound-trajectory objection."
+  ],
+  "holds_fr": [
+    "L’autopsie officielle n’a relevé ni trace de lutte ni présence d’un tiers dans l’appartement.",
+    "Les experts de la famille n’avancent ni suspect, ni mobile, ni mécanisme au-delà de l’objection sur la trajectoire."
+  ],
+  "sources": [
+    { "t": "Autopsy: no foul play — SF Standard", "u": "https://sfstandard.com/2025/02/14/autopsy-no-foul-play-in-openai-whistleblowers-suicide/" },
+    { "t": "Independent autopsy finds wound not consistent with suicide — Futurism", "u": "https://futurism.com/openai-whistleblower-independent-autopsy" },
+    { "t": "Parents sue San Francisco for records — KQED", "u": "https://www.kqed.org/news/12025604/openai-whistleblowers-parents-sue-san-francisco-release-death-records" },
+    { "t": "Parents sue apartment complex — SF Standard", "u": "https://sfstandard.com/2025/09/30/suchir-balaji-openai-whistleblower-parents-lawsuit/" }
+  ],
+  "related": ["john-barnett", "aaron-swartz"]
+},
+{
+  "slug": "danny-casolaro",
+  "name": "Danny Casolaro",
+  "born": "1947", "died": "1991-08-10", "age": 44,
+  "country": "US", "place_en": "Martinsburg, West Virginia", "place_fr": "Martinsburg (Virginie-Occidentale)",
+  "role_en": "Freelance journalist investigating the Inslaw/PROMIS affair",
+  "role_fr": "Journaliste indépendant enquêtant sur l’affaire Inslaw/PROMIS",
+  "category": "suicide-doubt", "status": "contested",
+  "sectors": ["journalism", "intelligence"],
+  "featured": true, "updated": "2026-08-20",
+  "warned": true,
+  "warning_en": "He told his brother and friends in the weeks before his death that he was receiving threatening phone calls, and that if anything happened to him “it would not be an accident” — and not to believe a report of suicide.",
+  "warning_fr": "Dans les semaines précédant sa mort, il a dit à son frère et à ses amis qu’il recevait des appels de menaces, que s’il lui arrivait quelque chose « ce ne serait pas un accident » — et qu’il ne faudrait pas croire à un suicide.",
+  "ruling_en": "Suicide by exsanguination (wrists cut).",
+  "ruling_fr": "Suicide par hémorragie (poignets tailladés).",
+  "summary_en": "Casolaro was writing a book about what he called “the Octopus” — a web he traced out of the Inslaw case, in which the US Department of Justice was accused of stealing the PROMIS case-management software. He was found dead in a hotel bathtub with his wrists cut ten to twelve times, on a trip he had told friends would produce a key source.",
+  "summary_fr": "Casolaro écrivait un livre sur ce qu’il appelait « la Pieuvre », un réseau qu’il reliait à l’affaire Inslaw, où le ministère américain de la Justice était accusé d’avoir volé le logiciel PROMIS. Il a été retrouvé mort dans la baignoire d’un hôtel, les poignets tailladés dix à douze fois, lors d’un déplacement dont il avait dit à ses proches qu’il devait lui livrer une source décisive.",
+  "detail_en": [
+    "Casolaro had told friends he was close to tying together the Inslaw software theft, the October Surprise allegations, BCCI and arms trafficking. He travelled to Martinsburg, West Virginia, on 8 August 1991 saying he was meeting a source who would deliver the final piece.",
+    "Two housekeepers found his body in the bathtub of his room at the Sheraton on 10 August. His wrists had been cut ten to twelve times. A note was present. The death was ruled a suicide.",
+    "The handling of the scene is what keeps the case open: the body was embalmed before his family was notified or consented, his working papers and briefcase were not recovered from the room, and forensic tests could not confirm that the note was in his handwriting."
+  ],
+  "detail_fr": [
+    "Casolaro avait dit à ses proches qu’il touchait au but pour relier le vol du logiciel Inslaw, les allégations d’October Surprise, la BCCI et le trafic d’armes. Il se rend à Martinsburg, en Virginie-Occidentale, le 8 août 1991, en disant rencontrer une source qui lui apporterait la pièce manquante.",
+    "Deux femmes de chambre découvrent son corps dans la baignoire de sa chambre du Sheraton le 10 août. Ses poignets portaient dix à douze entailles. Un mot était présent. La mort a été classée suicide.",
+    "C’est le traitement de la scène qui maintient le dossier ouvert : le corps a été embaumé avant que la famille soit prévenue et donne son accord, ses documents de travail et sa mallette n’ont pas été retrouvés dans la chambre, et les expertises n’ont pas pu confirmer que le mot était de sa main."
+  ],
+  "disputed_en": [
+    "Explicit advance warning to family and friends not to believe a suicide finding.",
+    "The body was embalmed before the family was notified — destroying toxicological evidence.",
+    "His research files and briefcase were missing from the room.",
+    "The handwriting of the note could not be authenticated."
+  ],
+  "disputed_fr": [
+    "Avertissement explicite à sa famille et à ses amis de ne pas croire à un suicide.",
+    "Le corps a été embaumé avant que la famille soit prévenue — détruisant les preuves toxicologiques.",
+    "Ses dossiers de recherche et sa mallette manquaient dans la chambre.",
+    "L’écriture du mot n’a pas pu être authentifiée."
+  ],
+  "holds_en": [
+    "Casolaro was in financial difficulty and had staked years on a book he had not sold.",
+    "No forensic evidence of a second person in the room was ever produced."
+  ],
+  "holds_fr": [
+    "Casolaro était en difficulté financière et avait misé des années sur un livre qu’il n’avait pas vendu.",
+    "Aucune preuve matérielle de la présence d’un tiers dans la chambre n’a jamais été produite."
+  ],
+  "sources": [
+    { "t": "The Octopus — US National Archives blog", "u": "https://text-message.blogs.archives.gov/2010/12/02/the-octopus/" },
+    { "t": "Danny Casolaro — Wikipedia", "u": "https://en.wikipedia.org/wiki/Danny_Casolaro" }
+  ],
+  "related": ["gary-webb", "michael-hastings"]
+},
+{
+  "slug": "gary-webb",
+  "name": "Gary Webb",
+  "born": "1955", "died": "2004-12-10", "age": 49,
+  "country": "US", "place_en": "Carmichael, California", "place_fr": "Carmichael (Californie)",
+  "role_en": "Investigative reporter, author of the ‘Dark Alliance’ series",
+  "role_fr": "Journaliste d’investigation, auteur de la série « Dark Alliance »",
+  "category": "suicide-doubt", "status": "contested",
+  "sectors": ["journalism"],
+  "featured": false, "updated": "2026-08-20",
+  "warned": false,
+  "ruling_en": "Suicide, two gunshot wounds to the head (Sacramento County Coroner). A handwritten note stating the intent was found.",
+  "ruling_fr": "Suicide, deux blessures par balle à la tête (coroner du comté de Sacramento). Un mot manuscrit exprimant l’intention a été retrouvé.",
+  "summary_en": "Webb’s 1996 ‘Dark Alliance’ series linked a CIA-backed Nicaraguan guerrilla network to the crack cocaine trade in Los Angeles. The backlash destroyed his career. Eight years later he was found dead with two gunshot wounds to the head — unusual, but not impossible, and his own family accepts the suicide finding.",
+  "summary_fr": "La série « Dark Alliance » de Webb, en 1996, reliait un réseau de guérilla nicaraguayen soutenu par la CIA au trafic de crack à Los Angeles. Le contrecoup a détruit sa carrière. Huit ans plus tard, il est retrouvé mort de deux balles dans la tête — fait rare, mais pas impossible, et sa propre famille accepte la conclusion de suicide.",
+  "detail_en": [
+    "After ‘Dark Alliance’, three major newspapers ran campaigns against Webb’s reporting; his own paper retracted parts of it and he resigned. A subsequent CIA Inspector General report confirmed much of the underlying relationship between the agency and traffickers, but Webb never recovered professionally.",
+    "On 10 December 2004 he was found dead at home of two gunshot wounds to the head from a .38 revolver. The coroner explained that the first shot exited through his cheek without immediately incapacitating him. A note was found; he had been in severe financial distress and had just sold his house.",
+    "The case is listed here because it is so widely cited as suspicious. It is graded contested rather than unsolved on the strength of the coroner’s explanation — and because the family, who saw the file, do not dispute it."
+  ],
+  "detail_fr": [
+    "Après « Dark Alliance », trois grands quotidiens ont mené campagne contre son enquête ; son propre journal en a rétracté une partie et il a démissionné. Un rapport ultérieur de l’inspecteur général de la CIA a confirmé l’essentiel de la relation entre l’agence et des trafiquants, mais Webb ne s’est jamais relevé professionnellement.",
+    "Le 10 décembre 2004, il est retrouvé mort chez lui, tué par deux balles de revolver .38 à la tête. Le coroner explique que le premier tir est ressorti par la joue sans le neutraliser immédiatement. Un mot a été retrouvé ; il était en grande détresse financière et venait de vendre sa maison.",
+    "Le cas figure ici parce qu’il est massivement cité comme suspect. Il est noté « contesté » et non « non résolu » au vu de l’explication du coroner — et parce que la famille, qui a vu le dossier, ne la conteste pas."
+  ],
+  "disputed_en": [
+    "Two gunshot wounds to the head is rare in suicide, and is the single fact that drives the doubt."
+  ],
+  "disputed_fr": [
+    "Deux balles dans la tête est rare dans un suicide, et c’est le seul fait qui nourrit le doute."
+  ],
+  "holds_en": [
+    "Double-shot suicides are documented in forensic literature; the coroner described a plausible mechanism.",
+    "A handwritten note was recovered, and Webb was in documented financial and professional collapse.",
+    "His family accepts the finding."
+  ],
+  "holds_fr": [
+    "Les suicides à deux tirs sont documentés en médecine légale ; le coroner a décrit un mécanisme plausible.",
+    "Un mot manuscrit a été retrouvé, et Webb traversait un effondrement financier et professionnel documenté.",
+    "Sa famille accepte la conclusion."
+  ],
+  "sources": [
+    { "t": "Coroner: Webb killed himself with two gunshots — Poynter", "u": "https://www.poynter.org/reporting-editing/2004/coroner-webb-killed-himself-with-two-gunshots-to-the-head/" },
+    { "t": "Gary Webb — Wikipedia", "u": "https://en.wikipedia.org/wiki/Gary_Webb" }
+  ],
+  "related": ["danny-casolaro", "michael-hastings"]
+},
+{
+  "slug": "david-kelly",
+  "name": "Dr David Kelly",
+  "born": "1944", "died": "2003-07-17", "age": 59,
+  "country": "GB", "place_en": "Harrowdown Hill, Oxfordshire", "place_fr": "Harrowdown Hill (Oxfordshire)",
+  "role_en": "UN weapons inspector and MoD scientist, source of the BBC ‘sexed up’ dossier report",
+  "role_fr": "Inspecteur en désarmement de l’ONU et scientifique du ministère de la Défense, source du reportage de la BBC sur le dossier « embelli »",
+  "category": "suicide-doubt", "status": "contested",
+  "sectors": ["intelligence", "politics", "whistleblowing"],
+  "featured": true, "updated": "2026-08-20",
+  "warned": true,
+  "warning_en": "Months earlier he told a British diplomat that if Iraq were invaded he would “probably be found dead in the woods”.",
+  "warning_fr": "Des mois plus tôt, il avait dit à un diplomate britannique que si l’Irak était envahi, il serait « probablement retrouvé mort dans les bois ».",
+  "ruling_en": "Suicide: haemorrhage from incised wounds to the left wrist, self-inflicted (Hutton Inquiry, 2004). No full coroner’s inquest was ever held.",
+  "ruling_fr": "Suicide : hémorragie par plaies incisées au poignet gauche, auto-infligées (enquête Hutton, 2004). Aucune enquête complète de coroner n’a jamais été tenue.",
+  "summary_en": "Kelly was publicly identified as the source for a BBC report alleging that the government had exaggerated intelligence on Iraqi weapons, then summoned before a parliamentary committee. Two days later he was found dead in woodland. A judicial inquiry replaced the normal coroner’s inquest and concluded suicide; three doctors have argued in print that the medical findings do not support the stated cause of death.",
+  "summary_fr": "Kelly a été publiquement identifié comme la source d’un reportage de la BBC accusant le gouvernement d’avoir exagéré le renseignement sur les armes irakiennes, puis convoqué devant une commission parlementaire. Deux jours plus tard, il était retrouvé mort dans un bois. Une enquête judiciaire a remplacé l’enquête ordinaire du coroner et a conclu au suicide ; trois médecins ont soutenu par écrit que les constats médicaux ne soutiennent pas la cause de la mort retenue.",
+  "detail_en": [
+    "Kelly was one of the West’s most experienced biological weapons inspectors. After telling BBC journalist Andrew Gilligan that the government’s Iraq dossier had been strengthened beyond what the intelligence supported, he was named by the Ministry of Defence and questioned aggressively by the Foreign Affairs Committee on 15 July 2003.",
+    "He left his home for a walk on 17 July and was found dead the next morning. The government immediately appointed Lord Hutton to conduct a judicial inquiry — which had the effect of suspending the coroner’s inquest that would normally have been held, and which was never resumed.",
+    "Hutton concluded that Kelly had cut his left ulnar artery with a pruning knife and taken co-proxamol tablets. Three physicians publicly disputed the finding, arguing that a severed ulnar artery is rarely fatal without a clotting disorder and that too little blood was found at the scene. The Attorney General refused an inquest in 2011; the medical records were sealed for 70 years."
+  ],
+  "detail_fr": [
+    "Kelly était l’un des inspecteurs en armement biologique les plus expérimentés d’Occident. Après avoir déclaré au journaliste de la BBC Andrew Gilligan que le dossier irakien du gouvernement avait été durci au-delà de ce que permettait le renseignement, il a été nommé par le ministère de la Défense et interrogé durement par la commission des affaires étrangères le 15 juillet 2003.",
+    "Il quitte son domicile pour une promenade le 17 juillet et est retrouvé mort le lendemain matin. Le gouvernement nomme aussitôt Lord Hutton pour conduire une enquête judiciaire — ce qui a eu pour effet de suspendre l’enquête de coroner normalement prévue, jamais reprise depuis.",
+    "Hutton conclut que Kelly s’est sectionné l’artère cubitale gauche avec un sécateur et avait absorbé des comprimés de co-proxamol. Trois médecins ont publiquement contesté : une artère cubitale sectionnée est rarement mortelle sans trouble de la coagulation, et trop peu de sang a été retrouvé sur place. Le procureur général a refusé une enquête de coroner en 2011 ; le dossier médical a été scellé pour 70 ans."
+  ],
+  "disputed_en": [
+    "No full coroner’s inquest was ever held — a judicial inquiry replaced it and was never followed by one.",
+    "Three physicians argue in print that the severed ulnar artery could not have caused fatal blood loss.",
+    "The medical and post-mortem records were sealed until 2073.",
+    "His own recorded remark, months earlier, that he would ‘probably be found dead in the woods’."
+  ],
+  "disputed_fr": [
+    "Aucune enquête complète de coroner n’a jamais eu lieu — une enquête judiciaire l’a remplacée et n’a jamais été suivie d’une autre.",
+    "Trois médecins soutiennent par écrit que l’artère cubitale sectionnée ne pouvait causer une hémorragie mortelle.",
+    "Les pièces médicales et d’autopsie ont été scellées jusqu’en 2073.",
+    "Sa propre remarque, consignée des mois plus tôt : il serait « probablement retrouvé mort dans les bois »."
+  ],
+  "holds_en": [
+    "Hutton heard evidence from the forensic pathologist and toxicologist who examined the body.",
+    "Kelly was under exceptional public pressure and had told colleagues he felt betrayed by his ministry."
+  ],
+  "holds_fr": [
+    "Hutton a entendu le médecin légiste et le toxicologue qui ont examiné le corps.",
+    "Kelly subissait une pression publique exceptionnelle et avait dit à des collègues se sentir trahi par son ministère."
+  ],
+  "sources": [
+    { "t": "Hutton Inquiry — Wikipedia", "u": "https://en.wikipedia.org/wiki/Hutton_Inquiry" },
+    { "t": "Attorney general rules against Kelly inquest — BBC", "u": "https://feeds.bbci.co.uk/news/uk-politics-13709515" },
+    { "t": "Records sealed until 2073 — CBS News", "u": "https://www.cbsnews.com/news/records-on-uk-scientists-death-sealed-until-2073" }
+  ],
+  "related": ["bruce-ivins", "gareth-williams"]
+},
+{
+  "slug": "terrance-yeakey",
+  "name": "Terrance Yeakey",
+  "born": "1966", "died": "1996-05-08", "age": 30,
+  "country": "US", "place_en": "El Reno, Oklahoma", "place_fr": "El Reno (Oklahoma)",
+  "role_en": "Oklahoma City police sergeant, first responder to the 1995 bombing",
+  "role_fr": "Sergent de police d’Oklahoma City, premier intervenant de l’attentat de 1995",
+  "category": "suicide-doubt", "status": "contested",
+  "sectors": ["justice"],
+  "featured": false, "updated": "2026-08-20",
+  "warned": false,
+  "ruling_en": "Suicide: wrists cut, then a gunshot wound, in a field roughly 65 km from where his car was parked.",
+  "ruling_fr": "Suicide : poignets entaillés, puis blessure par balle, dans un champ à environ 65 km de l’endroit où sa voiture était garée.",
+  "summary_en": "Yeakey pulled at least four people out of the Murrah Federal Building and was conducting his own inquiry into the bombing. He was found dead three days before he was due to receive a Medal of Valor, with no note, and with wounds his colleagues found implausible.",
+  "summary_fr": "Yeakey a extrait au moins quatre personnes du Murrah Federal Building et menait sa propre enquête sur l’attentat. Il a été retrouvé mort trois jours avant de recevoir une Medal of Valor, sans aucun mot, avec des blessures que ses collègues ont jugées invraisemblables.",
+  "detail_en": [
+    "Yeakey was one of the first officers into the wreckage on 19 April 1995. He told family and colleagues afterwards that what he had seen at the scene did not match the official account of the bombing, and he had begun collecting material of his own.",
+    "On 8 May 1996 his patrol car was found abandoned; his body was located in a field about a mile away, with cuts to both wrists and the neck and a gunshot wound to the head. No weapon consistent with the cuts, and no note, were recovered at the scene.",
+    "CNN reported at the time that ‘among those who knew Terry Yeakey, not many believed he had killed himself.’ The manner of death remains disputed by his family and by officers who worked with him."
+  ],
+  "detail_fr": [
+    "Yeakey fut l’un des premiers policiers à entrer dans les décombres le 19 avril 1995. Il a ensuite dit à sa famille et à ses collègues que ce qu’il avait vu sur place ne correspondait pas à la version officielle de l’attentat, et il avait commencé à réunir ses propres éléments.",
+    "Le 8 mai 1996, sa voiture de patrouille est retrouvée abandonnée ; son corps est localisé dans un champ à environ un kilomètre et demi, avec des entailles aux deux poignets et au cou et une blessure par balle à la tête. Ni arme compatible avec les entailles, ni mot d’adieu n’ont été retrouvés sur place.",
+    "CNN rapportait alors que « parmi ceux qui connaissaient Terry Yeakey, peu croyaient qu’il s’était tué ». La nature de sa mort reste contestée par sa famille et par des policiers qui travaillaient avec lui."
+  ],
+  "disputed_en": [
+    "No suicide note and no reported precursor behaviour.",
+    "The wound pattern — multiple cuts then a gunshot — and the distance from his abandoned car.",
+    "He died three days before a public commendation ceremony."
+  ],
+  "disputed_fr": [
+    "Aucun mot d’adieu et aucun signe précurseur rapporté.",
+    "Le schéma des blessures — plusieurs entailles puis un tir — et la distance depuis sa voiture abandonnée.",
+    "Il meurt trois jours avant une cérémonie publique de décoration."
+  ],
+  "holds_en": [
+    "Yeakey had documented post-traumatic distress and a difficult divorce.",
+    "The medical examiner’s finding has never been formally overturned."
+  ],
+  "holds_fr": [
+    "Yeakey présentait une détresse post-traumatique documentée et traversait un divorce difficile.",
+    "La conclusion du médecin légiste n’a jamais été formellement infirmée."
+  ],
+  "sources": [
+    { "t": "Terrance Yeakey — Wikipedia", "u": "https://en.wikipedia.org/wiki/Terrance_Yeakey" },
+    { "t": "Sergeant Terrance Yeakey — National Law Enforcement Officers Memorial Fund", "u": "https://nleomf.org/sergeant-terrance-yeakey/" }
+  ],
+  "related": ["danny-casolaro"]
+},
+{
+  "slug": "shane-todd",
+  "name": "Shane Todd",
+  "born": "1981", "died": "2012-06-24", "age": 31,
+  "country": "SG", "place_en": "Singapore", "place_fr": "Singapour",
+  "role_en": "American engineer at Singapore’s Institute of Microelectronics, working on gallium nitride",
+  "role_fr": "Ingénieur américain à l’Institute of Microelectronics de Singapour, travaillant sur le nitrure de gallium",
+  "category": "suicide-doubt", "status": "contested",
+  "sectors": ["physics", "intelligence"],
+  "featured": false, "updated": "2026-08-20",
+  "warned": true,
+  "warning_en": "He told his family repeatedly in the months before his death that he feared for his safety and wanted out of the project.",
+  "warning_fr": "Il a dit à plusieurs reprises à sa famille, dans les mois précédant sa mort, qu’il craignait pour sa sécurité et voulait quitter le projet.",
+  "ruling_en": "Suicide by hanging (coroner’s inquest, July 2013).",
+  "ruling_fr": "Suicide par pendaison (enquête du coroner, juillet 2013).",
+  "summary_en": "Todd worked on gallium nitride — a semiconductor with both commercial and military uses — at a Singaporean state institute, on a proposed project with Huawei. He was found hanged two days after leaving the job. A coroner ruled suicide; his parents maintain he was killed over the technology transfer and walked out of the inquest.",
+  "summary_fr": "Todd travaillait sur le nitrure de gallium — un semi-conducteur à usage civil et militaire — dans un institut d’État singapourien, sur un projet envisagé avec Huawei. Il a été retrouvé pendu deux jours après avoir quitté son poste. Le coroner a conclu au suicide ; ses parents soutiennent qu’il a été tué à cause du transfert de technologie et ont quitté l’audience.",
+  "detail_en": [
+    "Todd, a Montana-born engineer with a doctorate from UC Santa Barbara, joined Singapore’s Institute of Microelectronics in 2010. His parents say he became increasingly distressed about a proposed GaN power-amplifier project between the state institute and Huawei, which he believed amounted to transferring militarily sensitive technology to China.",
+    "He resigned, and was found hanged in his apartment two days later. His parents flew to Singapore, disputed the scene as staged, and produced a hard drive they said held project documents.",
+    "The inquest, held in 2013, heard evidence of suicide notes on his laptop, a psychiatrist’s testimony that he suffered from depression, and browsing history for suicide methods. Judge Chay Yuen Fatt ruled suicide and found that the GaN project had never materialised and would not have breached export controls in any case. The parents had already withdrawn from the proceedings, saying they had lost confidence in it."
+  ],
+  "detail_fr": [
+    "Todd, ingénieur né dans le Montana et docteur de UC Santa Barbara, rejoint l’Institute of Microelectronics de Singapour en 2010. Ses parents affirment qu’il s’inquiétait de plus en plus d’un projet d’amplificateur de puissance GaN entre l’institut d’État et Huawei, qu’il estimait revenir à transférer une technologie militairement sensible à la Chine.",
+    "Il démissionne et est retrouvé pendu chez lui deux jours plus tard. Ses parents se rendent à Singapour, contestent une scène selon eux mise en scène, et produisent un disque dur contenant selon eux des documents du projet.",
+    "L’enquête de 2013 entend des éléments : notes de suicide sur son ordinateur, témoignage d’un psychiatre sur sa dépression, historique de navigation sur des méthodes de suicide. Le juge Chay Yuen Fatt conclut au suicide et estime que le projet GaN ne s’est jamais concrétisé et n’aurait de toute façon pas violé les contrôles à l’exportation. Les parents s’étaient déjà retirés de la procédure, disant avoir perdu confiance."
+  ],
+  "disputed_en": [
+    "The two-day gap between resigning from a project he feared and being found dead.",
+    "His family’s account of repeated, specific statements of fear in the preceding months.",
+    "The family’s objections to the scene as documented by Singapore police."
+  ],
+  "disputed_fr": [
+    "Les deux jours entre sa démission d’un projet qui l’effrayait et la découverte de son corps.",
+    "Le récit familial de déclarations de peur répétées et précises dans les mois précédents.",
+    "Les objections de la famille sur la scène telle que documentée par la police singapourienne."
+  ],
+  "holds_en": [
+    "Documented clinical depression and treatment.",
+    "Notes on his own laptop and search history consistent with the finding.",
+    "The judge found the GaN project never proceeded past initial discussions — a point Huawei and Singapore both confirmed."
+  ],
+  "holds_fr": [
+    "Dépression clinique documentée et suivie.",
+    "Notes sur son propre ordinateur et historique de recherche compatibles avec la conclusion.",
+    "Le juge a établi que le projet GaN n’a pas dépassé les discussions initiales — point confirmé par Huawei comme par Singapour."
+  ],
+  "sources": [
+    { "t": "Singapore inquest finds US engineer committed suicide — CNN", "u": "https://www.cnn.com/2013/07/07/world/asia/singapore-shane-todd-case/index.html" },
+    { "t": "Singapore rules US engineer killed himself — Al Jazeera", "u": "https://www.aljazeera.com/news/2013/7/8/singapore-rules-us-engineer-killed-himself" }
+  ],
+  "related": ["suchir-balaji"]
+},
+{
+  "slug": "robert-boulin",
+  "name": "Robert Boulin",
+  "born": "1920", "died": "1979-10-30", "age": 59,
+  "country": "FR", "place_en": "Rambouillet forest, Yvelines", "place_fr": "Forêt de Rambouillet (Yvelines)",
+  "role_en": "French Minister of Labour, tipped for prime minister",
+  "role_fr": "Ministre du Travail, pressenti pour Matignon",
+  "category": "suicide-doubt", "status": "contested",
+  "sectors": ["politics"],
+  "featured": false, "updated": "2026-08-20",
+  "warned": false,
+  "ruling_en": "Suicide by drowning after taking barbiturates; farewell letters were received by press and family.",
+  "ruling_fr": "Suicide par noyade après absorption de barbituriques ; des lettres d’adieu sont parvenues à la presse et à la famille.",
+  "summary_en": "A sitting French cabinet minister was found face down in 50 centimetres of water in a forest pond at the height of a press campaign against him. The autopsy was widely judged inadequate, unexplained facial injuries were never accounted for, and new witnesses came forward three decades later.",
+  "summary_fr": "Un ministre français en exercice a été retrouvé face contre terre dans 50 centimètres d’eau, dans un étang de forêt, au plus fort d’une campagne de presse contre lui. L’autopsie a été largement jugée insuffisante, des blessures au visage n’ont jamais été expliquées, et de nouveaux témoins se sont manifestés trente ans plus tard.",
+  "detail_en": [
+    "Boulin was one of the most senior figures of the French right and was widely expected to be appointed prime minister. He was being pursued by a press campaign over a land purchase at Ramatuelle, which he insisted was a set-up.",
+    "On 30 October 1979 his body was found in the Étang Rompu in the Rambouillet forest, in roughly 50 centimetres of water. Investigators concluded suicide by drowning after barbiturates; farewell letters arrived at newspapers.",
+    "His family, represented by Jacques Vergès, filed a complaint in 1983. Nine years of judicial investigation ended in a dismissal in 1992, upheld on appeal. In the 2000s, journalist Benoît Collombat located two further witnesses who gave detailed testimony to the investigating magistrate contradicting the statements cited by investigators in 1979."
+  ],
+  "detail_fr": [
+    "Boulin était l’une des figures les plus importantes de la droite française et était largement pressenti pour Matignon. Il était visé par une campagne de presse sur un achat de terrain à Ramatuelle, qu’il affirmait être un montage.",
+    "Le 30 octobre 1979, son corps est retrouvé dans l’étang Rompu, en forêt de Rambouillet, dans environ 50 centimètres d’eau. Les enquêteurs concluent au suicide par noyade après absorption de barbituriques ; des lettres d’adieu arrivent dans les rédactions.",
+    "Sa famille, représentée par Jacques Vergès, dépose plainte en 1983. Neuf ans d’instruction aboutissent à un non-lieu en 1992, confirmé en appel. Dans les années 2000, le journaliste Benoît Collombat retrouve deux témoins supplémentaires qui livrent au juge d’instruction des témoignages détaillés contredisant ceux cités par les enquêteurs en 1979."
+  ],
+  "disputed_en": [
+    "A grown man found drowned in about 50 cm of water.",
+    "Facial injuries recorded but never explained.",
+    "An autopsy widely criticised as cursory; missing exhibits.",
+    "New witness testimony three decades later contradicting the 1979 record."
+  ],
+  "disputed_fr": [
+    "Un homme adulte retrouvé noyé dans environ 50 cm d’eau.",
+    "Des blessures au visage constatées mais jamais expliquées.",
+    "Une autopsie largement critiquée comme expéditive ; des scellés manquants.",
+    "De nouveaux témoignages trente ans plus tard, contredisant le dossier de 1979."
+  ],
+  "holds_en": [
+    "Farewell letters in his own hand were received by several recipients.",
+    "He was under a public campaign that he described in those letters as unbearable."
+  ],
+  "holds_fr": [
+    "Des lettres d’adieu de sa main sont parvenues à plusieurs destinataires.",
+    "Il subissait une campagne publique qu’il décrivait dans ces lettres comme insupportable."
+  ],
+  "sources": [
+    { "t": "Affaire Robert Boulin — Wikipédia", "u": "https://fr.wikipedia.org/wiki/Affaire_Robert_Boulin" },
+    { "t": "« Il ne s’agit pas d’un suicide, mais d’un crime » — ici (France Bleu / France 3)", "u": "https://www.ici.fr/infos/faits-divers-justice/mort-de-robert-boulin-il-y-a-45-ans-il-ne-s-agit-pas-d-un-suicide-mais-d-un-crime-cinq-temoignages-pour-comprendre-1943507" }
+  ],
+  "related": ["francois-de-grossouvre", "yann-piat"]
+},
+{
+  "slug": "francois-de-grossouvre",
+  "name": "François de Grossouvre",
+  "born": "1918", "died": "1994-04-07", "age": 76,
+  "country": "FR", "place_en": "Élysée Palace, Paris", "place_fr": "Palais de l’Élysée, Paris",
+  "role_en": "President Mitterrand’s adviser on national security and reserved affairs",
+  "role_fr": "Conseiller du président Mitterrand pour la sécurité nationale et les affaires réservées",
+  "category": "suicide-doubt", "status": "contested",
+  "sectors": ["politics", "intelligence"],
+  "featured": false, "updated": "2026-08-20",
+  "warned": false,
+  "ruling_en": "Suicide by gunshot (.357 Magnum), in his office at the Élysée Palace.",
+  "ruling_fr": "Suicide par arme à feu (.357 Magnum), dans son bureau du palais de l’Élysée.",
+  "summary_en": "For thirteen years Grossouvre handled Mitterrand’s most sensitive files — African networks, intelligence liaison, personal secrets. He was found shot dead in his own office inside the presidential palace. The investigation closed quickly; his family have contested it ever since.",
+  "summary_fr": "Pendant treize ans, Grossouvre a traité les dossiers les plus sensibles de Mitterrand — réseaux africains, liaison avec le renseignement, secrets personnels. Il a été retrouvé mort par balle dans son propre bureau au palais présidentiel. L’enquête a été close rapidement ; sa famille la conteste depuis.",
+  "detail_en": [
+    "Grossouvre was appointed in 1981 to oversee national security matters and became the keeper of the Mitterrand presidency’s most sensitive relationships. By 1994 he had been progressively sidelined and was reported to be bitter about it.",
+    "On the evening of 7 April 1994 he was found dead in his office at the Élysée with a gunshot wound. The official account is suicide driven by his loss of standing.",
+    "His family and several people who saw him shortly beforehand dispute that version, citing material inconsistencies and an investigation they say was closed within days. No judicial reopening has succeeded."
+  ],
+  "detail_fr": [
+    "Nommé en 1981 pour superviser les questions de sécurité nationale, Grossouvre devint le dépositaire des relations les plus sensibles de la présidence Mitterrand. En 1994, il avait été progressivement mis à l’écart et en éprouvait, selon les témoignages, de l’amertume.",
+    "Le soir du 7 avril 1994, il est retrouvé mort dans son bureau de l’Élysée, tué par balle. La version officielle est celle d’un suicide provoqué par sa disgrâce.",
+    "Sa famille et plusieurs personnes qui l’avaient vu peu avant contestent cette version, en invoquant des incohérences matérielles et une enquête close, selon eux, en quelques jours. Aucune réouverture judiciaire n’a abouti."
+  ],
+  "disputed_en": [
+    "The investigation was closed within days, in a building with continuous security presence.",
+    "The family reports material inconsistencies in the scene as recorded.",
+    "He held, by function, the most compromising files of a two-term presidency."
+  ],
+  "disputed_fr": [
+    "L’enquête a été close en quelques jours, dans un bâtiment sous surveillance permanente.",
+    "La famille fait état d’incohérences matérielles dans la scène telle que consignée.",
+    "Il détenait, par fonction, les dossiers les plus compromettants de deux septennats."
+  ],
+  "holds_en": [
+    "His marginalisation at the Élysée was real and documented by multiple witnesses.",
+    "No forensic finding has ever contradicted the suicide conclusion in a published document."
+  ],
+  "holds_fr": [
+    "Sa marginalisation à l’Élysée était réelle et documentée par plusieurs témoins.",
+    "Aucun constat médico-légal publié n’a jamais contredit la conclusion de suicide."
+  ],
+  "sources": [
+    { "t": "Suicide de François de Grossouvre — Wikipédia", "u": "https://fr.wikipedia.org/wiki/Suicide_de_Fran%C3%A7ois_de_Grossouvre" },
+    { "t": "Affaire Grossouvre : un docu-enquête sur une mort à l’Élysée — franceinfo", "u": "https://www.franceinfo.fr/economie/medias/video-affaire-grossouvre-un-docu-enquete-sur-une-mort-a-l-elysee_248631.html" }
+  ],
+  "related": ["robert-boulin"]
+},
+{
+  "slug": "nikolai-mushegian",
+  "name": "Nikolai Mushegian",
+  "born": "1993", "died": "2022-10-28", "age": 29,
+  "country": "PR", "place_en": "Condado beach, San Juan", "place_fr": "Plage de Condado, San Juan",
+  "role_en": "MakerDAO co-founder and stablecoin pioneer",
+  "role_fr": "Cofondateur de MakerDAO et pionnier des stablecoins",
+  "category": "suicide-doubt", "status": "contested",
+  "sectors": ["finance"],
+  "featured": false, "updated": "2026-08-20",
+  "warned": true,
+  "warning_en": "About four hours before he died he posted: “CIA and Mossad and pedo elite are running some kind of sex trafficking entrapment blackmail ring out of Puerto Rico… They will torture me to death.”",
+  "warning_fr": "Environ quatre heures avant sa mort, il publiait : « La CIA, le Mossad et l’élite pédocriminelle font tourner une sorte de réseau de piégeage et de chantage à Porto Rico… Ils vont me torturer à mort. »",
+  "ruling_en": "Accidental drowning, caught in currents. San Juan police found no indication of foul play.",
+  "ruling_fr": "Noyade accidentelle, emporté par les courants. La police de San Juan n’a relevé aucun indice d’acte criminel.",
+  "summary_en": "Mushegian drowned off a San Juan beach hours after publishing a message predicting that intelligence services would kill him. Police found no evidence of foul play — and his own family, citing a documented history of mental illness, does not believe the tweet was connected to his death.",
+  "summary_fr": "Mushegian s’est noyé au large d’une plage de San Juan quelques heures après avoir publié un message annonçant que des services de renseignement allaient le tuer. La police n’a trouvé aucun élément criminel — et sa propre famille, invoquant des troubles psychiatriques documentés, ne croit pas que ce message ait un lien avec sa mort.",
+  "detail_en": [
+    "Mushegian co-founded MakerDAO and was one of the architects of the DAI stablecoin. In the months before his death he had become increasingly isolated and was publishing claims of surveillance and conspiracy.",
+    "On 28 October 2022 he posted the message quoted above. Roughly four hours later he was pulled from the water at Condado beach, a stretch known for dangerous currents. The cause of death was drowning.",
+    "This case is graded contested only because of the timing of the message. The evidentiary weight runs the other way: the police found nothing, and the family — who had visibility on his health — reject the conspiracy reading. It is included as a deliberate counter-example: a stated warning before death is not, on its own, evidence of homicide."
+  ],
+  "detail_fr": [
+    "Mushegian a cofondé MakerDAO et fut l’un des architectes du stablecoin DAI. Dans les mois précédant sa mort, il s’était isolé et publiait des affirmations de surveillance et de complot.",
+    "Le 28 octobre 2022, il publie le message cité plus haut. Environ quatre heures après, il est repêché à la plage de Condado, connue pour ses courants dangereux. La cause de la mort est la noyade.",
+    "Ce cas est noté « contesté » uniquement à cause du calendrier du message. Le poids des preuves va dans l’autre sens : la police n’a rien trouvé, et la famille — qui connaissait son état de santé — rejette la lecture complotiste. Il figure ici à titre de contre-exemple délibéré : un avertissement énoncé avant la mort n’est pas, à lui seul, la preuve d’un homicide."
+  ],
+  "disputed_en": [
+    "The four-hour gap between a public prediction of being killed and death."
+  ],
+  "disputed_fr": [
+    "Les quatre heures entre l’annonce publique de sa mise à mort et son décès."
+  ],
+  "holds_en": [
+    "Police investigation found no indication of foul play.",
+    "His family does not suspect foul play and points to a documented history of mental-health problems.",
+    "Condado beach has known dangerous currents and a record of drownings."
+  ],
+  "holds_fr": [
+    "L’enquête de police n’a relevé aucun indice d’acte criminel.",
+    "Sa famille ne soupçonne pas de crime et évoque des troubles psychiatriques documentés.",
+    "La plage de Condado est connue pour ses courants dangereux et ses noyades."
+  ],
+  "sources": [
+    { "t": "No evidence of foul play, police say — Decrypt", "u": "https://decrypt.co/113602/makerdao-co-founder-death-nikolai-mushegian" },
+    { "t": "Early MakerDAO developer found dead — CoinDesk", "u": "https://www.coindesk.com/business/2022/11/01/early-makerdao-developer-and-stablecoin-pioneer-found-dead-in-puerto-rico" }
+  ],
+  "related": ["crypto-executives-2022"]
+},
+{
+  "slug": "amy-eskridge",
+  "name": "Amy Eskridge",
+  "born": "1988", "died": "2022-06-11", "age": 34,
+  "country": "US", "place_en": "Huntsville, Alabama", "place_fr": "Huntsville (Alabama)",
+  "role_en": "Propulsion researcher, co-founder of the Institute for Exotic Science",
+  "role_fr": "Chercheuse en propulsion, cofondatrice de l’Institute for Exotic Science",
+  "category": "suicide-doubt", "status": "contested",
+  "sectors": ["aerospace", "physics"],
+  "featured": true, "updated": "2026-08-20",
+  "warned": true,
+  "warning_en": "On 13 May 2022 she messaged a business partner: “If you see any report that I [killed] myself, I most definitely did not… The dominos are all being lined up all over again now.” She died 29 days later.",
+  "warning_fr": "Le 13 mai 2022, elle écrit à son associé : « Si vous lisez un rapport disant que je me suis suicidée, ce n’est absolument pas le cas… Les dominos sont de nouveau en train d’être alignés. » Elle meurt 29 jours plus tard.",
+  "ruling_en": "Self-inflicted gunshot wound. No investigative report has been released publicly by police or the medical examiner.",
+  "ruling_fr": "Blessure par arme à feu auto-infligée. Aucun rapport d’enquête n’a été rendu public par la police ni par le médecin légiste.",
+  "summary_en": "Eskridge worked on experimental propulsion concepts in Huntsville, the home of NASA’s Marshall Space Flight Center. A month before she died she sent a dated message telling a colleague not to believe a suicide report. She was found dead of a gunshot wound; no investigative file has ever been published. Her own family accepts the suicide finding.",
+  "summary_fr": "Eskridge travaillait sur des concepts de propulsion expérimentale à Huntsville, siège du Marshall Space Flight Center de la NASA. Un mois avant sa mort, elle envoie un message daté demandant à un collègue de ne pas croire à un suicide. Elle est retrouvée morte par balle ; aucun dossier d’enquête n’a jamais été publié. Sa propre famille accepte la conclusion de suicide.",
+  "detail_en": [
+    "Eskridge co-founded the Institute for Exotic Science with her father, a retired NASA engineer, and described her work as experimental propulsion — what she called antigravity research. She had held a NASA innovation fellowship earlier in her career.",
+    "In the months before her death she described being followed by vehicles with changing plates and alleged directed-energy attacks — allegations that are unverifiable and read, on their face, as distress. But on 13 May 2022 she also put a specific, dated, written denial on the record with a business partner.",
+    "She died on 11 June 2022 of a single gunshot wound to the head. Neither the police nor the medical examiner has released an investigative report. Her family attributes her death to chronic pain and rejects conspiracy readings. In 2026 her case was folded into the federal review of scientist deaths coordinated by the FBI."
+  ],
+  "detail_fr": [
+    "Eskridge a cofondé l’Institute for Exotic Science avec son père, ingénieur retraité de la NASA, et décrivait son travail comme de la propulsion expérimentale — ce qu’elle appelait de la recherche antigravité. Elle avait obtenu plus tôt une bourse d’innovation de la NASA.",
+    "Dans les mois précédant sa mort, elle a décrit être suivie par des véhicules aux plaques changeantes et allégué des attaques par énergie dirigée — allégations invérifiables et qui évoquent, telles quelles, une grande détresse. Mais le 13 mai 2022, elle a aussi consigné un démenti écrit, précis et daté, auprès d’un associé.",
+    "Elle meurt le 11 juin 2022 d’une balle unique dans la tête. Ni la police ni le médecin légiste n’ont publié de rapport. Sa famille attribue sa mort à des douleurs chroniques et rejette les lectures complotistes. En 2026, son dossier a été intégré à la revue fédérale des morts de scientifiques coordonnée par le FBI."
+  ],
+  "disputed_en": [
+    "A written, dated statement 29 days before her death explicitly denying that a future suicide report would be true.",
+    "No investigative report from police or the medical examiner has ever been made public.",
+    "Documented reports to associates of being followed."
+  ],
+  "disputed_fr": [
+    "Une déclaration écrite et datée 29 jours avant sa mort, niant explicitement la véracité d’un futur rapport de suicide.",
+    "Aucun rapport d’enquête de la police ni du légiste n’a jamais été rendu public.",
+    "Des signalements documentés, auprès de proches, d’être suivie."
+  ],
+  "holds_en": [
+    "Her immediate family accepts the suicide finding and cites chronic pain.",
+    "Her other claims in the same period — directed-energy weapons aimed at her from a vehicle — are unverifiable and indicate severe distress."
+  ],
+  "holds_fr": [
+    "Sa famille proche accepte la conclusion de suicide et évoque des douleurs chroniques.",
+    "Ses autres affirmations de la même période — armes à énergie dirigée pointées sur elle depuis un véhicule — sont invérifiables et signalent une détresse sévère."
+  ],
+  "sources": [
+    { "t": "Who is Amy Eskridge? — Newsweek", "u": "https://www.newsweek.com/who-is-amy-eskridge-scientist-death-queried-us-expert-mysteries-11843659" },
+    { "t": "The Huntsville mystery — Newsweek", "u": "https://www.newsweek.com/huntsville-mystery-are-two-dead-scientists-same-town-connected-11869617" },
+    { "t": "11th scientist death emerges — Fox News", "u": "https://www.foxnews.com/politics/11th-scientist-death-emerges-string-missing-dead-officials-access-us-secrets" }
+  ],
+  "related": ["ning-li", "missing-scientists-2026", "matthew-sullivan"]
+},
+{
+  "slug": "jeffrey-bradstreet",
+  "name": "Jeffrey Bradstreet",
+  "born": "1954", "died": "2015-06-19", "age": 60,
+  "country": "US", "place_en": "Rocky Broad River, North Carolina", "place_fr": "Rivière Rocky Broad (Caroline du Nord)",
+  "role_en": "Physician who treated autistic children with the unapproved compound GcMAF",
+  "role_fr": "Médecin traitant des enfants autistes avec le composé non homologué GcMAF",
+  "category": "suicide-doubt", "status": "contested",
+  "sectors": ["medicine"],
+  "featured": false, "updated": "2026-08-20",
+  "warned": false,
+  "ruling_en": "Suicide by gunshot wound to the chest; body recovered from a river.",
+  "ruling_fr": "Suicide par balle dans la poitrine ; corps repêché dans une rivière.",
+  "summary_en": "Bradstreet was found in a river with a gunshot wound to the chest one day after federal agents searched his Georgia clinic over his use of GcMAF. Investigators ruled suicide; his family hired independent forensic analysts who suspect foul play. His practice was also facing severe legal and financial exposure.",
+  "summary_fr": "Bradstreet a été retrouvé dans une rivière, une balle dans la poitrine, le lendemain d’une perquisition fédérale de sa clinique en Géorgie visant son usage du GcMAF. Les enquêteurs ont conclu au suicide ; sa famille a mandaté des experts indépendants qui soupçonnent un acte criminel. Son cabinet faisait par ailleurs face à une exposition juridique et financière majeure.",
+  "detail_en": [
+    "Bradstreet was a prominent figure in the anti-vaccine movement and treated more than 11,000 autistic children with GcMAF, a protein preparation with no approved therapeutic use. The UK regulator had already raided the manufacturer months earlier.",
+    "On 18 June 2015 the FDA executed a search warrant at his Buford, Georgia clinic. He was found dead the next day in the Rocky Broad River in North Carolina, with a gunshot wound to the chest.",
+    "Investigators ruled suicide. His family raised funds for an independent forensic review and say it points to foul play. The competing explanation is straightforward and equally consistent: three GcMAF studies were retracted, the compound is regarded as dangerous and unproven, and he was facing criminal and financial ruin."
+  ],
+  "detail_fr": [
+    "Bradstreet était une figure importante du mouvement anti-vaccinal et traitait plus de 11 000 enfants autistes au GcMAF, une préparation protéique sans usage thérapeutique homologué. Le régulateur britannique avait déjà perquisitionné le fabricant quelques mois plus tôt.",
+    "Le 18 juin 2015, la FDA exécute un mandat de perquisition dans sa clinique de Buford, en Géorgie. Il est retrouvé mort le lendemain dans la rivière Rocky Broad, en Caroline du Nord, une balle dans la poitrine.",
+    "Les enquêteurs concluent au suicide. Sa famille a financé une contre-expertise médico-légale qui, selon elle, oriente vers un acte criminel. L’explication concurrente est simple et tout aussi cohérente : trois études sur le GcMAF ont été rétractées, le produit est jugé dangereux et sans preuve, et il faisait face à une ruine pénale et financière."
+  ],
+  "disputed_en": [
+    "A gunshot to the chest, rather than the head, is a less common suicide presentation.",
+    "The death came the day after a federal raid.",
+    "Independent forensic analysts retained by the family dispute the ruling."
+  ],
+  "disputed_fr": [
+    "Une balle dans la poitrine, plutôt que la tête, est une présentation moins courante de suicide.",
+    "La mort survient le lendemain d’une perquisition fédérale.",
+    "Des experts indépendants mandatés par la famille contestent la conclusion."
+  ],
+  "holds_en": [
+    "The raid gave him an immediate, concrete motive: imminent prosecution and the collapse of his practice.",
+    "No suspect, entry point or physical evidence of a third party has been produced."
+  ],
+  "holds_fr": [
+    "La perquisition lui donnait un mobile immédiat et concret : poursuites imminentes et effondrement de son cabinet.",
+    "Aucun suspect, aucun point d’entrée, aucune preuve matérielle de tiers n’a été produit."
+  ],
+  "sources": [
+    { "t": "Anti-vaccine doctor found dead, family cries foul — Washington Post", "u": "https://www.washingtonpost.com/news/morning-mix/wp/2015/06/29/anti-vaccine-doctor-behind-dangerous-autism-therapy-found-dead-family-cries-foul/" },
+    { "t": "Conspiracy fears dominate life and death of Bradstreet — Forbes", "u": "https://www.forbes.com/sites/emilywillingham/2015/07/20/conspiracy-fears-dominate-life-and-death-of-autism-doctor-bradstreet/" },
+    { "t": "Questions surround death of controversial physician — Medscape", "u": "https://www.medscape.com/viewarticle/847772" }
+  ],
+  "related": []
+}
+]

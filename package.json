@@ -1,0 +1,9 @@
+{
+  "name": "suspiciousdeaths",
+  "version": "1.0.0",
+  "private": true,
+  "description": "suspiciousdeathsinthe.world — sourced database of suspicious deaths of public figures, scientists, engineers and whistleblowers",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.19.2" }
+}
